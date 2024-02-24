@@ -5,7 +5,7 @@ permalink: /cyberscitech/organization/
 ---
 
 
-<h3>CyberSciTech 2022 Organizing Committee</h3>
+<h3>CyberSciTech 2024 Organizing Committee</h3>
 <hr/>
 
 <h4> Honorary Chairs </h4>

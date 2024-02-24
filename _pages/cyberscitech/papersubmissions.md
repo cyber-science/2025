@@ -4,7 +4,7 @@ layout: subcst2
 permalink: /cyberscitech/papersubmissions/
 ---
 
-<h3>Paper Submissions - IEEE CyberSciTech 2022</h3>
+<h3>Paper Submissions - IEEE CyberSciTech 2024</h3>
 
 <hr/>
 <p>

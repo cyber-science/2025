@@ -5,7 +5,7 @@ permalink: /picom/tpc/
 ---
 
 
-<h3>PICom 2022 Technical Program Committee</h3>
+<h3>PICom 2024 Technical Program Committee</h3>
 <hr/>
 
 Marcelo Alves, Federal University of Rio de Janeiro<br/>

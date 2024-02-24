@@ -4,7 +4,7 @@ layout: subdasc2
 permalink: /dasc/papersubmission/
 ---
 
-<h3>Submission and Publication - IEEE DASC 2022</h3>
+<h3>Submission and Publication - IEEE DASC 2024</h3>
 
 <hr/>
 <p>

@@ -4,7 +4,7 @@ layout: subcbd2
 permalink: /cbdcom/callpaper/
 ---
 
-<h3>Call For Papers - IEEE CBDCom 2022 Tracks and Topics</h3>
+<h3>Call For Papers - IEEE CBDCom 2024 Tracks and Topics</h3>
 
 <hr/>
 

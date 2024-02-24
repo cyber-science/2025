@@ -6,4 +6,3 @@ permalink: /demosposters/
 
 <h2>Call for Demos and Posters </h2>
 <hr/>
-To be announced soon.

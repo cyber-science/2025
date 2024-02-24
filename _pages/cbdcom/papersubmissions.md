@@ -5,7 +5,7 @@ permalink: /cbdcom/papersubmissions/
 ---
 
 
-<h3>Paper Submissions - IEEE CBDCom 2022</h3>
+<h3>Paper Submissions - IEEE CBDCom 2024</h3>
 
 <hr/>
 <p>

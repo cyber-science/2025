@@ -4,7 +4,7 @@ layout: subpi2
 permalink: /picom/papersubmissions/
 ---
 
-<h3>Paper Submissions - PICom 2022</h3>
+<h3>Paper Submissions - PICom 2024</h3>
 
 <hr/>
 <p>
