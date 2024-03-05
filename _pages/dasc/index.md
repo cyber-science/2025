@@ -7,7 +7,7 @@ permalink: /dasc/
 <div class="row">
 <div class="col-md-10 mb-5">
 
-<h4>November 5-8, 2024 - Physical Conference - Boracay, Philippines</h4>
+<h4>November 5-8, 2024 - Boracay, Philippines</h4>
 <hr/>
 
 <p>As computer and communication systems as well as other systems such as Cyber-Physical Systems (CPS), Internet of Things (IoT), Autonomous Robotic Systems become increasingly large and complex, their Dependability and Security play critical role at supporting next-generation science, engineering, and commercial applications. It remains a challenge to design, analyze, evaluate, and improve the dependability and security for a trusted computing environment. Trusted computing targets computing systems as well as services that are dependable, secure, protectable, predictable, traceable, controllable, autonomous, and sustainable.</p>
