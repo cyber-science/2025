@@ -11,7 +11,7 @@ permalink: /picom/organization/
 TBA
 
 <h4>General Chair</h4>
-Flavia C. Delicato, Fluminense Federal University, Brazil
+Flavia C. Delicato, Fluminense Federal University, Brazil<br>
 Antonio Guerrieri, ICAR-CNR, Italy
 
 <h4>General co-Chair</h4>
