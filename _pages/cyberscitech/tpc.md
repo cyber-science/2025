@@ -1,10 +1,10 @@
 ---
 title: Technical Program Committee
-layout: subdasc2
-permalink: /dasc/tpc/
+layout: cyberscitech2
+permalink: /cyberscitech/tpc/
 ---
 
-<h3>DASC 2024 Technical Program Committee</h3>
+<h3>CyberSciTech 2024 Technical Program Committee</h3>
 TBA
 
 

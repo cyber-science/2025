@@ -1,10 +1,10 @@
 ---
 title: Technical Program Committee
-layout: subdasc2
-permalink: /dasc/tpc/
+layout: subcbdcom2
+permalink: /cbdcom/tpc/
 ---
 
-<h3>DASC 2024 Technical Program Committee</h3>
+<h3>CBDCom 2024 Technical Program Committee</h3>
 TBA
 
 

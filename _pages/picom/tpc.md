@@ -7,7 +7,8 @@ permalink: /picom/tpc/
 
 <h3>PICom 2024 Technical Program Committee</h3>
 <hr/>
-
+TBA
+<!-- 
 Marcelo Alves, Federal University of Rio de Janeiro<br/>
 Md Amiruzzaman, West Chester University<br/>
 Ali Balador, RISE SICS VASTERAS<br/>
@@ -42,4 +43,4 @@ Luigi Scarcello, ICAR-CNR<br/>
 Giandomenico Spezzano, ICAR-CNR<br/>
 Tullio Vardanega, University of Padua<br/>
 Shige Wang, GM R&D<br/>
-Martine Wedlake, IBM, USA
+Martine Wedlake, IBM, USA -->
