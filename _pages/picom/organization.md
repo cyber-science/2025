@@ -37,3 +37,6 @@ Jianhua Ma, Hosei University (Japan)<br/>
 Laurence T. Yang, St. Francis Xavier Univ. (Canada)<br/>
 Adnan Al-Anbuky, Auckland U Tech. (New Zealand)<br/>
 Flavia C. Delicato, Fluminense Federal University (Brazil)
+
+<h4>Advisory Committee</h4>
+TBA 
