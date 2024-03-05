@@ -4,4 +4,4 @@ layout: sub
 permalink: /socialevent/
 --- 
 
-To be announced soon.
+TBA
