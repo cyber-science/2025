@@ -38,13 +38,13 @@ Tadashi Dohi, Hiroshima University (Japan)<br/>
 Md Zakirul Alam Bhuiyan, Fordham University (USA)
 
 <h4>Advisory Committee</h4>
-Mohammed Atiquzzaman, Univ. of Oklahoma, USA<br/>
-Davide Bacciu, University of Pisa, Italy<br/>
-Yi Chang, Jilin University, China<br/>
-Nobuyasu Kanekawa, Hitachi, Ltd., Japan<br/>
-Sy-Yen Kuo, National Taiwan University, Taiwan<br/>
-Irwin King, The Chinese University of Hong Kong,China<br/>
-Jiming Liu, Hong Kong Baptist University, China<br/>
-Tatsuhiro Tsuchiya, Osaka University, Japan<br/>
-Wei Wang, University of New South Wales, Australia<br/>
-Ji-Rong Wen, Renmin University of China, China	
+Mohammed Atiquzzaman, Univ. of Oklahoma (USA)<br/>
+Davide Bacciu, University of Pisa (Italy)<br/>
+Yi Chang, Jilin University (China)<br/>
+Nobuyasu Kanekawa, Hitachi, Ltd. (Japan)<br/>
+Sy-Yen Kuo, National Taiwan University (Taiwan)<br/>
+Irwin King, The Chinese University of Hong Kong (Hong Kong)<br/>
+Jiming Liu, Hong Kong Baptist University (Hong Kong)<br/>
+Tatsuhiro Tsuchiya, Osaka University (Japan)<br/>
+Wei Wang, University of New South Wales (Australia)<br/>
+Ji-Rong Wen, Renmin University of China (China)	

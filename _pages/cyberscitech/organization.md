@@ -67,27 +67,27 @@ Bernady O. Apduhan, Kyushu Sangyo University (Japan)<br/>
 Giancarlo Fortino, University of Calabria (Italy)
 
 <h4> Advisory Committee </h4>
-Julien Bourgeois, UBFC/FEMTO-ST Institute/CNRS, France<br/>
-Zhong Chen, Peking University, China<br/>
-Raymond Choo, The Univ. of Texas at San Antonio, USA<br/>
-Tadashi Dohi, Hiroshima University, Japan<br/>
-Song Guo, Hong Kong Polytechnic University, Hong Kong<br/>
-Keiichi Iwamura, The Tokyo University of Science, Japan<br/>
-Seungcheon Kim, Hansung University, Korea<br/>
-Jianwei Liu, Beihang University, China<br/>
-Zhen Liu, Nagasaki Institute of Applied Science, Japan <br/>
-Huansheng Ning, Univ. of Sci. and Tech. Beijing, China<br/>
-Klimis Ntalianis, Univ. of West Attica, Greece<br/>
-Yi Pan, Georgia State University, USA<br/>
-Kouichi Sakurai, Kyushu University, Japan<br/>
-Zhou Su, Xi'an Jiaotong University, China<br/>
-Zhixin Sun, Nanjing University of Posts & Telecom., China<br/>
-Nicolas Tsapatsoulis, Cyprus Univ. of Tech, Cyprus<br/>
-Kevin I-Kai Wang, The University of Auckland, New Zealand<br/>
-Feng Xia, Dalian University of Technology, China<br/>
-Jianwei Yin, Zhejiang University, China<br/>
-Qiang Zhang, Dalian University of Technology, China<br/>
-Yanchun Zhang, Victoria University, Australia<br/>
-Qiangfu Zhao, The University of Aizu, Japan<br/>
-Qingguo Zhou, Lanzhou University, China
+Julien Bourgeois, UBFC/FEMTO-ST Institute/CNRS (France)<br/>
+Zhong Chen, Peking University (China)<br/>
+Raymond Choo, The Univ. of Texas at San Antonio (USA)<br/>
+Tadashi Dohi, Hiroshima University (Japan)<br/>
+Song Guo, Hong Kong Polytechnic University (Hong Kong)<br/>
+Keiichi Iwamura, The Tokyo University of Science (Japan)<br/>
+Seungcheon Kim, Hansung University (Korea)<br/>
+Jianwei Liu, Beihang University (China)<br/>
+Zhen Liu, Nagasaki Institute of Applied Science (Japan)<br/>
+Huansheng Ning, Univ. of Sci. and Tech. Beijing (China)<br/>
+Klimis Ntalianis, Univ. of West Attica (Greece)<br/>
+Yi Pan, Georgia State University (USA)<br/>
+Kouichi Sakurai, Kyushu University (Japan)<br/>
+Zhou Su, Xi'an Jiaotong University (China)<br/>
+Zhixin Sun, Nanjing University of Posts & Telecom. (China)<br/>
+Nicolas Tsapatsoulis, Cyprus Univ. of Tech (Cyprus)<br/>
+Kevin I-Kai Wang, The University of Auckland (New Zealand)<br/>
+Feng Xia, Dalian University of Technology (China)<br/>
+Jianwei Yin, Zhejiang University (China)<br/>
+Qiang Zhang, Dalian University of Technology (China)<br/>
+Yanchun Zhang, Victoria University (Australia)<br/>
+Qiangfu Zhao, The University of Aizu (Japan)<br/>
+Qingguo Zhou, Lanzhou University (China)
  
