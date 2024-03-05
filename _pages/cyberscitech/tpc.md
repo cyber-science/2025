@@ -1,6 +1,6 @@
 ---
 title: Technical Program Committee
-layout: cyberscitech2
+layout: subcst2
 permalink: /cyberscitech/tpc/
 ---
 

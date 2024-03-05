@@ -1,6 +1,6 @@
 ---
 title: Technical Program Committee
-layout: subcbdcom2
+layout: subcbd2
 permalink: /cbdcom/tpc/
 ---
 
