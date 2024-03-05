@@ -8,30 +8,28 @@ permalink: /dasc/organization/
 <hr/>
 
 <h4>Honorary Chair</h4>
-Xiang Yang, Swinburne University of Technology (Australia)<br/>
+TBA
 
 <h4>General Chair</h4>
-Raymond Choo, The University of Texas at San Antonio (USA)
+Zakirul Alam Bhuiyan, Fordham University (USA)
+Kenichi Kourai, Kyushu Institute of Technology (Japan) 
 
-<h4>General co-Chair</h4>
-Bo Yang, University of Electronic Science and Technology of China (China)
+
+<h4>General Executive Chair</h4>
+Moayad Aloqaily, Mohamad Bin Zayed University (UAE) 
+Bernady O. Apduhan, Kyushu Sangyo University (Japan)
 
 <h4>Program Chair</h4>
-Claudio Savaglio, ICAR-CNR (Italy)
+TBA
 
 <h4>Program Co-chairs</h4>
-Anna Kobusinska, Poznan University of Technology (Poland)<br/>
-Adnan Anwar, Deakin University (Australia)<br/>
-Mohammad Mehedi Hassan, King Saud University (KSA)<br/>
-Franco Zambonelli, Universita' degli Studi di Modena e Reggio Emilia (Italy)
+TBA
 
 <h4>Workshop & Special Session Chairs</h4>
-Andrea Tundis, Technische Universitat Darmstadt (Germany)<br/>
-Junggab Son, Kennesaw State University (GA, USA)
+TBA
 
 <h4>Publicity Chairs</h4>
-Changqing Luo, Virginia Commonwealth University (USA)<br/>
-Keke Gai, Beijing Institute of Technology (China)
+TBA
 
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br/>
