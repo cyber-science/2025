@@ -46,12 +46,11 @@ Please use 'DASC 2024 Workshop-SS Proposal' as the email subject. Accepted propo
 - Junggab Son, Kennesaw State University, USA, < json AT kennesaw DOT edu >
 
 <b>Important Dates:</b><br/>
-TBA
-<!-- - Workshop/SS Proposal Due: March 15, 2022
-- Workshop/SS Proposal Notification: April 1, 2022
-- Workshop/SS Paper Due: June 1, 2022
-- Authors Notification: July 1, 2022
-- Camera-ready Submission: July 15, 2022 -->
+- Workshop/SS Proposal Due: April 15, 2024
+- Regular Paper Due: June 15, 2024
+- Wksp/SS/Poster Paper Due: July 15, 2024
+- Authors Notification: August 15, 2024
+- Camera-ready Submission: September 15, 2024
 
 
 <!--- COMMENTED
