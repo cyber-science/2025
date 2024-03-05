@@ -11,13 +11,12 @@ permalink: /dasc/organization/
 TBA
 
 <h4>General Chair</h4>
-Zakirul Alam Bhuiyan, Fordham University (USA)
-Kenichi Kourai, Kyushu Institute of Technology (Japan) 
-
+Zakirul Alam Bhuiyan, Fordham University (USA) <br>
+Kenichi Kourai, Kyushu Institute of Technology (Japan)<br>
 
 <h4>General Executive Chair</h4>
-Moayad Aloqaily, Mohamad Bin Zayed University (UAE) 
-Bernady O. Apduhan, Kyushu Sangyo University (Japan)
+Moayad Aloqaily, Mohamad Bin Zayed University (UAE) <br>
+Bernady O. Apduhan, Kyushu Sangyo University (Japan) <br>
 
 <h4>Program Chair</h4>
 TBA
