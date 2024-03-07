@@ -8,86 +8,86 @@ permalink: /cyberscitech/organization/
 <h3>CyberSciTech 2024 Organizing Committee</h3>
 <hr/>
 
-<h4> Honorary Chairs </h4>
-Vincenzo Piuri, University of Milan (Italy)<br/>
+<h4> Honorary Chairs</h4>
+Kouichi Sakurai, Kyushu University (Japan)<br>
+Zhiwen Yu, Harbin Engineering University (China)<br>
 Stephen S. Yau, Arizona State University (USA)
- 
-<h4>General Chair</h4>
-Giancarlo Fortino, University of Calabria (Italy)
 
-<h4>General Co-Chairs</h4>
-Kevin Wang, University of Auckland (New Zeland)<br/>
-Antonio Liotta, University of Bolzano (Italy)
+<h4>General Chairs</h4>
+Bernady O. Apduhan, Kyushu Sangyo University (Japan)<br>
+Kuan-Ching Li, Providence University (Taiwan)
 
-<h4>Program Chair</h4>
-Raffaele Gravina, University of Calabria (Italy)
+<h4>General Executive Chairs</h4>
+Xiaokang Zhou, Shiga University (Japan)<br>
+Kanghyun Jo, University of Ulsan (South Korea)
+
+<h4>Program Chairs</h4>
+Celimuge Wu, The Univ. of Electro-Comm. (Japan)<br>
+Gautam Srivastava, Brandon University (Canada)<br>
+Klimis Ntalianis, Univ. of West Attica (Greece)
 
 <h4>Program Co-Chairs</h4>
-Xiaokang Zhou, Shiga University (Japan)<br/>
-Hassan Ghasemzadeh, ASU (USA)
+Yuji Suga, Internet Initiative Japan (Japan)<br>
+Francesco Pupo, University of Calabria (Italy)<br>
+Yan Huang, Kennesaw State University (USA)<br>
+Weimin Li, Shanghai University (China)<br>
+Xiaokun Zhang, Athabasca University (Canada)<br>
+Zhi Liu, The Univ. of Electro-Comm. (Japan)
 
-<h4>Track Co-Chairs</h4>
-Katina Kralevska, Norwegian University of Science and Technology (Norway)<br/>
-Yan Huang, Kennesaw State University (USA)<br/>
-Weimin Li, Shanghai University (China)<br/>
-Wasim Ahmad, University of Glasgow, UKWasim Ahmad, University of Glasgow (UK)<br/>
-Celimuge Wu, The University of Electro-Communications (Japan)<br/>
-Lai Tu, Huazhong University of Sci. & Tech. (China)<br/>
-Xiaokun Zhang, Athabasca University (Canada)<br/>
-Mirko Viroli, University of Bologna (Italy)<br/>
-Roberto Casadei, University of Bologna (Italy)
+<h4>Workshop & Special Session Chairs</h4>
+Amjad Gawanmeh, University of Dubai (UAE)<br>
+Pan Wang, Univ. of Posts & Telecomm. (China)
 
-<h4> Workshop & Special Session Chairs	</h4>
-Wei Song, Shanghai Ocean University (China)<br/>
-Pan Wang, Nanjing University of Posts & Telecom (China)<br/>
-Ao Guo, Nagoya University (Japan)<br/>
-Gwanggil Jeon, Incheon National University (South Korea)<br/>
-Wenjia Li, New York Institute of Technology (USA)
+<h4>Special Issue Chair</h4>
+Ke Yan, National University of Singapore, Singapore
 
-<h4>Special Issue Chairs </h4>
-Gautam Srivastava, Brandon University (Canada) <br/>
-Ke Yan, National University of Singapore (Singapore)
+<h4>International Liaison & Publicity Chairs</h4>
+Xiaohua Feng, University of Bedfordshire (UK)<br>
+Hongxin Yan, Athabasca University (Canada)<br>
+Lai Tu, Huazhong University of Sci.&Tech. (China)
 
-<h4> Publicity Chairs </h4>
-Rafiul Hassan, University of Maine (USA)<br/>
-Sen Qiu, Dalian University of Technology (China)<br/>
-Hongxin Yan, Athabasca University (Canada)
+<h4> Publication Chair </h4>
+Ao Guo, Nagoya University (Japan)
 
 <h4>Steering Committee</h4>
-Jianhua Ma (Chair), Hosei University (Japan)<br/>
-Laurence T. Yang, (Chair), St. Francis Xavier University (Canada)<br/>
-Hui-Huang Hsu, Tamkang University (Taiwan)<br/>
-Qun Jin, Waseda University (Japan)<br/>
-Jun Wang, University of Central Florida (USA)<br/>
-Stephen S. Yau, Arizona State University (USA)<br/>
-Mazin Yousif, T-Systems International (USA)<br/>
-Albert Zomaya, The University of Sydney (Australia)<br/>
-Oscar Lin, Athabasca University (Canada)<br/>
-Bernady O. Apduhan, Kyushu Sangyo University (Japan)<br/>
-Giancarlo Fortino, University of Calabria (Italy)
+Jianhua Ma (Chair), Hosei University (Japan)<br>
+Hui-Huang Hsu, Tamkang University (Taiwan)<br>
+Qun Jin, Waseda University (Japan)<br>
+Jun Wang, University of Central Florida (USA)<br>
+Laurence T. Yang, St. Francis Xavier University (Canada)<br>
+Stephen S. Yau, Arizona State University (USA)<br>
+Mazin Yousif, T-Systems International (USA)<br>
+Albert Zomaya, The University of Sydney (Australia)<br>
+Kevin I-Kai Wang, The Univ. of Auckland (New Zealand)<br>
+Bernady O. Apduhan (Chair), Kyushu Sangyo Univ. (Japan)<br>
+Oscar Lin, Athabasca University (Canada)<br>
+Giancarlo Fortino, University of Calabria (Italy)<br>
+Moayad Aloqaily, MBZUAI (UAE)<br>
+Frank Hsu, Fordham University (USA)<br>
+Jinhua She, Tokyo University of Technology, Japan
 
 <h4> Advisory Committee </h4>
-Julien Bourgeois, UBFC/FEMTO-ST Institute/CNRS (France)<br/>
-Zhong Chen, Peking University (China)<br/>
-Raymond Choo, The Univ. of Texas at San Antonio (USA)<br/>
-Tadashi Dohi, Hiroshima University (Japan)<br/>
-Song Guo, Hong Kong Polytechnic University (Hong Kong)<br/>
-Keiichi Iwamura, The Tokyo University of Science (Japan)<br/>
-Seungcheon Kim, Hansung University (Korea)<br/>
-Jianwei Liu, Beihang University (China)<br/>
-Zhen Liu, Nagasaki Institute of Applied Science (Japan)<br/>
-Huansheng Ning, Univ. of Sci. and Tech. Beijing (China)<br/>
-Klimis Ntalianis, Univ. of West Attica (Greece)<br/>
-Yi Pan, Georgia State University (USA)<br/>
-Kouichi Sakurai, Kyushu University (Japan)<br/>
-Zhou Su, Xi'an Jiaotong University (China)<br/>
-Zhixin Sun, Nanjing University of Posts & Telecom. (China)<br/>
-Nicolas Tsapatsoulis, Cyprus Univ. of Tech (Cyprus)<br/>
-Kevin I-Kai Wang, The University of Auckland (New Zealand)<br/>
-Feng Xia, Dalian University of Technology (China)<br/>
-Jianwei Yin, Zhejiang University (China)<br/>
-Qiang Zhang, Dalian University of Technology (China)<br/>
-Yanchun Zhang, Victoria University (Australia)<br/>
-Qiangfu Zhao, The University of Aizu (Japan)<br/>
-Qingguo Zhou, Lanzhou University (China)
+Julien Bourgeois, UBFC/FEMTO-ST INST/CNRS (France)<br>
+Zhong Chen, Peking University (China)<br>
+Raymond Choo, The Univ. of Texas at San Antonio (USA)<br>
+Tadashi Dohi, Hiroshima University (Japan)<br>
+Song Guo, Hong Kong Polytechnic University (Hong Kong)<br>
+Keiichi Iwamura, The Tokyo University of Science (Japan)<br>
+Seungcheon Kim, Hansung University (Korea)<br>
+Jianwei Liu, Beihang University (China)<br>
+Zhen Liu, Nagasaki Institute of Applied Science (Japan)<br>
+Huansheng Ning, Univ. of Sci. and Tech. Beijing (China)<br>
+Klimis Ntalianis, Univ. of West Attica (Greece)<br>
+Yi Pan, Georgia State University (USA)<br>
+Kouichi Sakurai, Kyushu University (Japan)<br>
+Zhou Su, Xi'an Jiaotong University (China)<br>
+Zhixin Sun, Minjiang University (China)<br>
+Nicolas Tsapatsoulis, Cyprus Univ. of Tech (Cyprus)<br>
+Feng Xia, RMIT University (Australia)<br>
+Jianwei Yin, Zhejiang University (China)<br>
+Qiang Zhang, Dalian University of Technology (China)<br>
+Yanchun Zhang, Victoria University (Australia)<br>
+Qiangfu Zhao, The University of Aizu (Japan)<br>
+Qinggou Zhou, Lanzhou University (China)
+
  
