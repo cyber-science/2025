@@ -39,7 +39,7 @@ Amjad Gawanmeh, University of Dubai (UAE)<br>
 Pan Wang, Univ. of Posts & Telecomm. (China)
 
 <h4>Special Issue Chair</h4>
-Ke Yan, National University of Singapore, Singapore
+Ke Yan, National University of Singapore (Singapore)
 
 <h4>International Liaison & Publicity Chairs</h4>
 Xiaohua Feng, University of Bedfordshire (UK)<br>
