@@ -37,16 +37,13 @@ The proceedings of the IEEE CyberSciTech 2024 workshops will be published by Con
 <br/>
 
 <b>Submissions</b><br/>
-A single pdf file with all the material described above should be prepared. Please email your proposals in PDF format as early as possible and not later than March 15, 2024, to the Workshop Chairs. 
+A single pdf file with all the material described above should be prepared. Please email your proposals in PDF format as early as possible to the Workshop Chairs. 
 Please use 'CyberSciTech 2024 Workshop-SS Proposal' as the email subject. Accepted proposals should follow strictly the important dates, particularly paper notification and camera-ready dates listed below.
 <br/>
 
 <b>Workshop/SS Chairs:</b><br/>
-- Wei Song, Shanghai Ocean University (China) < weisong AT wayne DOT edu>
-- Pan Wang, Nanjing University of Posts & Telecom (China) < wangpan AT njupt DOT edu DOT cn >
-- Ao Guo, Nagoya University (Japan) < guo DOT ao AT a DOT mbox DOT nagoya-u DOT ac DOT jp >
-- Gwanggil Jeon, Incheon National University (South Korea) < ggjeon AT outlook DOT com >
-- Wenjia Li, New York Institute of Technology (USA) < wli20 AT nyit DOT edu >
+- Amjad Gawanmeh, University of Dubai (UAE)
+- Pan Wang, Univ. of Posts & Telecomm. (China)
 
 <b>Important Dates:</b><br/>
 - Workshop/SS Proposal Due: April 15, 2024
