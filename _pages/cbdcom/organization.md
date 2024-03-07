@@ -19,7 +19,7 @@ Peng Li, The University of Aizu (Japan)
 Bernady O. Apduhan, Kyushu Sangyo University (Japan)
 
 <h4>Program Chairs</h4>
-Sakurai Kouichi, Kyushu University (Japan)<br>
+Kouichi Sakurai, Kyushu University (Japan)<br>
 Xu Chen, Sun Yat-Sen University (China)
 
 <h4>Track Chairs</h4>
