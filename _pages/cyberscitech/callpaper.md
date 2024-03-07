@@ -35,7 +35,7 @@ permalink: /cyberscitech/callpaper/
 <br/>Cyber Manufacturing & Control
 <br/>Embedded Systems & Software
 <br/>Autonomous Robots & Vehicles
-<br/>Internet of Things (IoT) & Smart Systems	
+<br/>IoT, Digital Twin & Smart Systems	
 
 <h4>Track 4: Cyber Social Computing & Networks</h4>
 <br/>Social Networking & Computing
@@ -51,5 +51,12 @@ permalink: /cyberscitech/callpaper/
 <br/>Affective/Mind Cognition & Computing
 <br/>Brain/Mind Machine Interface
 <br/>Intelligent Multimedia Technology
+<br/>Intelligent Object, Environment & Service
 
 <h4>Track 6: Cyber Life & Wellbeing</h4>
+<br/>Cyber Life & Human Centric Computing 
+<br/>Cyber Medicine, Healthcare & Psychology
+<br/>Cyborg/Wearable/Implantable Technology
+<br/>Human/Animal Behavior Recognition
+<br/>Personal Big Data & Personality Computing
+<br/>Augmented, Mixed Reality & Metaverse
