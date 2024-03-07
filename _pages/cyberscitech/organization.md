@@ -68,12 +68,12 @@ Jinhua She, Tokyo University of Technology (Japan)
 
 <h4> Advisory Committee </h4>
 Julien Bourgeois, UBFC/FEMTO-ST INST/CNRS (France)<br>
-Zhong Chen, Peking University (China)<br>
 Raymond Choo, The Univ. of Texas at San Antonio (USA)<br>
+Zhong Chen, Peking University (China)<br>
 Tadashi Dohi, Hiroshima University (Japan)<br>
 Song Guo, Hong Kong Polytechnic University (Hong Kong)<br>
-Keiichi Iwamura, The Tokyo University of Science (Japan)<br>
 Seungcheon Kim, Hansung University (Korea)<br>
+Keiichi Iwamura, The Tokyo University of Science (Japan)<br>
 Jianwei Liu, Beihang University (China)<br>
 Zhen Liu, Nagasaki Institute of Applied Science (Japan)<br>
 Huansheng Ning, Univ. of Sci. and Tech. Beijing (China)<br>
@@ -87,7 +87,7 @@ Feng Xia, RMIT University (Australia)<br>
 Jianwei Yin, Zhejiang University (China)<br>
 Qiang Zhang, Dalian University of Technology (China)<br>
 Yanchun Zhang, Victoria University (Australia)<br>
-Qiangfu Zhao, The University of Aizu (Japan)<br>
-Qinggou Zhou, Lanzhou University (China)
+Qinggou Zhou, Lanzhou University (China)<br>
+Qiangfu Zhao, The University of Aizu (Japan)
 
  
