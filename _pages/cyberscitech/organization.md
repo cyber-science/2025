@@ -64,7 +64,7 @@ Oscar Lin, Athabasca University (Canada)<br>
 Giancarlo Fortino, University of Calabria (Italy)<br>
 Moayad Aloqaily, MBZUAI (UAE)<br>
 Frank Hsu, Fordham University (USA)<br>
-Jinhua She, Tokyo University of Technology, Japan
+Jinhua She, Tokyo University of Technology (Japan)
 
 <h4> Advisory Committee </h4>
 Julien Bourgeois, UBFC/FEMTO-ST INST/CNRS (France)<br>
