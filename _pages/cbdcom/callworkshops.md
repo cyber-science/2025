@@ -42,9 +42,7 @@ Please use 'CBDCom 2024 Workshop-SS Proposal' as the email subject. Accepted pro
 <br/>
 
 <b>Workshop/SS Chairs:</b><br/>
-- Stefania Tomasiello, University of Tartu (Estonia) < stefania DOT tomasiello AT ut DOT ee >
-- Dawid Polap, Siliesian University of Technology, (Poland)
-- Tooska Dargahi, University of Salford (UK)
+- Bo Wu, Tokyo University of Technology (Japan) < wubo AT stf DOT teu DOT ac DOT jp >
 
 <b>Important Dates:</b><br/>
 - Workshop/SS Proposal Due: April 15, 2024
