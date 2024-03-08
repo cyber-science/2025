@@ -67,6 +67,7 @@ Frank Hsu, Fordham University (USA)<br>
 Jinhua She, Tokyo University of Technology (Japan)
 
 <h4> Advisory Committee </h4>
+Baoming Bai, Xidian University (China)<br>
 Julien Bourgeois, UBFC/FEMTO-ST INST/CNRS (France)<br>
 Raymond Choo, The Univ. of Texas at San Antonio (USA)<br>
 Zhong Chen, Peking University (China)<br>
