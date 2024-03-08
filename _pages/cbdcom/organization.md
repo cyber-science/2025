@@ -23,7 +23,10 @@ Kouichi Sakurai, Kyushu University (Japan)<br>
 Xu Chen, Sun Yat-Sen University (China)
 
 <h4>Track Chairs</h4>
-TBA
+Track 1: Theories and Algorithms (Track Chair: Qiang He, Huazhong University of Science and Technology, China)<br>
+Track 2: Systems and Management (Track Chair: Xianfu Chen, VTT Technical Research Centre of Finland,Finland)<br>
+Track 3: Security, Privacy & Trust (Track Chair: Huawei Huang, Sun Yat-Sen University, China)<br>
+Track 4: Tools and Applications (Track Chair: TBA)
 
 <h4>Workshops & Special Sessions Chairs</h4>
 TBA
