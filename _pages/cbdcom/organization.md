@@ -24,7 +24,7 @@ Xu Chen, Sun Yat-Sen University (China)
 
 <h4>Track Chairs</h4>
 Qiang He, Huazhong University of Science and Technology (China) <br>
-Xianfu Chen, VTT Technical Research Centre of Finland, (Finland) <br>
+Xianfu Chen, VTT Technical Research Centre of Finland (Finland) <br>
 Huawei Huang, Sun Yat-Sen University (China)
 <!-- Track 1: Theories and Algorithms (Track Chair: Qiang He, Huazhong University of Science and Technology, China)<br>
 Track 2: Systems and Management (Track Chair: Xianfu Chen, VTT Technical Research Centre of Finland, Finland)<br>
