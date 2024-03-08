@@ -31,8 +31,8 @@ Track 2: Systems and Management (Track Chair: Xianfu Chen, VTT Technical Researc
 Track 3: Security, Privacy & Trust (Track Chair: Huawei Huang, Sun Yat-Sen University, China)<br>
 Track 4: Tools and Applications (Track Chair: TBA) -->
 
-<h4>Workshops & Special Sessions Chairs</h4>
-TBA
+<h4>Workshops & Special Sessions Chair</h4>
+Bo Wu, Tokyo University of Technology (Japan)
 
 <h4>Publicity Chair</h4>
 Fahao Chen, The University of Aizu (Japan)
