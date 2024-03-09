@@ -6,6 +6,11 @@
 {% include head.html %}
 <style>
   /* 添加CSS规则来根据屏幕宽度调整图像大小 */
+  header {
+    text-align: center;
+    padding: 3rem 1rem; /* 上下3rem内边距, 左右1rem内边距 */
+    margin-bottom: 2rem; /* 下外边距 */
+  }
   .img-fluid {
     width: 90%; /* 图像宽度为屏幕宽度的90% */
     height: auto; /* 保持图像的宽高比 */
@@ -17,10 +22,21 @@
   .img-fluid {
     width: 100%; /* 在小屏幕上图像宽度为100% */
   }
-
   h1 {
-    font-size: 20px; /* 在小屏幕上减小字体大小 */
-  }
+      font-size: 22px; /* 在小屏幕上调整h1的字体大小 */
+    }
+
+    h2 {
+      font-size: 20px; /* 在小屏幕上调整h2的字体大小 */
+    }
+
+    h3 {
+      font-size: 18px; /* 在小屏幕上调整h3的字体大小 */
+    }
+
+    h4 {
+      font-size: 16px; /* 在小屏幕上调整h4的字体大小 */
+    }
 }
 </style>
 <body>
