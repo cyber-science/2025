@@ -43,7 +43,7 @@ Please use 'CyberSciTech 2024 Workshop-SS Proposal' as the email subject. Accept
 
 <b>Workshop/SS Chairs:</b><br/>
 - Amjad Gawanmeh, University of Dubai (UAE) < agawanmeh AT ud DOT ac DOT ae >
-- Pan Wang, Univ. of Posts & Telecomm. (China)
+- Pan Wang, Univ. of Posts & Telecomm. (China) < wangpan AT njupt DOT edu DOT cn >
 
 <b>Important Dates:</b><br/>
 - Workshop/SS Proposal Due: April 15, 2024
