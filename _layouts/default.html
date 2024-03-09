@@ -4,7 +4,25 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
+<style>
+  /* 添加CSS规则来根据屏幕宽度调整图像大小 */
+  .img-fluid {
+    width: 90%; /* 图像宽度为屏幕宽度的90% */
+    height: auto; /* 保持图像的宽高比 */
+    display: block; /* 使图像居中显示 */
+    margin: 0 auto; /* 居中显示 */
+  }
+  /* 媒体查询，针对小于768px宽的屏幕 */
+@media (max-width: 768px) {
+  .img-fluid {
+    width: 100%; /* 在小屏幕上图像宽度为100% */
+  }
 
+  h1 {
+    font-size: 20px; /* 在小屏幕上减小字体大小 */
+  }
+}
+</style>
 <body>
   {% include navigation.html %} {% include header.html %}
   <!-- Page Content -->
