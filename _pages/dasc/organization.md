@@ -8,7 +8,7 @@ permalink: /dasc/organization/
 <hr/>
 
 <h4>Honorary Chair</h4>
-TBA
+Tadashi Dohi, Hiroshima University (Japan)
 
 <h4>General Chair</h4>
 Zakirul Alam Bhuiyan, Fordham University (USA) <br>
