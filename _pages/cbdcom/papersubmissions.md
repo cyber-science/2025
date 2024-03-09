@@ -22,7 +22,7 @@ Papers should be prepared in IEEE CS Proceedings format. IEEE formatting informa
 </p><p>
 All accepted papers in the main tracks, workshops, special sessions and demos/posters will be published in an IEEE Computer Society proceedings (IEEE-DL and EI indexed). 
 Best Paper Awards will be presented to high quality papers. Selected papers will be recommended to prestigious journal <b>
-<a href="http://cyber-science.org/2022/special-issues/" target=_new>Special Issues</a></b>. 
+<a href="http://cyber-science.org/2024/special-issues/" target=_new>Special Issues</a></b>. 
 </p><p>
 Some papers originally submitted as full papers can be accepted as short papers or posters during the review process. In such cases, the authors will need to reduce the paper accordingly when preparing the camera-ready version. At least one of the authors of any accepted paper is requested to register and present the paper at the conference.
 </p>
