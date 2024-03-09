@@ -4,40 +4,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-{% include head.html %}
-<style>
-  /* 添加CSS规则来根据屏幕宽度调整图像大小 */
-  header {
-    text-align: center;
-    padding: 3rem 1rem; /* 上下3rem内边距, 左右1rem内边距 */
-    margin-bottom: 2rem; /* 下外边距 */
-  }
-    .img-fluid.main-width {
-    width: 90%; /* 图像宽度为屏幕宽度的90% */
-    height: auto; /* 保持图像的宽高比 */
-    display: block; /* 使图像居中显示 */
-    margin: 0 auto; /* 居中显示 */
-  }
-  /* 媒体查询，针对小于768px宽的屏幕 */
-@media (max-width: 768px) {
-  h1 {
-      font-size: 22px; /* 在小屏幕上调整h1的字体大小 */
-    }
-
-    h2 {
-      font-size: 20px; /* 在小屏幕上调整h2的字体大小 */
-    }
-
-    h3 {
-      font-size: 18px; /* 在小屏幕上调整h3的字体大小 */
-    }
-
-    h4 {
-      font-size: 16px; /* 在小屏幕上调整h4的字体大小 */
-    }
-}
-</style>
+  {% include style.html %}
+  {% include head.html %}
 <body>
   {% include navdasc.html %} {% include header2dasc.html %}
   <!-- Page Content -->
