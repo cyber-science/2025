@@ -44,7 +44,8 @@ Ke Yan, National University of Singapore (Singapore)
 <h4>International Liaison & Publicity Chairs</h4>
 Xiaohua Feng, University of Bedfordshire (UK)<br>
 Hongxin Yan, Athabasca University (Canada)<br>
-Lai Tu, Huazhong University of Sci.&Tech. (China)
+Lai Tu, Huazhong University of Sci.&Tech. (China)<br>
+Hong Chen, Daiichi Institute of Technology (Japan) 
 
 <h4> Publication Chair </h4>
 Ao Guo, Nagoya University (Japan)

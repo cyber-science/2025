@@ -8,7 +8,7 @@ permalink: /cyberscitech/callpaper/
 <h3>Call For Papers - IEEE CyberSciTech 2024 Tracks and Topics</h3>
 <hr/>
 
-<h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2024/assets/files/CFP_CyberSciTech2024.pdf" target=_new>here</a></b> ** </h5> 
+<h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2024/assets/files/CyberSciTech2024_CFP.pdf" target=_new>here</a></b> ** </h5> 
 
 <hr/>
 
@@ -59,4 +59,4 @@ permalink: /cyberscitech/callpaper/
 <br/>Cyborg/Wearable/Implantable Technology
 <br/>Human/Animal Behavior Recognition
 <br/>Personal Big Data & Personality Computing
-<br/>Augmented, Mixed Reality & Metaverse
+<br/>Augmented/Mixed Reality & Metaverse
