@@ -79,7 +79,6 @@ Keiichi Iwamura, The Tokyo University of Science (Japan)<br>
 Jianwei Liu, Beihang University (China)<br>
 Zhen Liu, Nagasaki Institute of Applied Science (Japan)<br>
 Huansheng Ning, Univ. of Sci. and Tech. Beijing (China)<br>
-Klimis Ntalianis, Univ. of West Attica (Greece)<br>
 Yi Pan, Georgia State University (USA)<br>
 Kouichi Sakurai, Kyushu University (Japan)<br>
 Zhou Su, Xi'an Jiaotong University (China)<br>
