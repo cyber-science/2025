@@ -19,12 +19,13 @@ Kuan-Ching Li, Providence University (Taiwan)
 
 <h4>General Executive Chairs</h4>
 Xiaokang Zhou, Shiga University (Japan)<br>
-Kanghyun Jo, University of Ulsan (South Korea)
+Kanghyun Jo, University of Ulsan (Korea)
 
 <h4>Program Chairs</h4>
 Celimuge Wu, The Univ. of Electro-Comm. (Japan)<br>
 Gautam Srivastava, Brandon University (Canada)<br>
-Klimis Ntalianis, Univ. of West Attica (Greece)
+Klimis Ntalianis, Univ. of West Attica (Greece)<br>
+Dongshik Jo, University of Ulsan (Korea)
 
 <h4>Program Co-Chairs</h4>
 Yuji Suga, Internet Initiative Japan (Japan)<br>
@@ -45,7 +46,8 @@ Ke Yan, National University of Singapore (Singapore)
 Xiaohua Feng, University of Bedfordshire (UK)<br>
 Hongxin Yan, Athabasca University (Canada)<br>
 Lai Tu, Huazhong University of Sci.&Tech. (China)<br>
-Hong Chen, Daiichi Institute of Technology (Japan) 
+Hong Chen, Daiichi Institute of Technology (Japan)<br>
+Daehwan Kim, University of Ulsan (Korea)
 
 <h4> Publication Chair </h4>
 Ao Guo, Nagoya University (Japan)
