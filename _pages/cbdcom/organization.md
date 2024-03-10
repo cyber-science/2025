@@ -56,6 +56,7 @@ Christophe CERIN, University of Paris XIII (France)<br>
 Georges Da Costa, IRIT (France)<br>
 Jerry Gao, San Jose State University (USA)<br>
 Frank Hsu, Fordham University (USA)<br>
+Carson Kai-Sang Leung, University of Manitoba (Canada)<br>
 Jianbin Li, North China Electric Power University (China)<br>
 Paulo Pires, Federal University of Rio de Janeiro (Brazil)<br>
 Yinglong Xia, Huawei Research America (USA)<br>
