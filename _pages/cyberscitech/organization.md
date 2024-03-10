@@ -25,7 +25,7 @@ Kanghyun Jo, University of Ulsan (Korea)
 Celimuge Wu, The Univ. of Electro-Comm. (Japan)<br>
 Gautam Srivastava, Brandon University (Canada)<br>
 Klimis Ntalianis, Univ. of West Attica (Greece)<br>
-Dongshik Jo, University of Ulsan (Korea)
+Dongsik Jo, University of Ulsan (Korea)
 
 <h4>Program Co-Chairs</h4>
 Yuji Suga, Internet Initiative Japan (Japan)<br>
