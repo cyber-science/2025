@@ -20,7 +20,8 @@ Bernady O. Apduhan, Kyushu Sangyo University (Japan)
 
 <h4>Program Chairs</h4>
 Kouichi Sakurai, Kyushu University (Japan)<br>
-Xu Chen, Sun Yat-Sen University (China)
+Xu Chen, Sun Yat-Sen University (China)<br>
+Tzu-Chuen Lu, Chaoyang University of Technology (Taiwan)
 
 <h4>Track Chairs</h4>
 Qiang He, Huazhong University of Science and Technology (China) <br>
