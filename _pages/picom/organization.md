@@ -11,7 +11,7 @@ permalink: /picom/organization/
 Hui-huang Hsu, Tamkang University (Taiwan)<br>
 Albert Zomaya, The University of Sydney (Australia)
 
-<h4>General Chair</h4>
+<h4>General Chairs</h4>
 Flavia Delicato, Fluminense Federal University (Brazil)<br>
 Antonio Guerrieri, ICAR-CNR (Italy)
 
