@@ -12,7 +12,7 @@ permalink: /picom/callpaper/
 <hr/>
 
 <h4>Track 1: Next Gen Pervasive AI</h4>
-<br/>GenAI for wireless sensing
+GenAI for wireless sensing
 <br/>Machine-to-machine GenAI
 <br/>Generative IoT
 <br/>GenAI for semantic communications
@@ -23,7 +23,7 @@ permalink: /picom/callpaper/
 <br/>Ubiquitous Data Mining
 
 <h4>Track 2: Intelligent Networks, Middleware and Applications</h4>
-<br/>Pervasive Networks/Communications
+Pervasive Networks/Communications
 <br/>5G networks and Technologies
 <br/>AI/ML for smart wireless networks
 <br/>AI and machine learning-based applications for ad hoc networks
@@ -35,7 +35,7 @@ permalink: /picom/callpaper/
 <br/>Programming Abstractions for IoT
 
 <h4>Track 3: Pervasive Computing and Activity/Affect Recognition</h4>
-<br/>Crowdsourcing and Social Computing
+Crowdsourcing and Social Computing
 <br/>Collective Intelligence
 <br/>Agent-based Computing
 <br/>Pervasive Devices and RFIDs
@@ -46,7 +46,7 @@ permalink: /picom/callpaper/
 <br/>HCI for Pervasive Computing
 
 <h4>Track 4: Next Gen Smart Environments</h4>
-<br/>Smart grid, healthcare, transportation applications
+Smart grid, healthcare, transportation applications
 <br/>Wearable and human-centric devices and networks
 <br/>Device Virtualization
 <br/>Intelligent Cloud Computing
@@ -58,7 +58,7 @@ permalink: /picom/callpaper/
 <br/>Digital Twins
 
 <h4>Track 5: Edge intelligence applications</h4>
-<br/>ML for resource allocation at the Edge
+ML for resource allocation at the Edge
 <br/>NFV-Edge
 <br/>5G-Edge
 <br/>Edge-assisted IoT
@@ -68,5 +68,5 @@ permalink: /picom/callpaper/
 
 
 <h4>Track 6: Work-in-Progress (WiP) and Late Breaking Innovation (LBI)</h4>
-<br/>The track covers all the topics but it is aimed at either papers that have an original but not fully validated proposal (WiP) or present a breakthrough, a new vision or an out of the box idea on the field to be discussed at the conference (LBI). 
+The track covers all the topics but it is aimed at either papers that have an original but not fully validated proposal (WiP) or present a breakthrough, a new vision or an out of the box idea on the field to be discussed at the conference (LBI). 
 
