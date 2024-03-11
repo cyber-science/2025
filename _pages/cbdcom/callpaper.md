@@ -13,7 +13,7 @@ permalink: /cbdcom/callpaper/
 <hr/>
 
 <h4>Track 1: Theories and Algorithms</h4>
-<br/>Big Data Fundamentals and Novel Paradigms
+Big Data Fundamentals and Novel Paradigms
 <br/>Big Data Algorithms, Applications & Services
 <br/>Big Data Mining and Analytics
 <br/>Big data Processing and Querying
@@ -22,7 +22,7 @@ permalink: /cbdcom/callpaper/
 <br/>Cloud-Native Theories and Algorithms
  
 <h4>Track 2: Systems and Management</h4>
-<br/>Big Data Cloud, Grid, Stream Computing
+Big Data Cloud, Grid, Stream Computing
 <br/>High Performance Platforms for Big Data
 <br/>NoSQL Data Stores and DB scalability
 <br/>Energy-Efficient Computing for Big Data
@@ -36,7 +36,7 @@ permalink: /cbdcom/callpaper/
 <br/>Resource Management, Storage & QoS
 
 <h4>Track 3: Security, Privacy & Trust</h4>
-<br/>Security, Privacy & Reliability in Cloud & Big Data
+Security, Privacy & Reliability in Cloud & Big Data
 <br/>Dependable/Trustworthy Big Data Processing
 <br/>Security/Privacy/Trust as a Service
 <br/>Hardware Security of Cloud & Big Data
@@ -44,7 +44,7 @@ permalink: /cbdcom/callpaper/
 <br/>Federated Learning
 
 <h4>Track 4: Tools and Applications</h4>
-<br/>Data Warehousing over Big Data
+Data Warehousing over Big Data
 <br/>Innovative Applications and Experiences
 <br/>Smart Data & Smart Environments
 <br/>CBD for IoT & Cyber-Physical Systems

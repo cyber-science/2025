@@ -14,7 +14,7 @@ permalink: /cyberscitech/callpaper/
 
 
 <h4>Track 1: Cyberspace Theory & Technology</h4>
-<br/>Cyberspace Property, Structure & Models
+Cyberspace Property, Structure & Models
 <br/>Cyber Pattern, Evolution, Ecology & Science
 <br/>SDN/SDS, 5G/6G, Vehicle & Novel Network
 <br/>Cloud, Fog, Edge & Green Computing
@@ -22,7 +22,7 @@ permalink: /cyberscitech/callpaper/
 <br/>Infrastructures for Smart City/Country	
 
 <h4>Track 2: Cyber Security, Privacy & Trust</h4>
-<br/>Cyber Security, Safety & Resilience
+Cyber Security, Safety & Resilience
 <br/>Cyber Crime, Fraud, Abuse & Forensics
 <br/>Cyber Attack, Terrorism, Warfare & Defense
 <br/>Cyber Privacy, Trust & Insurance
@@ -30,7 +30,7 @@ permalink: /cyberscitech/callpaper/
 <br/>Post-quantum Cryptography
 
 <h4>Track 3: Cyber Physical Computing & Systems</h4>
-<br/>Cyber Physical Systems & Interfaces
+Cyber Physical Systems & Interfaces
 <br/>Cyber Physical Dynamics & Disaster Relief
 <br/>Cyber Manufacturing & Control
 <br/>Embedded Systems & Software
@@ -38,7 +38,7 @@ permalink: /cyberscitech/callpaper/
 <br/>IoT, Digital Twin & Smart Systems	
 
 <h4>Track 4: Cyber Social Computing & Networks</h4>
-<br/>Social Networking & Computing
+Social Networking & Computing
 <br/>Computational Social Science
 <br/>Crowd Sourcing, Sensing & Computing
 <br/>Cyber Culture, Relation, Creation & Art
@@ -46,7 +46,7 @@ permalink: /cyberscitech/callpaper/
 <br/>Cyber Learning, Economics & Politics
 
 <h4>Track 5: Cyber Intelligence & Cognitive Science</h4>
-<br/>Cyber/Digital Brain & Artificial Intelligence
+Cyber/Digital Brain & Artificial Intelligence
 <br/>Hybrid & Hyper-connected Intelligence
 <br/>Affective/Mind Cognition & Computing
 <br/>Brain/Mind Machine Interface
@@ -54,7 +54,7 @@ permalink: /cyberscitech/callpaper/
 <br/>Intelligent Object, Environment & Service
 
 <h4>Track 6: Cyber Life & Wellbeing</h4>
-<br/>Cyber Life & Human Centric Computing 
+Cyber Life & Human Centric Computing 
 <br/>Cyber Medicine, Healthcare & Psychology
 <br/>Cyborg/Wearable/Implantable Technology
 <br/>Human/Animal Behavior Recognition

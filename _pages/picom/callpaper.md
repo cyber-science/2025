@@ -68,5 +68,8 @@ ML for resource allocation at the Edge
 
 
 <h4>Track 6: Work-in-Progress (WiP) and Late Breaking Innovation (LBI)</h4>
-The track covers all the topics but it is aimed at either papers that have an original but not fully validated proposal (WiP) or present a breakthrough, a new vision or an out of the box idea on the field to be discussed at the conference (LBI). 
+The track covers all the topics but it is aimed at either papers 
+<br/>that have an original but not fully validated proposal (WiP)
+<br/>or present a breakthrough, a new vision or an out of the box
+<br/>idea on the field to be discussed at the conference (LBI). 
 
