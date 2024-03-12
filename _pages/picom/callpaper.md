@@ -57,7 +57,7 @@ Smart grid, healthcare, transportation applications
 <br/>Autonomous IoT
 <br/>Digital Twins
 
-<h4>Track 5: Edge intelligence applications</h4>
+<h4>Track 5: Edge Intelligence Applications</h4>
 ML for resource allocation at the Edge
 <br/>NFV-Edge
 <br/>5G-Edge
@@ -65,7 +65,6 @@ ML for resource allocation at the Edge
 <br/>Integration of Edge Computing and Blockchain
 <br/>Edge-Cloud Continuum
 <br/>Edge AI
-
 
 <h4>Track 6: Work-in-Progress (WiP) and Late Breaking Innovation (LBI)</h4>
 The track covers all the topics but it is aimed at either papers 
