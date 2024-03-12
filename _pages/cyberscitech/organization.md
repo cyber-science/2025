@@ -47,7 +47,8 @@ Xiaohua Feng, University of Bedfordshire (UK)<br>
 Hongxin Yan, Athabasca University (Canada)<br>
 Lai Tu, Huazhong University of Sci.&Tech. (China)<br>
 Hong Chen, Daiichi Institute of Technology (Japan)<br>
-Daehwan Kim, University of Ulsan (Korea)
+Daehwan Kim, University of Ulsan (Korea)<br>
+Safa Otoum, Zayed University (UAE)
 
 <h4> Publication Chair </h4>
 Ao Guo, Nagoya University (Japan)
@@ -88,7 +89,6 @@ Zhixin Sun, Minjiang University (China)<br>
 Nicolas Tsapatsoulis, Cyprus Univ. of Tech (Cyprus)<br>
 Feng Xia, RMIT University (Australia)<br>
 Jianwei Yin, Zhejiang University (China)<br>
-Qiang Zhang, Dalian University of Technology (China)<br>
 Yanchun Zhang, Victoria University (Australia)<br>
 Qinggou Zhou, Lanzhou University (China)<br>
 Qiangfu Zhao, The University of Aizu (Japan)
