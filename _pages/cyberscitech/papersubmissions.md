@@ -18,6 +18,8 @@ permalink: /cyberscitech/papersubmissions/
 </p><p>
 Papers should be prepared in IEEE CS Proceedings format. IEEE formatting information: <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html" target=_new>http://www.ieee.org/conferences_events/conferences/publishing/templates.html</a>
 </p><p>
+Each paper is limited to 8 pages, including figures, tables, and references. A maximum of two extra pages per paper is allowed (i.e, up to 10 pages), at an additional charge of $100 per extra page.
+</p><p>
 All accepted papers in the main tracks, workshops, and special sessions will be published in an IEEE Computer Society proceedings (IEEE-DL and EI indexed). 
 Best Paper Awards will be presented to high quality papers. Selected papers will be recommended to prestigious journal <b>
 <a href="http://cyber-science.org/2024/special-issues/" target=_new>Special Issues</a></b>. 
