@@ -6,8 +6,9 @@ permalink: /cyberscitech/acceptworkshops/
 
 <h3>Special Sessions - IEEE CyberSciTech 2024</h3>
 <hr/>
-Computing and Applications for Cyber Internet of Things (Cyber-IoT 2024)<hr/>
-Special Session on Intelligent Computing in Cyber-PhysicalSocial Systems<hr/>
+Computing and Applications for Cyber Internet of Things (Cyber-IoT 2024) <hr/>
+Special Session on Intelligent Computing in Cyber-PhysicalSocial Systems <hr/>
+
 <!-- <ol>
 <li><a href="/2022/assets/files/ws-ss/cst/CSC-CEA2022_CFP.pdf" target=_new>Cyber Social Computing and Cyber-Enabled Applications (CSC&CEA)</a></li>
 <li><a href="/2022/assets/files/ws-ss/cst/CyberIC2022_CFP.pdf" target=_new>Special Session on Intelligent Computing in Cyber-Physical Social Systems (CyberIC)</a></li>
