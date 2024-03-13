@@ -17,7 +17,9 @@ permalink: /dasc/acceptworkshops/
 
 <h3>Workshops - IEEE DASC 2024</h3>
 <hr/>
-The 8th International Workshop on Emerging Dependable Computing System Technologies and Applications (EDCSTA 2024)
+<ol>
+<li>The 8th International Workshop on Emerging Dependable Computing System Technologies and Applications (EDCSTA 2024)</li>
+</ol> 
 <!-- 
 <ol>
 <li><a href="/2022/assets/files/ws-ss/cst/SOBIOAPPS2022_CFP.pdf" target=_new>Social and BIOmetric data for APPlications in human-machine interactions: Models and algorithmS (SOBIOAPPS)</a></li>

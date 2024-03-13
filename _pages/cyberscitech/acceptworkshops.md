@@ -21,8 +21,11 @@ Special Session on Intelligent Computing in Cyber-PhysicalSocial Systems<hr/>
 
 <h3>Workshops - IEEE CyberSciTech 2024</h3>
 <hr/>
-1. The 6th International Workshop on Big Data Analytics for Cyber Security and Defence (BigCyberSecurity 2024)<hr/>
-2. The 5th International Workshop on Impact of Internet of Things on Daily Life (IoT-Life 2024)<hr/>
+<ol>
+
+<li>The 6th International Workshop on Big Data Analytics for Cyber Security and Defence (BigCyberSecurity 2024)</li>
+<li>The 5th International Workshop on Impact of Internet of Things on Daily Life (IoT-Life 2024)</li>
+</ol>
 <!-- 3. The 8th International Workshop on Applications of AI, Cyber Security and Economics Data Analytics (ACE-2024)<hr/> -->
 
 <!-- 
