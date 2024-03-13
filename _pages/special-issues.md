@@ -4,7 +4,7 @@ layout: sub
 permalink: /special-issues/
 ---
 
-<h3>Special Issues</h3>
+<h3>Special Issues/Recommend Journals</h3>
 <hr/>
 
 <p>
@@ -20,10 +20,5 @@ Guest Editors:
 Prof. Xiaokang Zhou - Shiga University (Japan), Prof. Kevin Wang, The University of Auckland (New Zealand), Prof. Jianhua Ma, Hosei University (Japan),  Prof. Vincenzo Piuri - University of Milan (Italy)
 </li>
 
-
-</ol>
-
-<h3>Recommend Journals</h3>
-<ol>
 <li>Journal of Information and Communication Convergence Engineering (JICCE)</li> 
 </ol>
