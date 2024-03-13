@@ -4,14 +4,14 @@ layout: subpi2
 permalink: /picom/acceptworkshops/
 ---
 
-<h3>Accepted Special Sessions - IEEE PICom 2024</h3>
+<h3>Special Sessions - IEEE PICom 2024</h3>
 <hr/>
 
 <!-- <ol>
 <li>The Industrial Operator 4.0: Human-Technology Integration and Collaboration</li>
 </ol> -->
 
-<h3>Accepted Workshops - IEEE PICom 2024</h3>
+<h3>Workshops - IEEE PICom 2024</h3>
 <hr/>
 
 <!-- <ol>
