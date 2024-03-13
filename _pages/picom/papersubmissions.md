@@ -18,7 +18,7 @@ permalink: /picom/papersubmissions/
 </p><p>
 Papers should be prepared in IEEE CS Proceedings format. IEEE formatting information: <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html" target=_new>http://www.ieee.org/conferences_events/conferences/publishing/templates.html</a>
 </p><p>
-A maximum of two extra pages per paper is allowed (i.e, up to 10 pages for regular papers or up to 8 pages for WiP/Workshop/SS papers), at an additional charge of $100 per extra page.
+When preparing the camera-ready paper, the page limit is 8 pages for regular papers, and 6 pages for WiP/workshop/SS papers. However, a maximum of two extra pages per paper is allowed (i.e., up to 10 pages for regular papers or up to 8 pages for WiP/workshop/SS papers), at an additional charge of $100 per extra page.
 </p><p>
 All accepted papers in the main tracks, workshops, and special sessions will be published in an IEEE Computer Society proceedings (IEEE-DL and EI indexed). 
 Best Paper Awards will be presented to high quality papers. Selected papers will be recommended to prestigious journal <b>
