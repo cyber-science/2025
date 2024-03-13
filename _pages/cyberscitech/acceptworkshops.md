@@ -8,7 +8,7 @@ permalink: /cyberscitech/acceptworkshops/
 <hr>
 <ol>
 <li>Computing and Applications for Cyber Internet of Things (Cyber-IoT 2024)</li>
-<li>Special Session on Intelligent Computing in Cyber-PhysicalSocial Systems</li>
+<li>Special Session on Intelligent Computing in Cyber-Physical Social Systems (CyberIC 2024)</li>
 </ol>
 
 
