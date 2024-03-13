@@ -8,7 +8,7 @@ permalink: /special-issues/
 <hr/>
 
 <p>
-Selected conference articles will be invited to be submitted to the following Special Issues for extended versions of the accepted conference papers within the scope of the Research.
+Selected conference articles will be invited to be submitted to the following Special Issues and Recommend Journals for extended versions of the accepted conference papers within the scope of the Research.
 </p>
 
 <ol>
@@ -23,4 +23,7 @@ Prof. Xiaokang Zhou - Shiga University (Japan), Prof. Kevin Wang, The University
 
 </ol>
 
-<h3>Special Issues</h3>
+<h3>Recommend Journals</h3>
+<ol>
+<li>Journal of Information and Communication Convergence Engineering (JICCE)</li> 
+</ol>
