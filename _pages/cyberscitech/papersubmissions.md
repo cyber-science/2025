@@ -21,7 +21,7 @@ permalink: /cyberscitech/papersubmissions/
 </p><p>
 <li><i>Work-in-Progress (WiP) papers</i> should present original, ongoing and unpublished work with preliminary results. Wherever current status, initial findings, and expected contributions of the work should be included.</li>
 </p><p>
-<li><i>Workshop papers</i>  should present original, unpublished work associated with specific workshops theme. Wherever novel ideas, methods, or applications related to the workshop scope as well as concrete evaluation and/or analysis should be included.</li>
+<li><i>Workshop papers</i> should present original, unpublished work associated with specific workshops theme. Wherever novel ideas, methods, or applications related to the workshop scope as well as concrete evaluation and/or analysis should be included.</li>
 </p><p>
 <li><i>Special session papers</i>  should present substantial, original, completed, and unpublished work focus on emerging topics, specific research domains, or interdisciplinary areas. Wherever significant contributions to advance the state-of-the-art in the specific research domain or interdisciplinary area should be included.</li>
 </ul>
