@@ -1,3 +1,17 @@
+<style>
+  .starred-text {
+    position: relative;
+    text-indent: -1em; /* 将文本首行向左缩进 */
+    padding-left: 1em; /* 为星号和文本之间添加一些空间 */
+  }
+
+  .starred-text::before {
+    content: "*"; /* 在文本前添加星号 */
+    position: absolute;
+    left: 0; /* 确保星号显示在行的开始处 */
+  }
+</style>
+
 <div class="col-md-4 mb-1">
 <h4>Recent Updates</h4>
 <b>[09 Mar]</b> <a href="http://cyber-science.org/2024/assets/files/CyberSciTech2024_CFP.pdf" target=_new>CyberSciTech 2024 Call for Papers (PDF)</a>
@@ -17,7 +31,7 @@
 <b>Authors Notification:</b> August 15, 2024<br/>
 <b>Camera-ready Submission:</b> September 15, 2024<br/>
 
-* Click <a href="/2024/cyberscitech/papersubmissions/"><b>Here</b></a> to see the explanations of Regular/WiP/Workshop/SS Paper
+<p class="starred-text"> <a href="/2024/cyberscitech/papersubmissions/"><b>Here</b></a> to see the explanations of Regular/WiP/Workshop/SS Paper</p>
 <hr/>
 <!-- 
 <p>
