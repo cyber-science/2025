@@ -18,10 +18,10 @@ permalink: /cyberscitech/papersubmissions/
   <!-- via Easychair (<a href="https://easychair.org/conferences/?conf=dascpicomcbdcomcyber" target =_new>https://easychair.org/conferences/?conf=dascpicomcbdcomcyber</a>). -->
 </p><p>
 <ul>
-<li><i>Regular papers</i> should present substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and/or analysis should be included.</li>
-<li><i>Work-in-Progress (WiP) papers</i> should present original, ongoing and unpublished work with preliminary results. Wherever current status, initial findings, and expected contributions of the work should be included.</li>
-<li><i>Workshop papers</i> should present original, unpublished work associated with specific workshops theme. Wherever novel ideas, methods, or applications related to the workshop scope as well as concrete evaluation and/or analysis should be included.</li>
-<li><i>Special Session (SS) papers</i>  should present substantial, original, completed, and unpublished work focus on emerging topics, specific research domains, or interdisciplinary areas. Wherever significant contributions to advance the state-of-the-art in the specific research domain or interdisciplinary area should be included.</li>
+<li><b>Regular papers</b> should present substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and/or analysis should be included.</li>
+<li><b>Work-in-Progress (WiP) papers</b> should present original, ongoing and unpublished work with preliminary results. Wherever current status, initial findings, and expected contributions of the work should be included.</li>
+<li><b>Workshop papers</b> should present original, unpublished work associated with specific workshops theme. Wherever novel ideas, methods, or applications related to the workshop scope as well as concrete evaluation and/or analysis should be included.</li>
+<li><b>Special Session (SS) papers</b>  should present substantial, original, completed, and unpublished work focus on emerging topics, specific research domains, or interdisciplinary areas. Wherever significant contributions to advance the state-of-the-art in the specific research domain or interdisciplinary area should be included.</li>
 </ul>
 </p><p>
 Papers should be prepared in IEEE CS Proceedings format. IEEE formatting information: <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html" target=_new>http://www.ieee.org/conferences_events/conferences/publishing/templates.html</a>
