@@ -4,7 +4,7 @@ layout: subpi2
 permalink: /picom/acceptedpapers/
 ---
 
-<h2>Accepted Papers - IEEE PICom 2024</h2>
+<h2>Accepted Papers - IEEE CBDCom 2024</h2>
 <hr/>
 TBA
 
