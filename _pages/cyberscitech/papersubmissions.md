@@ -9,8 +9,8 @@ permalink: /cyberscitech/papersubmissions/
 <hr/>
 <p>
 <b> Submission Instructions </b> <br>
- Submission to Regular Tracks: <b> 6 </b>pages in minimum<br>
- Submission to WiP/Workshop/Special Session Tracks: <b>4 </b>pages in minimum<br>
+ Submission to Regular Tracks: <b> 6 pages</b> in minimum<br>
+ Submission to WiP/Workshop/Special Session Tracks: <b>4 pages</b> in minimum<br>
 </p>
 
 <p>Authors are invited to submit their original research work that has not previously been submitted or published in any other venue. Regular, work-in-progress (WiP), and workshop/special session papers 
@@ -32,5 +32,5 @@ Best Paper Awards will be presented to high quality papers. Selected papers will
 </p><p>
 Some papers originally submitted as full papers can be accepted as short papers during the review process. In such cases, the authors will need to reduce the paper accordingly when preparing the camera-ready version. At least one of the authors of any accepted paper is requested to register and present the paper at the conference.
 </p><p>
-Please note that for the camera-ready version, the page limit is 8 pages for regular papers, and 6 pages for WiP/workshop/SS papers. However, a maximum of two extra pages per paper is allowed (i.e., up to 10 pages for regular papers or up to 8 pages for WiP/workshop/SS papers), at an additional charge of $100 per extra page.
+Please note that for the camera-ready version, the page limit is <b>8 pages</b> for regular papers, and <b>6 pages</b> for WiP/workshop/SS papers. However, a maximum of two extra pages per paper is allowed (i.e., up to <b>10 pages</b> for regular papers or up to <b>8 pages</b> for WiP/workshop/SS papers), at an additional charge of $100 per extra page.
 </p>

@@ -7,7 +7,7 @@ permalink: /cbdcom/
 <div class="row">
 <div class="col-md-10 mb-5">
 
-<h4>November 5-8, 2024 - Boracay, Philippines</h4>
+<h4>November 5-8, 2024 - Boracay Island, Malay, Philippines</h4>
 <hr/>
 
 <p>The IEEE International Conference on Cloud and Big Data Computing is a premier forum for researchers, practitioners and developers who are interested in cloud computing and big data to explore new ideas, techniques and tools, as well as to exchange experience. Besides the latest research achievements, the conference covers also innovative commercial data management systems, innovative commercial applications of cloud computing and big data technology, and experience in applying recent research advances to real-world problems.</p>

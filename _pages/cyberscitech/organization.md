@@ -14,11 +14,12 @@ Zhiwen Yu, Harbin Engineering University (China)<br>
 Stephen S. Yau, Arizona State University (USA)
 
 <h4>General Chairs</h4>
-Bernady O. Apduhan, Kyushu Sangyo University (Japan)<br>
+Bernady O. Apduhan, Kyushu Sangyo University (Japan) <br>
 Kuan-Ching Li, Providence University (Taiwan)
 
 <h4>General Executive Chairs</h4>
 Xiaokang Zhou, Shiga University (Japan)<br>
+Moayad Aloqaily, Mohamad Bin Zayed University (UAE) <br>
 Kanghyun Jo, University of Ulsan (Korea)
 
 <h4>Program Chairs</h4>

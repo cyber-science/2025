@@ -7,7 +7,7 @@ permalink: /picom/
 <div class="row">
 <div class="col-md-10 mb-5">
 
-<h4>November 5-8, 2024 - Boracay, Philippines</h4>
+<h4>November 5-8, 2024 - Boracay Island, Malay, Philippines</h4>
 <hr/>
 
 <p>
