@@ -13,8 +13,9 @@ permalink: /cbdcom/papersubmissions/
  WiP/Workshop/Special Session Tracks: <b>4-6 </b>pages <br>
 </p>
 
-<p>Authors are invited to submit their original research work that has not previously been submitted or published in any other venue. Regular, work-in-progress (WiP), and workshop/special session papers 
- need to be submitted via Easychair (<a href="https://easychair.org/conferences/?conf=dascpicomcbdcomcyber" target =_new>https://easychair.org/conferences/?conf=dascpicomcbdcomcyber</a>).
+<p>Authors are invited to submit their original research work that has not previously been submitted or published in any other venue. Regular, work-in-progress (WiP), and workshop/special session papers via EDAS (hyperlink is to be added).
+
+ <!-- need to be submitted via Easychair (<a href="https://easychair.org/conferences/?conf=dascpicomcbdcomcyber" target =_new>https://easychair.org/conferences/?conf=dascpicomcbdcomcyber</a>). -->
 </p><p>
 Papers should be prepared in IEEE CS Proceedings format. IEEE formatting information: <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html" target=_new>http://www.ieee.org/conferences_events/conferences/publishing/templates.html</a>
 </p><p>
