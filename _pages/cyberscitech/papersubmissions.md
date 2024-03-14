@@ -9,7 +9,7 @@ permalink: /cyberscitech/papersubmissions/
 <hr/>
 <p>
 <b> For original papers: </b> <br>
- Submission to Regular Tracks: <b> 6-8 </b>pages in minimum<br>
+ Submission to Regular Tracks: <b> 6 </b>pages in minimum<br>
  Submission to WiP/Workshop/Special Session Tracks: <b>4 </b>pages in minimum<br>
 </p>
 
