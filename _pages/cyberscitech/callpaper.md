@@ -67,8 +67,8 @@ Cyber Life & Human Centric Computing
 <hr/>
 
 <h4>WiP/Workshop/Special Session Tracks</h4>
-WiP (Work-in-Porgress) papers
-<br/>Workshop papers
+WiP (Work-in-Porgress) Papers
+<br/>Workshop Papers
 <br/>Special Session Papers
 <br><br>
 CyberSciTech workshops and special sessions are listed <a href="/2024/cyberscitech/acceptworkshops/">here</a>
