@@ -11,7 +11,8 @@ permalink: /cyberscitech/callpaper/
 <h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2024/assets/files/CyberSciTech2024_CFP.pdf" target=_new>here</a></b> ** </h5> 
 
 <hr/>
-
+<h4 style="font-weight: bold">For Regular Papers<h4>
+<hr/>
 
 <h4>Track 1: Cyberspace Theory & Technology</h4>
 Cyberspace Property, Structure & Models
@@ -60,3 +61,14 @@ Cyber Life & Human Centric Computing
 <br/>Human/Animal Behavior Recognition
 <br/>Personal Big Data & Personality Computing
 <br/>Augmented/Mixed Reality & Metaverse
+
+<hr/>
+<h4 style="font-weight: bold">For WiP/Workshop/Special Session Papers<h4>
+<hr/>
+
+<h4>WiP/Workshop/Special Session Tracks</h4>
+WiP (Work-in-Porgress) papers
+<br/>Workshop papers
+<br/>Special Session Papers
+
+<h5>CyberSciTech workshops and special sessions are listed <a href="/2024/cyberscitech/acceptworkshops/">here</a></h5>
