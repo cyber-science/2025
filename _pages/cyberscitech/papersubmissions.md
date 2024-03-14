@@ -32,5 +32,5 @@ Best Paper Awards will be presented to high quality papers. Selected papers will
 </p><p>
 Some papers originally submitted as full papers can be accepted as short papers during the review process. In such cases, the authors will need to reduce the paper accordingly when preparing the camera-ready version. At least one of the authors of any accepted paper is requested to register and present the paper at the conference.
 </p><p>
-Please note that when preparing the camera-ready paper, the page limit is 8 pages for regular papers, and 6 pages for WiP/workshop/SS papers. However, a maximum of two extra pages per paper is allowed (i.e., up to 10 pages for regular papers or up to 8 pages for WiP/workshop/SS papers), at an additional charge of $100 per extra page.
+Please note that the page limit for camera-ready paper is 8 pages for regular papers, and 6 pages for WiP/workshop/SS papers. However, a maximum of two extra pages per paper is allowed (i.e., up to 10 pages for regular papers or up to 8 pages for WiP/workshop/SS papers), at an additional charge of $100 per extra page.
 </p>
