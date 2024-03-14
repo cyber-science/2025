@@ -1,7 +1,7 @@
 ---
 title: Accepted Papers
 layout: subpi2
-permalink: /picom/acceptedpapers/
+permalink: /cbdcom/acceptedpapers/
 ---
 
 <h2>Accepted Papers - IEEE CBDCom 2024</h2>

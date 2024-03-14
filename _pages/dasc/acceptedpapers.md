@@ -1,7 +1,7 @@
 ---
 title: Accepted Papers
 layout: subpi2
-permalink: /picom/acceptedpapers/
+permalink: /dasc/acceptedpapers/
 ---
 
 <h2>Accepted Papers - IEEE DASC 2024</h2>
