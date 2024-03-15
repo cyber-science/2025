@@ -39,6 +39,9 @@ Bo Wu, Tokyo University of Technology (Japan)
 <h4>Publicity Chair</h4>
 Fahao Chen, The University of Aizu (Japan)
 
+<h4> Publication Chair </h4>
+Ao Guo, Nagoya University (Japan)
+
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br>
 Laurence T. Yang, St. Francis Xavier University (Canada)<br>
