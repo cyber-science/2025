@@ -7,8 +7,12 @@ permalink: /dasc/callpaper/
 <h3>Call For Papers - IEEE DASC 2024 Tracks and Topics</h3>
 <hr/>
 
-<h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2022/assets/files/CFP_DASC2022.pdf" target=_new>here</a></b> ** </h5> 
+<!-- <h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2022/assets/files/CFP_DASC2022.pdf" target=_new>here</a></b> ** </h5>  -->
 
+<h5> ** Full CFP is to be added ** </h5> 
+
+<hr/>
+<h4 style="font-weight: bold">For Regular Papers<h4>
 <hr/>
 
 <h4>Track 1. Dependable and Fault-tolerant Computing</h4>
@@ -47,3 +51,15 @@ Fundamentals, including Intrusion-Detection, Digital Forensics, (Counter-)Survei
  <br/>    Safety Care, Medical Care and Services, IoT-based Healthcare
  <br/>    Other Applications and Emerging Techniques
  <br/>     Social Aspects of Applying Systems
+
+
+<hr/>
+<h4 style="font-weight: bold">For WiP/Workshop/Special Session Papers<h4>
+<hr/>
+
+<h4>WiP (Work-in-Porgress) Track</h4>
+The track covers all the topics for regular papers but it is aimed at  
+<br/>papers that have an original but not fully validated proposal (WiP)
+
+<h4>Workshop/Special Session Tracks</h4>
+CyberSciTech workshops and special sessions are listed <a href="/2024/dasc/acceptworkshops/"><b>here</b></a>

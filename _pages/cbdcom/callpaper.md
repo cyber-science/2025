@@ -10,7 +10,11 @@ permalink: /cbdcom/callpaper/
 
 <h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2024/assets/files/CBDCom2024_CFP.pdf" target=_new>here</a></b> ** </h5> 
 
+
 <hr/>
+<h4 style="font-weight: bold">For Regular Papers<h4>
+<hr/>
+
 
 <h4>Track 1: Theories and Algorithms</h4>
 Big Data Fundamentals and Novel Paradigms
@@ -52,3 +56,15 @@ Data Warehousing over Big Data
 <br/>M2M Communications and IoT
 <br/>IoT and Smart City Infrastructures
 <br/>Green Computing for Big Data & Smart City
+
+
+<hr/>
+<h4 style="font-weight: bold">For WiP/Workshop/Special Session Papers<h4>
+<hr/>
+
+<h4>WiP (Work-in-Porgress) Track</h4>
+The track covers all the topics for regular papers but it is aimed at  
+<br/>papers that have an original but not fully validated proposal (WiP)
+
+<h4>Workshop/Special Session Tracks</h4>
+CyberSciTech workshops and special sessions are listed <a href="/2024/cbdcom/acceptworkshops/"><b>here</b></a>
