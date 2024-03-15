@@ -10,6 +10,8 @@ permalink: /picom/callpaper/
 <h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2024/assets/files/PICom2024_CFP.pdf" target=_new>here</a></b> ** </h5> 
 
 <hr/>
+<h4 style="font-weight: bold">For Regular Papers<h4>
+<hr/>
 
 <h4>Track 1: Next Gen Pervasive AI</h4>
 GenAI for wireless sensing
@@ -66,9 +68,14 @@ ML for resource allocation at the Edge
 <br/>Edge-Cloud Continuum
 <br/>Edge AI
 
-<h4>Track 6: Work-in-Progress (WiP) and Late Breaking Innovation (LBI)</h4>
-The track covers all the topics but it is aimed at either papers 
-<br/>that have an original but not fully validated proposal (WiP) or
-<br/>present a breakthrough, a new vision or an out of the box idea
-<br/> on the field to be discussed at the conference (LBI). 
 
+<hr/>
+<h4 style="font-weight: bold">For WiP/Workshop/Special Session Papers<h4>
+<hr/>
+
+<h4>WiP (Work-in-Porgress) Track</h4>
+The track covers all the topics for regular papers but it is aimed at  
+<br/>papers that have an original but not fully validated proposal (WiP)
+
+<h4>Workshop/Special Session Tracks</h4>
+PICom workshops and special sessions are listed <a href="/2024/picom/acceptworkshops/"><b>here</b></a>
