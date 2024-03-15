@@ -19,7 +19,7 @@ Kuan-Ching Li, Providence University (Taiwan)
 
 <h4>General Executive Chairs</h4>
 Xiaokang Zhou, Shiga University (Japan)<br>
-Moayad Aloqaily, Mohamad Bin Zayed University (UAE) <br>
+Moayad Aloqaily, Mohamed Bin Zayed University (UAE) <br>
 Kanghyun Jo, University of Ulsan (Korea)
 
 <h4>Program Chairs</h4>
@@ -31,7 +31,6 @@ Klimis Ntalianis, Univ. of West Attica (Greece)<br>
 Yuji Suga, Internet Initiative Japan (Japan)<br>
 Francesco Pupo, University of Calabria (Italy)<br>
 Yan Huang, Kennesaw State University (USA)<br>
-Weimin Li, Shanghai University (China)<br>
 Xiaokun Zhang, Athabasca University (Canada)<br>
 Zhi Liu, The Univ. of Electro-Comm. (Japan)<br>
 Dongsik Jo, University of Ulsan (Korea)
@@ -93,5 +92,3 @@ Jianwei Yin, Zhejiang University (China)<br>
 Yanchun Zhang, Victoria University (Australia)<br>
 Qinggou Zhou, Lanzhou University (China)<br>
 Qiangfu Zhao, The University of Aizu (Japan)
-
- 

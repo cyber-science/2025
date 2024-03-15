@@ -15,8 +15,9 @@ Minyi Guo, Shanghai Jiao Tong University (China)
 <h4>General Chair</h4>
 Peng Li, The University of Aizu (Japan)
 
-<h4>General Executive Chair</h4>
-Bernady O. Apduhan, Kyushu Sangyo University (Japan)
+<h4>General Executive Chairs</h4>
+Moayad Aloqaily, Mohamed Bin Zayed University (UAE) <br>
+Bernady O. Apduhan, Kyushu Sangyo University (Japan) <br>
 
 <h4>Program Chairs</h4>
 Kouichi Sakurai, Kyushu University (Japan)<br>

@@ -15,7 +15,7 @@ Zakirul Alam Bhuiyan, Fordham University (USA) <br>
 Kenichi Kourai, Kyushu Institute of Technology (Japan)<br>
 
 <h4>General Executive Chairs</h4>
-Moayad Aloqaily, Mohamad Bin Zayed University (UAE) <br>
+Moayad Aloqaily, Mohamed Bin Zayed University (UAE) <br>
 Bernady O. Apduhan, Kyushu Sangyo University (Japan) <br>
 
 <h4>Program Chair</h4>
