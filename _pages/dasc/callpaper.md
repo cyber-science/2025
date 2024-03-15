@@ -62,4 +62,4 @@ The track covers all the topics for regular papers but it is aimed at
 <br/>papers that have an original but not fully validated proposal (WiP)
 
 <h4>Workshop/Special Session Tracks</h4>
-CyberSciTech workshops and special sessions are listed <a href="/2024/dasc/acceptworkshops/"><b>here</b></a>
+DASC workshops and special sessions are listed <a href="/2024/dasc/acceptworkshops/"><b>here</b></a>
