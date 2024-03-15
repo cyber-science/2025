@@ -1,7 +1,7 @@
 ---
 title: Paper Submission
 layout: subdasc2
-permalink: /dasc/papersubmission/
+permalink: /dasc/papersubmissions/
 ---
 
 <h3>Paper Submissions - IEEE DASC 2024</h3>
