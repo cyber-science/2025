@@ -16,8 +16,8 @@ Flavia Delicato, Fluminense Federal University (Brazil)<br>
 Antonio Guerrieri, ICAR-CNR (Italy)
 
 <h4>General Executive Chairs</h4>
-Moayad Aloqaily, Mohamed Bin Zayed University (UAE) <br>
 Bernady O. Apduhan, Kyushu Sangyo University (Japan) <br>
+Moayad Aloqaily, Mohamed Bin Zayed University (UAE) <br>
 
 <h4>Program Chairs</h4>
 Claudio Miceli, Federal University of Rio de Janeiro (Brazil)<br>
