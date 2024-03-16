@@ -50,7 +50,7 @@ Fundamentals, including Intrusion-Detection, Digital Forensics, (Counter-)Survei
  <br/>    Other Applications and Emerging Techniques
  <br/>     Social Aspects of Applying Systems
 
-<h4>Track 5. Autonomic & Secure Computing with AI/ML</h4>
+<h4>Track 5. Autonomic and Secure Computing with AI/ML</h4>
 <br/> TBA
 
 <hr/>

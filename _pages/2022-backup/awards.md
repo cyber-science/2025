@@ -17,7 +17,7 @@ authored by Agostino Forestiero, Antonio Francesco Gentile, and Davide Macrì
 authored by Shiming Zan, Yu Pang, Raffaele Gravina, Enling Cao, Ye Li, and Weilin Zang
 <hr/>
 
-<h4>The 20th IEEE International Conference on Dependable, Autonomic & Secure Computing (DASC 2022)</h4>
+<h4>The 20th IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC 2022)</h4>
 <hr/>
 <b>Best Paper Award</b> <br/>
 "A New Dynamically Changing Attack on Review Fraud Systems and a Dynamically Changing Ensemble Defense"
