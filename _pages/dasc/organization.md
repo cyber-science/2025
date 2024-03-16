@@ -31,7 +31,8 @@ Shan Jiang, The Hong Kong Polytechnic University (Hong Kong)<br>
 Changqing Luo, Virginia Commonwealth Univ. (USA)
 
 <h4>Workshop & Special Session Chair</h4>
-Preeti Mishra, Doon University (India)
+Preeti Mishra, Doon University (India)<br>
+Arafatur Rahman, University of Wolverhampton (UK)
 
 <h4>WiP & LBI Chairs</h4>
 Saqib Ali, Univ. of Agri. Faisalabad (Pakistan)<br>

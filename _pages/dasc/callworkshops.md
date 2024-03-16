@@ -42,7 +42,8 @@ Please use 'DASC 2024 Workshop-SS Proposal' as the email subject. Accepted propo
 <br/>
 
 <b>Workshop/SS Chair:</b><br/>
-- Preeti Mishra, Doon University, India
+- Preeti Mishra, Doon University, India < preetimishra DOT sops AT doonuniversity DOT ac DOT in >
+- Arafatur Rahman, University of Wolverhampton, UK < Arafatur DOT Rahman AT wlv DOT ac DOT uk >
 
 <b>Important Dates:</b><br/>
 - Workshop/SS Proposal Due: April 15, 2024
@@ -51,6 +52,7 @@ Please use 'DASC 2024 Workshop-SS Proposal' as the email subject. Accepted propo
 - Authors Notification: August 15, 2024
 - Camera-ready Submission: September 15, 2024
 
+For further details about the workshop, special session as well as the conference, you may reach out to Dr. Zakirul Alam Bhuiyan < zakirulalam AT gmail DOT com >
 
 <!--- COMMENTED
 <hr/>
