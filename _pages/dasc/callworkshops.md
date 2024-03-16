@@ -13,8 +13,6 @@ as well as to encourage in-depth discussion of technical and application issues 
 Workshops and Special Sessions are a great addition to the main conference.
 <br/>
 
-
-
 The proposal should contain the following information:<br/>
 - The title of the Workshop/SS, including both full name and acronym 
 - A brief technical description of the Workshop/SS, identification of specific technical issues, focus, and justification of how timely the workshop is 
