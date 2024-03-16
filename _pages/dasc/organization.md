@@ -42,7 +42,7 @@ Mrinal Kanti Bhowmik, Tripura University (India)
 Mubashir Rehmani, Cork Inst. of Tech. (Ireland)<br>
 Junjun Zheng, Hiroshima University (Japan)<br>
 Qin Liu, Hunan University (China)<br>
-Senthil Kumar, Mepco Schlenk Engg. College (India)
+Senthil Kumar, Mepco Schlenk Engineering College (India)
 
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br/>
