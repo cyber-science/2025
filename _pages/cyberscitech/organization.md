@@ -33,6 +33,7 @@ Francesco Pupo, University of Calabria (Italy)<br>
 Yan Huang, Kennesaw State University (USA)<br>
 Xiaokun Zhang, Athabasca University (Canada)<br>
 Zhi Liu, The Univ. of Electro-Comm. (Japan)<br>
+Lai Tu, Huazhong University of Sci.&Tech. (China)<br>
 Dongsik Jo, University of Ulsan (Korea)
 
 <h4>Workshop & Special Session Chairs</h4>
@@ -45,7 +46,6 @@ Ke Yan, National University of Singapore (Singapore)
 <h4>International Liaison & Publicity Chairs</h4>
 Xiaohua Feng, University of Bedfordshire (UK)<br>
 Hongxin Yan, Athabasca University (Canada)<br>
-Lai Tu, Huazhong University of Sci.&Tech. (China)<br>
 Hong Chen, Daiichi Institute of Technology (Japan)<br>
 Daehwan Kim, University of Ulsan (Korea)<br>
 Safa Otoum, Zayed University (UAE)
