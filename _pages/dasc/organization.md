@@ -30,7 +30,7 @@ Adnan Anwar, Deakin University (Australia)<br>
 Shan Jiang, The Hong Kong Polytechnic University (Hong Kong)<br>
 Changqing Luo, Virginia Commonwealth Univ. (USA)
 
-<h4>Workshop & Special Session Chair</h4>
+<h4>Workshop & Special Session Chairs</h4>
 Preeti Mishra, Doon University (India)<br>
 Arafatur Rahman, University of Wolverhampton (UK)
 
