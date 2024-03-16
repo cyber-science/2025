@@ -14,14 +14,14 @@ permalink: /dasc/callpaper/
 <hr/>
 
 <h4>Tracks</h4>
-<br/> Track 1. Dependable and Fault-tolerant Computing
+Track 1. Dependable and Fault-tolerant Computing
 <br/> Track 2. Network and System Security and Privacy
 <br/> Track 3. Autonomic Computing and Autonomous Systems
 <br/> Track 4. Industrial Applications and Emerging Techniques
 <br/> Track 5. Autonomic and Secure Computing with AI/ML
-
+<br/>
 <h4>Topics</h4>
-<br/> Self-Organization and Organic Computing
+Self-Organization and Organic Computing
 <br/> Cognitive Computing and Self-Aware Computing
 <br/> Energy Management in Autonomic Computing and Autonomous Systems
 <br/> Dependable & Fault-tolerant Computing in Big Data, CPS, IoT, SDN, and Real-time System
