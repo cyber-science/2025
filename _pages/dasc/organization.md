@@ -7,28 +7,42 @@ permalink: /dasc/organization/
 <h3>DASC 2024 Organizing Committee</h3>
 <hr/>
 
-<h4>Honorary Chair</h4>
-Tadashi Dohi, Hiroshima University (Japan)
+<h4>Honorary Chairs</h4>
+Tadashi Dohi, Hiroshima University (Japan)<br>
+Mohammed Atiquzzaman, Univ. of Oklahoma (USA)
 
 <h4>General Chairs</h4>
 Zakirul Alam Bhuiyan, Fordham University (USA) <br>
-Kenichi Kourai, Kyushu Institute of Technology (Japan)<br>
+Kenichi Kourai, Kyushu Institute of Technology (Japan)
 
 <h4>General Executive Chairs</h4>
 Moayad Aloqaily, Mohamed Bin Zayed University (UAE) <br>
-Bernady O. Apduhan, Kyushu Sangyo University (Japan) <br>
+Bernady O. Apduhan, Kyushu Sangyo University (Japan)
 
-<h4>Program Chair</h4>
-TBA
+<h4>Program Chairs</h4>
+Wenjia Li, New York Institute of Technology (USA)<br>
+Aniello Castiglione, University of Salerno (Italy)
 
 <h4>Program Co-chairs</h4>
-TBA
+Mohamed Rahouti, Fordham University (USA)<br>
+Wei Wang, Beijing Jiaotong University (China)<br>
+Adnan Anwar, Deakin University (Australia)<br>
+Shan Jiang, The Hong Kong Polytechnic University (Hong Kong)<br>
+Changqing Luo, Virginia Commonwealth Univ. (USA)
 
-<h4>Workshop & Special Session Chairs</h4>
-TBA
+<h4>Workshop & Special Session Chair</h4>
+Preeti Mishra, Doon University (India)
+
+<h4>WiP & LBI Chairs</h4>
+Saqib Ali, Univ. of Agri. Faisalabad (Pakistan)<br>
+Mrinal Kanti Bhowmik, Tripura University (India)
+
 
 <h4>Publicity Chairs</h4>
-TBA
+Mubashir Rehmani, Cork Inst. of Tech. (Ireland)<br>
+Junjun Zheng, Hiroshima University (Japan)<br>
+Qin Liu, Hunan University (China)<br>
+Senthil Kumar, Mepco Schlenk Engg. College (India)
 
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br/>

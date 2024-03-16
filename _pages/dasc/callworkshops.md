@@ -41,9 +41,8 @@ A single pdf file with all the material described above should be prepared. Plea
 Please use 'DASC 2024 Workshop-SS Proposal' as the email subject. Accepted proposals should follow strictly the important dates, particularly paper notification and camera-ready dates listed below.
 <br/>
 
-<b>Workshop/SS Chairs:</b><br/>
-- Andrea Tundis, Technische Universitat Darmstadt, Germany < tundis AT tk DOT tu-darmstadt DOT de >
-- Junggab Son, Kennesaw State University, USA, < json AT kennesaw DOT edu >
+<b>Workshop/SS Chair:</b><br/>
+- Preeti Mishra, Doon University, India
 
 <b>Important Dates:</b><br/>
 - Workshop/SS Proposal Due: April 15, 2024

@@ -7,9 +7,7 @@ permalink: /dasc/callpaper/
 <h3>Call For Papers - IEEE DASC 2024 Tracks and Topics</h3>
 <hr/>
 
-<!-- <h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2022/assets/files/CFP_DASC2022.pdf" target=_new>here</a></b> ** </h5>  -->
-
-<h5> ** Full CFP is to be added ** </h5> 
+<h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2024/assets/files/DASC2024_CFP.pdf" target=_new>here</a></b> ** </h5> 
 
 <hr/>
 <h4 style="font-weight: bold">For Regular Papers<h4>
@@ -52,6 +50,8 @@ Fundamentals, including Intrusion-Detection, Digital Forensics, (Counter-)Survei
  <br/>    Other Applications and Emerging Techniques
  <br/>     Social Aspects of Applying Systems
 
+<h4>Track 5. Autonomic & Secure Computing with AI/ML</h4>
+<br/> TBA
 
 <hr/>
 <h4 style="font-weight: bold">For WiP/Workshop/Special Session Papers<h4>

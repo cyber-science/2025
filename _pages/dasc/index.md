@@ -10,15 +10,16 @@ permalink: /dasc/
 <h4>November 5-8, 2024 - Boracay Island, Malay, Philippines</h4>
 <hr/>
 
-<p>As computer and communication systems as well as other systems such as Cyber-Physical Systems (CPS), Internet of Things (IoT), Autonomous Robotic Systems become increasingly large and complex, their Dependability and Security play critical role at supporting next-generation science, engineering, and commercial applications. It remains a challenge to design, analyze, evaluate, and improve the dependability and security for a trusted computing environment. Trusted computing targets computing systems as well as services that are dependable, secure, protectable, predictable, traceable, controllable, autonomous, and sustainable.</p>
-
-<p>
-At the same time, the increasing scale and complexity of systems call for the autonomic computing paradigm, which meets the requirements of self-management, and autonomous systems. Trusted and autonomic computing/autonomous systems need synergistic research efforts covering many disciplines, ranging from natural sciences to social sciences. It requires scientific and technological advances in a wide variety of fields, as well as new software, architectures, and communication technology that support the integration of the constituent technologies.
+<p>As computer and communication systems, as well as other systems such as Cyber-Physical Systems (CPS), Internet of Things (IoT), and Autonomous Robotic Systems, become increasingly large and complex, their Dependability and Security play critical roles in supporting next-generation science, engineering, and commercial applications. It remains a challenge to design, analyze, evaluate, and improve the dependability and security of a large-scale computing environment. Trusted and autonomic computing/autonomous systems need synergistic research efforts covering many disciplines, from natural sciences to social sciences. It requires scientific and technological advances in a variety of fields, as well as new software, architectures, and communication technology that support the integration of the constituent technologies.
 </p>
 
 <p>
-IEEE DASC 2024 will be held during November 5-8, 2024, in Boracay Island, Malay, Philippines co-located with <a href="http://cyber-science.org/2024/cyberscitech/">IEEE CyberSciTech 2024</a>, 
-<a href="http://cyber-science.org/2024/picom/">IEEE PICom 2024</a>, and <a href="http://cyber-science.org/2024/cbdcom/">IEEE CBDCom 2024</a>. It aims to bring together computer scientists, industrial engineers, and researchers to discuss and exchange theoretical and implementation results, novel designs, work-in-progress, experience, case studies, and trend-setting ideas in the areas of dependability, security, trust and/or autonomic computing, and autonomous systems. 
+IEEE DASC 2024 will be held during November 5-8, 2024, in Boracay Island, Malay, Philippines, co-located with <a href="http://cyber-science.org/2024/cyberscitech/">IEEE CyberSciTech 2024</a>, 
+<a href="http://cyber-science.org/2024/picom/">IEEE PICom 2024</a>, and <a href="http://cyber-science.org/2024/cbdcom/">IEEE CBDCom 2024</a>. It aims to bring together computer scientists, industrial engineers, and researchers to discuss and exchange theoretical and implementation results, novel designs, work-in-progress, experience, case studies, and trend-setting ideas in the areas of dependability, security, trust, and/or autonomic computing, and autonomous systems.
+</p>
+<p>
+<b>Topics of interest</b> include, but are not restricted to:
+Self-Organization and Organic Computing; Cognitive Computing and Self-Aware Computing; Energy Management in Autonomic Computing and Autonomous Systems; Dependable & Fault-tolerant Computing in Big Data, CPS, IoT, SDN, and Real-time System; Hardware and Software Reliability, Verification and Testing; Security and Privacy in Cloud/Fog/Edge Computing, Mobile and Pervasive Computing, Big Data, CPS and IoT systems; Artificial Intelligence Techniques in Network and System Security and Privacy; Autonomic and Autonomous Issues in Cloud/Fog/Edge Computing, Mobile and Pervasive Computing, Big Data, CPS and IoT systems; Software/Apps/Tools Development for Dependable and Secure Applications; IoT and Sensor Network, Big Data, Smart Grid, Aerospace, Transportation Applications.
 </p>
 <br/>
 </div>

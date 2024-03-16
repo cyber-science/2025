@@ -9,7 +9,8 @@ permalink: /picom/organization/
 
 <h4>Honorary Chairs</h4>
 Hui-huang Hsu, Tamkang University (Taiwan)<br>
-Albert Zomaya, The University of Sydney (Australia)
+Albert Zomaya, The University of Sydney (Australia)<br>
+Jinhua She, Tokyo University of Technology (Japan)
 
 <h4>General Chairs</h4>
 Flavia Delicato, Fluminense Federal University (Brazil)<br>
