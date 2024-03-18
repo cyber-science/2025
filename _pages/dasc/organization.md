@@ -9,8 +9,8 @@ permalink: /dasc/organization/
 
 <h4>Honorary Chairs</h4>
 Tadashi Dohi, Hiroshima University (Japan)<br>
-Mohammed Atiquzzaman, Univ. of Oklahoma (USA)<br>
-Frank Hsu, Fordham University (USA)
+Frank Hsu, Fordham University (USA)<br>
+Mohammed Atiquzzaman, Univ. of Oklahoma (USA)
 
 <h4>General Chairs</h4>
 Zakirul Alam Bhuiyan, Fordham University (USA) <br>
