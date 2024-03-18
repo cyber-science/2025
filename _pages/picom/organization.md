@@ -49,7 +49,8 @@ Samee U. Khan, Mississippi State University (USA)<br>
 Moayad Aloqaily, MBZUAI (UAE)<br>
 Chuan-Yu Chang, National Yunlin University of Science and Technology (Taiwan)<br>
 Nicolas Tsapatsoulis, Cyprus University of Technology (Cyprus)<br>
-Paulo de Figueiredo Pires, Dell (Brazil)
+Paulo de Figueiredo Pires, Dell (Brazil)<br>
+D. Frank Hsu, Fordham University (USA)
 
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br>
