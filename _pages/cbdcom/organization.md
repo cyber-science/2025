@@ -36,10 +36,11 @@ Track 4: Tools and Applications (Track Chair: TBA) -->
 <h4>Workshops & Special Sessions Chair</h4>
 Bo Wu, Tokyo University of Technology (Japan)
 
-<h4>Publicity Chair</h4>
-Fahao Chen, The University of Aizu (Japan)
+<h4>Publicity Chairs</h4>
+Fahao Chen, The University of Aizu (Japan)<br>
+Kemas Rahmat Saleh Wiharja, Telkom University (Indonesia)
 
-<h4> Publication Chair </h4>
+<h4> Publication Chair</h4>
 Ao Guo, Nagoya University (Japan)
 
 <h4>Steering Committee</h4>
