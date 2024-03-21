@@ -41,7 +41,8 @@ Gwanggil Jeon, Incheon National University (Korea)<br>
 Antonino Galletta, University of Messina (Italy)<br>
 Wenfeng Li, Wuhan University of Technology (China)<br>
 Celimuge Wu, The University of Electro-Communications (Japan)<br>
-Rebeca Motta, Fluminense Federal University (Brazil)
+Rebeca Motta, Fluminense Federal University (Brazil)<br>
+Endang Djuana, Trisakti University (Indonesia)
 
 <h4>Advisory Committee</h4>
 Victor Chang, Aston University (United Kingdom)<br>

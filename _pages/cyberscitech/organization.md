@@ -48,7 +48,8 @@ Xiaohua Feng, University of Bedfordshire (UK)<br>
 Hongxin Yan, Athabasca University (Canada)<br>
 Hong Chen, Daiichi Institute of Technology (Japan)<br>
 Daehwan Kim, University of Ulsan (Korea)<br>
-Safa Otoum, Zayed University (UAE)
+Safa Otoum, Zayed University (UAE)<br>
+Diana Purwitasari, Institute Technology Sepuluh Nopember (Indonesia)
 
 <h4> Publication Chair </h4>
 Ao Guo, Nagoya University (Japan)
