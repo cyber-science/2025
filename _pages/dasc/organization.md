@@ -29,7 +29,8 @@ Mohamed Rahouti, Fordham University (USA)<br>
 Wei Wang, Beijing Jiaotong University (China)<br>
 Adnan Anwar, Deakin University (Australia)<br>
 Shan Jiang, The Hong Kong Polytechnic University (Hong Kong)<br>
-Changqing Luo, Virginia Commonwealth Univ. (USA)
+Changqing Luo, Virginia Commonwealth Univ. (USA)<br>
+Lei Chen, Georgia Southern University (USA)
 
 <h4>Workshop & Special Session Chairs</h4>
 Preeti Mishra, Doon University (India)<br>
@@ -44,7 +45,8 @@ Mubashir Rehmani, Cork Inst. of Tech. (Ireland)<br>
 Junjun Zheng, Hiroshima University (Japan)<br>
 Qin Liu, Hunan University (China)<br>
 Senthil Kumar, Mepco Schlenk Engineering College (India)<br>
-Dhomas Hatta Fudholi, Universitas Islam Indonesia (Indonesia)
+Dhomas Hatta Fudholi, Universitas Islam Indonesia (Indonesia)<br>
+Yuhong Liu, Santa Clara University (USA)
 
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br/>
