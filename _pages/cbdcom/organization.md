@@ -27,7 +27,8 @@ Tzu-Chuen Lu, Chaoyang University of Technology (Taiwan)
 <h4>Track Chairs</h4>
 Qiang He, Huazhong University of Science and Technology (China) <br>
 Xianfu Chen, VTT Technical Research Centre of Finland (Finland) <br>
-Huawei Huang, Sun Yat-Sen University (China)
+Huawei Huang, Sun Yat-Sen University (China) <br>
+Jin Nakazato, Tokyo University (Japan)
 <!-- Track 1: Theories and Algorithms (Track Chair: Qiang He, Huazhong University of Science and Technology, China)<br>
 Track 2: Systems and Management (Track Chair: Xianfu Chen, VTT Technical Research Centre of Finland, Finland)<br>
 Track 3: Security, Privacy & Trust (Track Chair: Huawei Huang, Sun Yat-Sen University, China)<br>
@@ -53,7 +54,6 @@ Huansheng Ning, University of Science and Technology Beijing (China)<br>
 Mazin Yousif, T-Systems International (USA)<br>
 Albert Zomaya, The University of Sydney (Australia)
 
-
 <h4>Advisory Committee</h4>
 Shawkat Ali, Fiji National University (Fiji)<br>
 Victor Chang, Teesside University (United Kingdom)<br>
@@ -68,4 +68,3 @@ Yinglong Xia, Huawei Research America (USA)<br>
 Weishan Zhang, China University of Petroleum (China)<br>
 Felix Freitag, Universitat Politècnica de Catalunya (Spain)<br>
 Tsozen Yeh, Fu Jen Catholic University (Taiwan)
-
