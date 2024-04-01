@@ -11,6 +11,7 @@ permalink: /cbdcom/organization/
 
 <h4>Honorary Chair</h4>
 Minyi Guo, Shanghai Jiao Tong University (China)
+John Paul C. Vergara, Ateneo De Manila University (Philippines)
 
 <h4>General Chair</h4>
 Peng Li, The University of Aizu (Japan)
