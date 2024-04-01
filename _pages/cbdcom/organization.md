@@ -10,7 +10,7 @@ permalink: /cbdcom/organization/
 <hr/>
 
 <h4>Honorary Chair</h4>
-Minyi Guo, Shanghai Jiao Tong University (China)
+Minyi Guo, Shanghai Jiao Tong University (China) <br>
 John Paul C. Vergara, Ateneo De Manila University (Philippines)
 
 <h4>General Chair</h4>
