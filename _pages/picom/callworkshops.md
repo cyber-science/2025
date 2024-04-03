@@ -4,8 +4,9 @@ layout: subpi2
 permalink: /picom/callworkshops/
 ---
 
-<h3><a href="http://cyber-science.org/2024/assets/files/ws-ss/picom/PICom_Call_for_WkspSS.pdf" target=_new>Call For Workshops and Special Sessions - IEEE PICom 2024</a></h3>
+<h3>Call For Workshops and Special Sessions - IEEE PICom 2024</h3>
 <hr/>
+<h5> ** Download <b>PDF version <a href="http://cyber-science.org/2024/assets/files/ws-ss/picom/PICom_Call_for_WkspSS.pdf" target=_new>here</a></b> ** </h5> 
 
 PICom 2024 invites Workshops and Special Sessions (SS) to enrich and broaden the research focus of the main conference. The purpose is to provide opportunities for focused discussions on selected topics that will not be fully explored during the main event, as well as to encourage in-depth discussion of technical and application issues related to Pervasive Intelligence and Computing. Workshops and Special Sessions are a great addition to the main conference.
 <br/>
