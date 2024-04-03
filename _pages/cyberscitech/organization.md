@@ -90,6 +90,7 @@ Zhixin Sun, Minjiang University (China)<br>
 Nicolas Tsapatsoulis, Cyprus Univ. of Tech (Cyprus)<br>
 Feng Xia, RMIT University (Australia)<br>
 Jianwei Yin, Zhejiang University (China)<br>
+Bofeng Zhang, Shanghai Polytechnic University (China)<br>
 Yanchun Zhang, Victoria University (Australia)<br>
 Qinggou Zhou, Lanzhou University (China)<br>
 Qiangfu Zhao, The University of Aizu (Japan)
