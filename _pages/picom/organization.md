@@ -42,7 +42,7 @@ Antonino Galletta, University of Messina (Italy)<br>
 Wenfeng Li, Wuhan University of Technology (China)<br>
 Celimuge Wu, The University of Electro-Communications (Japan)<br>
 Rebeca Motta, Fluminense Federal University (Brazil)<br>
-Endang Djuana, Trisakti University (Indonesia)<br>
+Endang Djuana, Universitas Trisakti (Indonesia)<br>
 Kittichai Lavangnananda, King Mongkut’s University of Technology Thonburi (Thailand)
 
 <h4>Advisory Committee</h4>
