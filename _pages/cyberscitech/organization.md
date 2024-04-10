@@ -38,7 +38,8 @@ Dongsik Jo, University of Ulsan (Korea)
 
 <h4>Workshop & Special Session Chairs</h4>
 Amjad Gawanmeh, University of Dubai (UAE)<br>
-Pan Wang, Univ. of Posts & Telecomm. (China)
+Pan Wang, Univ. of Posts & Telecomm. (China)<br>
+Keping Yu, Hosei University (Japan)
 
 <h4>Special Issue Chair</h4>
 Ke Yan, National University of Singapore (Singapore)
@@ -92,5 +93,5 @@ Feng Xia, RMIT University (Australia)<br>
 Jianwei Yin, Zhejiang University (China)<br>
 Bofeng Zhang, Shanghai Polytechnic University (China)<br>
 Yanchun Zhang, Victoria University (Australia)<br>
-Qinggou Zhou, Lanzhou University (China)<br>
-Qiangfu Zhao, The University of Aizu (Japan)
+Qiangfu Zhao, The University of Aizu (Japan)<br>
+Qinggou Zhou, Lanzhou University (China)
