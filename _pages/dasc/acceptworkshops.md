@@ -19,7 +19,7 @@ permalink: /dasc/acceptworkshops/
 <hr/>
 <ol>
 <li>The 8th International Workshop on Emerging Dependable Computing System Technologies and Applications (EDCSTA 2024)</li>
-<li>The 22nd International Workshop on Assurance in Distributed Systems and Networks (ADSN 2024)</li>
+<li><a href="https://adsn-workshop.github.io/" target=_new>The 22nd International Workshop on Assurance in Distributed Systems and Networks (ADSN 2024)</a></li>
 </ol> 
 <!-- 
 <ol>
