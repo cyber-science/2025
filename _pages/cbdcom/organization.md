@@ -41,6 +41,7 @@ Bo Wu, Tokyo University of Technology (Japan)
 <h4>Publicity Chairs</h4>
 Fahao Chen, The University of Aizu (Japan)<br>
 Kemas Rahmat Saleh Wiharja, Telkom University (Indonesia)
+Miguel Saavedra, Ateneo de Manila University (Philippines)
 
 <h4> Publication Chair</h4>
 Ao Guo, Nagoya University (Japan)
