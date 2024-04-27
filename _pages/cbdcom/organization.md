@@ -24,7 +24,7 @@ Moayad Aloqaily, Mohamed Bin Zayed University (UAE)
 Kouichi Sakurai, Kyushu University (Japan)<br>
 Xu Chen, Sun Yat-Sen University (China)<br>
 Tzu-Chuen Lu, Chaoyang University of Technology (Taiwan)<br>
-David Taniar, Monash University, Australia
+David Taniar, Monash University (Australia)
 
 <h4>Track Chairs</h4>
 Qiang He, Huazhong University of Science and Technology (China) <br>
