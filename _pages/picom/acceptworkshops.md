@@ -4,8 +4,8 @@ layout: subpi2
 permalink: /picom/acceptworkshops/
 ---
 
-<h3>Special Sessions - IEEE PICom 2024</h3>
-<hr/>
+<!-- <h3>Special Sessions - IEEE PICom 2024</h3>
+<hr/> -->
 
 <!-- <ol>
 <li>The Industrial Operator 4.0: Human-Technology Integration and Collaboration</li>
@@ -14,7 +14,8 @@ permalink: /picom/acceptworkshops/
 <h3>Workshops - IEEE PICom 2024</h3>
 <hr/>
 <ol>
-<li><u>The 3rd International Workshop on Hybrid Internet of Everything Models for Industry 5.0 (HIEMI 2024) </u></li>
+<!-- <li><u>The 3rd International Workshop on Hybrid Internet of Everything Models for Industry 5.0 (HIEMI 2024) </u></li> -->
+<li><a href="https://hiemi-workshop.github.io/2024/" target="_new"><u>The 3rd International Workshop on Hybrid Internet of Everything Models for Industry 5.0 (HIEMI 2024)</u></a></li>
 <li><u>The 1st International Workshop on Advanced Platforms for Generative AI for Marine Science and Engineering Applications (GENAI4SEA 2024) </u></li>
 </ol>
 <!-- <ol>
