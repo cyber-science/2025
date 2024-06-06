@@ -18,6 +18,7 @@ permalink: /cyberscitech/acceptworkshops/
 
 <li>The 6th International Workshop on Big Data Analytics for Cyber Security and Defence (BigCyberSecurity 2024)</li>
 <li><a href="http://cyber-science.org/2024/assets/files/ws-ss/cst/IOT-LIFE2024_CFP.pdf" target=_new><u>The 5th International Workshop on Impact of Internet of Things on Daily Life (IoT-Life 2024)</u></a></li>
+<li>The 9th International Workshop on Emerging Dependable Computing System Technologies and Applications (EDCSTA 2024)</li>
 </ol>
 <!-- 3. The 8th International Workshop on Applications of AI, Cyber Security and Economics Data Analytics (ACE-2024)<hr/> -->
 
