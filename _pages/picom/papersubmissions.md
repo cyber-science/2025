@@ -14,7 +14,7 @@ permalink: /picom/papersubmissions/
 </p>
 
 <p>Authors are invited to submit their original research work that has not previously been submitted or published in any other venue. Regular, work-in-progress (WiP), and workshop/special session papers 
- need to be submitted via EDAS (hyperlink is to be added).
+ need to be submitted via EDAS  (<a href="https://edas.info/N32602" target =_new>https://edas.info/N32602</a>).
   <!-- via Easychair (<a href="https://easychair.org/conferences/?conf=dascpicomcbdcomcyber" target =_new>https://easychair.org/conferences/?conf=dascpicomcbdcomcyber</a>). -->
 </p><p>
 <ul>
