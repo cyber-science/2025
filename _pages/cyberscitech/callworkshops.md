@@ -50,7 +50,7 @@ Please use 'CyberSciTech 2024 Workshop-SS Proposal' as the email subject. Accept
 - Workshop/SS Proposal Due: April 15, 2024
 - Regular Paper Due: June 25, 2024
 - WiP/Workshop/SS Paper Due: July 15, 2024
-- Authors Notification: August 15, 2024
+- Authors Notification: August 25, 2024
 - Camera-ready Submission: September 15, 2024
 
 
