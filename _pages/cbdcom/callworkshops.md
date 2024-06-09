@@ -45,7 +45,7 @@ Please use 'CBDCom 2024 Workshop-SS Proposal' as the email subject. Accepted pro
 - Bo Wu, Tokyo University of Technology (Japan) < wubo AT stf DOT teu DOT ac DOT jp >
 
 <b>Important Dates:</b><br/>
-- Workshop/SS Proposal Due: April 15, 2024
+- Workshop/SS Proposal Due: June 30, 2024
 - Regular Paper Due: June 25, 2024
 - WiP/Workshop/SS Paper Due: July 15, 2024
 - Authors Notification: August 25, 2024

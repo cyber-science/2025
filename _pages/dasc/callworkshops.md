@@ -44,7 +44,7 @@ Please use 'DASC 2024 Workshop-SS Proposal' as the email subject. Accepted propo
 - Arafatur Rahman, University of Wolverhampton, UK < Arafatur DOT Rahman AT wlv DOT ac DOT uk >
 
 <b>Important Dates:</b><br/>
-- Workshop/SS Proposal Due: April 15, 2024
+- Workshop/SS Proposal Due: June 30, 2024
 - Regular Paper Due: June 25, 2024
 - WiP/Workshop/SS Paper Due: July 15, 2024
 - Authors Notification: August 25, 2024

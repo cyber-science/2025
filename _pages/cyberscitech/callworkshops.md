@@ -47,7 +47,7 @@ Please use 'CyberSciTech 2024 Workshop-SS Proposal' as the email subject. Accept
 - Keping Yu, Hosei University (Japan) < keping DOT yu DOT 47 AT hosei DOT ac DOT jp >
 
 <b>Important Dates:</b><br/>
-- Workshop/SS Proposal Due: April 15, 2024
+- Workshop/SS Proposal Due: June 30, 2024
 - Regular Paper Due: June 25, 2024
 - WiP/Workshop/SS Paper Due: July 15, 2024
 - Authors Notification: August 25, 2024
