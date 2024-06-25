@@ -39,13 +39,10 @@ A single pdf file with all the material described above should be prepared. Plea
 - Ouns Bouachir, Zayed University, UAE < ouns DOT bouachir AT zu DOT ac DOT ae >
 
 <b>Important Dates:</b><br/>
-- Workshop/SS Proposal Due: April 15, 2024
-- Workshop/SS Acceptance Notification: April 17, 2024 
-- Workshop/SS Paper Due: July 15, 2024
+- Workshop/SS Proposal Due: June 30, 2024
+- Workshop/SS Paper Due: <font color=black><del>July 15, 2024</del></font><font color=red> July 31, 2024 (extended)</font>
 - Authors Notification: September 15, 2024
 - Camera-ready Submission: September 15, 2024
-
-
 
 <!--- COMMENTED
 <hr/>
