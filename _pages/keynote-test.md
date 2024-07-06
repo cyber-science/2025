@@ -25,24 +25,14 @@ Head of the Research Division of Distributed Systems at the TU Wien, Austria and
 <img src="/2024/assets/images/speaker/jinhua_she.jpg" align="left" style="border:10px solid white" width="150">Jinhua She, Professor
 <br/>
 The Graduate School of Bionics, Computer and Media Sciences/Control theory and applications, Tokyo University of Technology, Japan
-<!-- <p>
-<b>Abstract: </b>
-</p>
-<p>
-<b>Biography: </b>
-</p> -->
+
 <hr/>
 
 <h4></h4>
 <img src="/2024/assets/images/speaker/prospero_naval.png" align="left" style="border:10px solid white" width="150">Prospero Naval, Professor
 <br/>
 Department of Computer Science, University of the Philippines Diliman, Philippines
-<!-- <p>
-<b>Abstract: </b>
-</p>
-<p>
-<b>Biography: </b>
-</p> -->
+
 <hr/>
 
 
@@ -50,12 +40,7 @@ Department of Computer Science, University of the Philippines Diliman, Philippin
 <img src="/2024/assets/images/speaker/frank_hsu.jpg" align="left" style="border:10px solid white" width="150">Frank Hsu, Professor
 <br/>
 Department of Computer and Information Sciences, Fordham University, USA
-<!-- <p>
-<b>Abstract: </b>
-</p>
-<p>
-<b>Biography: </b>
-</p> -->
+
 <hr/>
 
 <hr/> 
