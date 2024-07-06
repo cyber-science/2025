@@ -14,7 +14,7 @@ permalink: /panel-test/
 <br/>Hui-Huang Hsu, Department of Computer Science and Information Engineering, Tamkang University, Taiwan
 <br/>John Paul C. Vergara, Department of Information Systems and Computer Science, Ateneo de Manila University, Philippines
 <br/>Paulo F. Pires, Department of Computer Science, University of Coimbra, Federal University of Rio de Janeiro, Brazil
-<br/><b>Panel Secretary: </b>
+<br/><br/><b>Panel Secretary: </b>
 <br/>Ao Guo, Graduate School of Informatics, Nagoya University, Japan
 <br/>
 
