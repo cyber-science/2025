@@ -28,6 +28,7 @@ The Graduate School of Bionics, Computer and Media Sciences/Control theory and a
 <p>
 </p>
 <hr/>
+<hr/>
 
 <h4></h4>
 <img src="/2024/assets/images/speaker/prospero_naval.png" align="left" style="border:10px solid white" width="150">Prospero Naval, Professor
@@ -35,6 +36,7 @@ The Graduate School of Bionics, Computer and Media Sciences/Control theory and a
 Department of Computer Science, University of the Philippines Diliman, Philippines
 <p>
 </p>
+<hr/>
 <hr/>
 
 
@@ -44,6 +46,7 @@ Department of Computer Science, University of the Philippines Diliman, Philippin
 Department of Computer and Information Sciences, Fordham University, USA
 <p>
 </p>
+<hr/>
 <hr/>
 
 <hr/> 
