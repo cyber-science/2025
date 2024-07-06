@@ -56,3 +56,9 @@ John Paul C. Vergara<br/> Ateneo de Manila University, Philippines
 <img src="/2024/assets/images/panel_speaker/paulo_pires.jpg" align="left" style="border:10px solid white" width="150">
 Paulo F. Pires<br/> Federal University of Rio de Janeiro, Brazil
  <p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
