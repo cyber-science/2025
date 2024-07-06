@@ -30,6 +30,8 @@ The Graduate School of Bionics, Computer and Media Sciences/Control theory and a
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 <hr/>
 
 
@@ -42,6 +44,8 @@ Department of Computer Science, University of the Philippines Diliman, Philippin
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 <hr/>
 
 
@@ -51,6 +55,8 @@ Department of Computer Science, University of the Philippines Diliman, Philippin
 Department of Computer and Information Sciences, Fordham University, USA
 <p>
 </p>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
