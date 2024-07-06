@@ -13,7 +13,7 @@ permalink: /keynote-test/
 <img src="/2024/assets/images/speaker/schahram_dustdar.jpg" align="left" style="border:10px solid white" width="200">
 <h6><b>Schahram Dustdar, Professor</b></h6>
 <h6>
-<b>Head of the Research Division of Distributed Systems at the TU Wien, Austria and part-time ICREA Research Professor UPF, Barcelona, Spain </b>
+Head of the Research Division of Distributed Systems at the TU Wien, Austria and part-time ICREA Research Professor UPF, Barcelona, Spain
 </h6>
 <p>
 <b>Abstract: </b> Modern distributed systems also deal with uncertain scenarios, where environments, infrastructures, and applications are widely diverse. In the scope of IoT-Edge-Fog-Cloud computing, leveraging these neuroscience-inspired principles and mechanisms could aid in building more flexible solutions able to generalize over different environments. A captivating set of hypotheses from the field of neuroscience suggests that human and animal brain mechanisms result from a few powerful principles. If proved to be accurate, these assumptions could open a deep understanding of the way humans and animals manage to cope with the unpredictability of events and imagination.
