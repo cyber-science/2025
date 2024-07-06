@@ -27,16 +27,21 @@ Head of the Research Division of Distributed Systems at the TU Wien, Austria and
 The Graduate School of Bionics, Computer and Media Sciences/Control theory and applications, Tokyo University of Technology, Japan
 <p>
 </p>
-<hr/>
+<br/>
+<br/>
+<br/>
 <hr/>
 
+
 <h4></h4>
-<img src="/2024/assets/images/speaker/prospero_naval.png" align="left" style="border:10px solid white" width="150">Prospero Naval, Professor
+<img src="/2024/assets/images/speaker/prospero_naval.jpg" align="left" style="border:10px solid white" width="150">Prospero Naval, Professor
 <br/>
 Department of Computer Science, University of the Philippines Diliman, Philippines
 <p>
 </p>
-<hr/>
+<br/>
+<br/>
+<br/>
 <hr/>
 
 
@@ -46,7 +51,9 @@ Department of Computer Science, University of the Philippines Diliman, Philippin
 Department of Computer and Information Sciences, Fordham University, USA
 <p>
 </p>
-<hr/>
+<br/>
+<br/>
+<br/>
 <hr/>
 
 <hr/> 
