@@ -10,10 +10,11 @@ permalink: /keynote-test/
 <hr/>
 
 <h4>Towards Active Inference for Distributed Intelligence in the Computing Continuum</h4>
-<img src="/2024/assets/images/speaker/schahram_dustdar.jpg" align="left" style="border:10px solid white" width="200"> <h6>Schahram Dustdar, Professor </h6>
+<img src="/2024/assets/images/speaker/schahram_dustdar.jpg" align="left" style="border:10px solid white" width="200">
+<h6>Schahram Dustdar, Professor </h6>
 <br/>
 <h6>
-Head of the Research Division of Distributed Systems at the TU Wien, Austria and part-time ICREA Research Professor UPF, Barcelona, Spain
+<b>Head of the Research Division of Distributed Systems at the TU Wien, Austria and part-time ICREA Research Professor UPF, Barcelona, Spain </b>
 </h6>
 <p>
 <b>Abstract: </b> Modern distributed systems also deal with uncertain scenarios, where environments, infrastructures, and applications are widely diverse. In the scope of IoT-Edge-Fog-Cloud computing, leveraging these neuroscience-inspired principles and mechanisms could aid in building more flexible solutions able to generalize over different environments. A captivating set of hypotheses from the field of neuroscience suggests that human and animal brain mechanisms result from a few powerful principles. If proved to be accurate, these assumptions could open a deep understanding of the way humans and animals manage to cope with the unpredictability of events and imagination.
@@ -24,7 +25,8 @@ Head of the Research Division of Distributed Systems at the TU Wien, Austria and
 <hr/>
 
 <h4></h4>
-<img src="/2024/assets/images/speaker/jinhua_she.jpg" align="left" style="border:10px solid white" width="200"> <h6>Jinhua She, Professor </h6>
+<img src="/2024/assets/images/speaker/jinhua_she.jpg" align="left" style="border:10px solid white" width="200">
+<h6>Jinhua She, Professor </h6>
 <br/>
 <h6>
 The Graduate School of Bionics, Computer and Media Sciences/Control theory and applications, Tokyo University of Technology, Japan
@@ -43,7 +45,8 @@ The Graduate School of Bionics, Computer and Media Sciences/Control theory and a
 
 
 <h4></h4>
-<img src="/2024/assets/images/speaker/prospero_naval.jpg" align="left" style="border:10px solid white" width="200"> <h6>Prospero Naval, Professor </h6>
+<img src="/2024/assets/images/speaker/prospero_naval.jpg" align="left" style="border:10px solid white" width="200">
+<h6>Prospero Naval, Professor </h6>
 <br/>
 <h6>
 Department of Computer Science, University of the Philippines Diliman, Philippines
@@ -62,7 +65,8 @@ Department of Computer Science, University of the Philippines Diliman, Philippin
 
 
 <h4></h4>
-<img src="/2024/assets/images/speaker/frank_hsu.jpg" align="left" style="border:10px solid white" width="200"> <h6>Frank Hsu, Professor </h6>
+<img src="/2024/assets/images/speaker/frank_hsu.jpg" align="left" style="border:10px solid white" width="200">
+<h6>Frank Hsu, Professor </h6>
 <br/>
 <h6>
 Department of Computer and Information Sciences, Fordham University, USA
