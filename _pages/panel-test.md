@@ -20,33 +20,33 @@ permalink: /panel-test/
 
 <hr/>
 
-<img src="/2024/assets/images/panel_speaker/jianhua_ma.jpg" align="left" style="border:10px solid white" width="100">
+<img src="/2024/assets/images/panel_speaker/jianhua_ma.jpg" align="left" style="border:10px solid white" width="150">
 Jianhua Ma<br/> Hosei University, Japan
  <p>
  <b>Biography</b>: Jianhua Ma is a professor in the Faculty of Computer and Information Sciences and a director in the Institute of Integrated Science and Technology (IIST), Hosei University, Japan. He is one of pioneers in research on Hyper World and Cyber World (CW) since 1996. He first proposed Ubiquitous Intelligence (UI) towards Smart World (SW), which he envisioned in 2004, and was featured in the European ID People Magazine in 2005. He has conducted several unique CW-related projects including the Cyber Individual (Cyber-I), which was highlighted on the IEEE Computing Now in 2011. He has founded IEEE Conferences on Ubiquitous Intelligence and Computing (UIC), Pervasive Intelligence and Computing (PICom), Cyber Physical and Social Computing (CPSCom), Internet of Things (iThings), and Internet of People (IoP). He is a chair of IEEE SC Technical Committee on Hyper-Intelligence, a co-chair of IEEE SMC Technical Committee on Cybermatics, and a founder of IEEE CIS Technical Committee on Smart World.
  </p>
  
- <img src="/2024/assets/images/panel_speaker/qun_jin.jpeg" align="left" style="border:10px solid white" width="100">
+ <img src="/2024/assets/images/panel_speaker/qun_jin.jpeg" align="left" style="border:10px solid white" width="150">
 Qun Jin<br/> Waseda University, Japan
  <p>
 <br/>
 <br/>
 <br/>
 <br/>
- <img src="/2024/assets/images/panel_speaker/hui-huang_hsu.jpg" align="left" style="border:10px solid white" width="100">
+ <img src="/2024/assets/images/panel_speaker/hui-huang_hsu.jpg" align="left" style="border:10px solid white" width="150">
 Hui-Huang Hsu<br/> Tamkang University, Taiwan
  <p>
 <br/>
 <br/>
 <br/>
 <br/>
-<img src="/2024/assets/images/panel_speaker/john_vergara.jpg" align="left" style="border:10px solid white" width="100">
+<img src="/2024/assets/images/panel_speaker/john_vergara.jpg" align="left" style="border:10px solid white" width="150">
 John Paul C. Vergara<br/> Ateneo de Manila University, Philippines
 <p>
 <br/>
 <br/>
 <br/>
 <br/>
-<img src="/2024/assets/images/panel_speaker/paulo_pires.jpg" align="left" style="border:10px solid white" width="100">
+<img src="/2024/assets/images/panel_speaker/paulo_pires.jpg" align="left" style="border:10px solid white" width="150">
 Paulo F. Pires<br/> Federal University of Rio de Janeiro, Brazil
  <p>
