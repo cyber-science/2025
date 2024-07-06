@@ -33,6 +33,8 @@ Qun Jin<br/> Waseda University, Japan
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
  <img src="/2024/assets/images/panel_speaker/hui-huang_hsu.jpg" align="left" style="border:10px solid white" width="150">
 Hui-Huang Hsu<br/> Tamkang University, Taiwan
  <p>
@@ -40,9 +42,13 @@ Hui-Huang Hsu<br/> Tamkang University, Taiwan
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 <img src="/2024/assets/images/panel_speaker/john_vergara.jpg" align="left" style="border:10px solid white" width="150">
 John Paul C. Vergara<br/> Ateneo de Manila University, Philippines
 <p>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
