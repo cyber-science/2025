@@ -1,7 +1,7 @@
 ---
 title: Tutorials
 layout: sub
-permalink: /tutorials-test/
+permalink: /tutorial-test/
 ---
 
 <h3>Tutorials</h3>
