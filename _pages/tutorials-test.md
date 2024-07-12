@@ -9,7 +9,7 @@ permalink: /tutorial-test/
 
 <h4>Generative AI: Basics, Application, and Future Trends</h4>
 <img src="/2024/assets/images/tutorial_speaker/ao_guo.jpg" align="left" style="border:10px solid white" width="200">
-<h6><b>Ao Guo, Researcher</b></h6>
+<h6><b>Ao Guo, Postdoctoral Researcher</b></h6>
 <h6>
 Graduate School of Informatics, Nagoya University, Japan
 </h6>
