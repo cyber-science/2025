@@ -10,7 +10,7 @@ permalink: /tutorial-test/
 <h4>Generative AI: Techniques and Applications with Large Language Models</h4>
 <h5>Tutorial Time: 13:00-14:40 p.m. PHST, November 5, 2024</h5>
 <img src="/2024/assets/images/tutorial_speaker/ao_guo.jpg" align="left" style="border:10px solid white" width="200">
-<h6><b>Ao Guo, Ph.D. in Computer Science</b></h6>
+<h5><b>Ao Guo, Ph.D. in Computer Science</b></h5>
 <h6>
 Graduate School of Informatics, Nagoya University, Japan
 </h6>
