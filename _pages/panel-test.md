@@ -22,7 +22,7 @@ permalink: /panel-test/
 
 <img src="/2024/assets/images/panel_speaker/jianhua_ma.jpg" align="left" style="border:10px solid white" width="150">
 Jianhua Ma<br/> Hosei University, Japan
- <p class="justified-text">
+<p style="text-align: justify;">
  <b>Biography</b>: Jianhua Ma is a professor in the Faculty of Computer and Information Sciences and a director in the Institute of Integrated Science and Technology (IIST), Hosei University, Japan. He is one of pioneers in research on Hyper World and Cyber World (CW) since 1996. He first proposed Ubiquitous Intelligence (UI) towards Smart World (SW), which he envisioned in 2004, and was featured in the European ID People Magazine in 2005. He has conducted several unique CW-related projects including the Cyber Individual (Cyber-I), which was highlighted on the IEEE Computing Now in 2011. He has founded IEEE Conferences on Ubiquitous Intelligence and Computing (UIC), Pervasive Intelligence and Computing (PICom), Cyber Physical and Social Computing (CPSCom), Internet of Things (iThings), and Internet of People (IoP). He is a chair of IEEE SC Technical Committee on Hyper-Intelligence, a co-chair of IEEE SMC Technical Committee on Cybermatics, and a founder of IEEE CIS Technical Committee on Smart World.
  </p>
  
