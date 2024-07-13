@@ -11,7 +11,7 @@ permalink: /keynote-test/
 
 <h4>Towards Active Inference for Distributed Intelligence in the Computing Continuum</h4>
 <img src="/2024/assets/images/keynote_speaker/schahram_dustdar.jpg" align="left" style="border:10px solid white" width="200">
-<h6><b>Schahram Dustdar, Professor</b></h6>
+<h5><b>Schahram Dustdar, Professor</b></h5>
 <h6>
 Head of the Research Division of Distributed Systems at the TU Wien, Austria and part-time ICREA Research Professor UPF, Barcelona, Spain
 </h6>
@@ -25,7 +25,7 @@ Head of the Research Division of Distributed Systems at the TU Wien, Austria and
 
 <h4></h4>
 <img src="/2024/assets/images/keynote_speaker/jinhua_she.jpg" align="left" style="border:10px solid white" width="200">
-<h6><b>Jinhua She, Professor</b></h6>
+<h5><b>Jinhua She, Professor</b></h5>
 <h6>
 The Graduate School of Bionics, Computer and Media Sciences/Control theory and applications, Tokyo University of Technology, Japan
 </h6>
@@ -44,7 +44,7 @@ The Graduate School of Bionics, Computer and Media Sciences/Control theory and a
 
 <h4></h4>
 <img src="/2024/assets/images/keynote_speaker/prospero_naval.jpg" align="left" style="border:10px solid white" width="200">
-<h6><b>Prospero Naval, Professor</b></h6>
+<h5><b>Prospero Naval, Professor</b></h5>
 <h6>
 Department of Computer Science, University of the Philippines Diliman, Philippines
 </h6>
@@ -63,7 +63,7 @@ Department of Computer Science, University of the Philippines Diliman, Philippin
 
 <h4></h4>
 <img src="/2024/assets/images/keynote_speaker/frank_hsu.jpg" align="left" style="border:10px solid white" width="200">
-<h6><b>Frank Hsu, Professor</b></h6>
+<h5><b>Frank Hsu, Professor</b></h5>
 <h6>
 Department of Computer and Information Sciences, Fordham University, USA
 </h6>
