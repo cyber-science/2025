@@ -7,15 +7,15 @@ permalink: /tutorial-test/
 <h3>Tutorials</h3>
 <hr/>
 
-<h4>Generative AI: Development, Applications, and Future Trends</h4>
+<h4>Large Language Models in Generative AI: Development, Applications, and Future Trends</h4>
 <img src="/2024/assets/images/tutorial_speaker/ao_guo.jpg" align="left" style="border:10px solid white" width="200">
 <h6><b>Ao Guo, Postdoctoral Researcher</b></h6>
 <h6>
 Graduate School of Informatics, Nagoya University, Japan
 </h6>
-<p>
+<p class="justified-text">
 <b>Abstract: </b> 
-
+Generative AI (GAI) has seen rapid advancements and gained immense popularity in recent years. With its extensive model parameters and the ability to learn from vast datasets, GAI is capable of creating new content, such as text, images, music, and videos, which were once considered exclusive to human creativity. Among these, Large Language Models (LLMs) have significantly advanced the capabilities of understanding and generating human-like text, making them a pivotal component of GAI. This tutorial is designed to provide a comprehensive overview of the development of GAI, key techniques, and popular applications, with a particular focus on LLMs. We will start with an overview of the development of GAI, highlighting significant milestones and innovations. Key techniques such as transformer architectures, self-attention mechanisms, and Generative Adversarial Networks (GANs) will be explained in detail. We will explore the efficient training methods that enable the scaling and optimization of these models. We will also present popular applications of GAI across various domains. Finally, we will address challenges and considerations in the field of generative AI with LLMs.
 </p>
 
 <p>
