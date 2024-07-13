@@ -7,7 +7,7 @@ permalink: /tutorial-test/
 <h3>Tutorials</h3>
 <hr/>
 
-<h4>Large Language Models in Generative AI: Development, Applications, and Future Trends</h4>
+<h4>Generative AI with Large Language Models: Development, Techniques and Applications</h4>
 <img src="/2024/assets/images/tutorial_speaker/ao_guo.jpg" align="left" style="border:10px solid white" width="200">
 <h6><b>Ao Guo, Postdoctoral Researcher</b></h6>
 <h6>
