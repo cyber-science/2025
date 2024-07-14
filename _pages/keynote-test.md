@@ -60,22 +60,3 @@ Department of Computer Science, University of the Philippines Diliman, Philippin
 <br/>
 <hr/>
 
-
-<h4></h4>
-<img src="/2024/assets/images/keynote_speaker/frank_hsu.jpg" align="left" style="border:10px solid white" width="200">
-<h5><b>Frank Hsu, Professor</b></h5>
-<h6>
-Department of Computer and Information Sciences, Fordham University, USA
-</h6>
-<p>
-</p>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<hr/>
-
