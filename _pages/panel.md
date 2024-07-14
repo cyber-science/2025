@@ -4,7 +4,7 @@ layout: sub
 permalink: /panel/
 --- 
 
-<h3>Panel Discussion on Challenges for Generative AI and Hyper Intelligence</h3>
+<h3>The Panel on Challenges for Generative AI and Hyper Intelligence</h3>
 <hr/>
 <br/><b>Panel Time:</b> 15:10-17:00 p.m. PHT (UTC+8), November 5, 2024
 <br/> <br/><b>Panel Chair: </b>
