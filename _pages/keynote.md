@@ -41,7 +41,7 @@ The Graduate School of Bionics, Computer and Media Sciences/Control Theory and A
 <img src="/2024/assets/images/keynote_speaker/prospero_naval.jpg" align="left" style="border:10px solid white" width="200">
 <h5><b>Prospero Naval, Professor</b></h5>
 <h6>
-Department of Computer Science, University of the Philippines Diliman, Philippines
+Department of Computer Science, University of the Philippines Diliman, Diliman, Quezon City, Philippines
 </h6>
 <p>
 </p>
