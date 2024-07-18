@@ -32,7 +32,8 @@ permalink: /panel/
 <h6>Waseda University, Japan</h6>
 <p style="text-align: justify;">
  <b>Biography</b>: Qun Jin is a professor in the Department of Human Informatics and Cognitive Sciences, Faculty of Human Sciences, Waseda University, Japan. He has been extensively engaged in research works in the fields of computer science, information systems, and human informatics, with a focus on understanding and supporting humans through convergent research. His recent research interests cover behavior and cognitive informatics, artificial intelligence and machine learning, big data, personal analytics and individual modeling, trustworthy platforms for data federation, sharing, and utilization, cyber-physical-social systems, and applications in healthcare and learning support and for the realization of a carbon-neutral society. More information can be found at https://researchmap.jp/jinqun/?lang=en.
-
+ </p>
+ 
  <img src="/2024/assets/images/panel_speaker/hui-huang_hsu.jpg" align="left" style="border:10px solid white" width="150">
 <h5><b>Hui-Huang Hsu, Professor</b></h5>
 <h6>Tamkang University, Taiwan</h6>
