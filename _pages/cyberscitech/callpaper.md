@@ -67,8 +67,14 @@ Cyber Life & Human Centric Computing
 <hr/>
 
 <h4>WiP (Work-in-Porgress) Track</h4>
-The track covers all the topics for regular papers but it is aimed at  
+WiP track covers all the topics for regular papers but it is aimed at  
 <br/>papers that have an original but not fully validated proposal (WiP)
 
 <h4>Workshop/Special Session Tracks</h4>
 CyberSciTech workshops and special sessions are listed <a href="/2024/cyberscitech/acceptworkshops/"><b>here</b></a>
+
+<hr/>
+<h4 style="font-weight: bold">For Late Breaking Innovation Papers<h4>
+<h4>LBI (Late Breaking Innovation) Track</h4>
+The LBI track accommodates cutting-edge research across all CyberSciTech topics that has emerged after the regular paper deadline. This track is designed for timely, significant advancements that warrant rapid dissemination in the present conference proceedings.
+<hr/>
