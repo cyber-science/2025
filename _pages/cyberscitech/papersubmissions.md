@@ -11,7 +11,7 @@ permalink: /cyberscitech/papersubmissions/
 <h4>Submission Instructions</h4>
  Submission to Regular Tracks: <b> 6 pages</b> in minimum<br>
  Submission to WiP/Workshop/Special Session Tracks: <b>4 pages</b> in minimum<br>
-  Submission to WiP/Workshop/Special Session Tracks: <b>No page limit</b><br>
+  Submission to WiP/Workshop/Special Session Tracks: <b>Flexible page length</b><br>
 </p>
 
 <p>Authors are invited to submit their original research work that has not previously been submitted or published in any other venue. Regular, work-in-progress (WiP), and workshop/special session papers 
