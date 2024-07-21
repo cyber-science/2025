@@ -11,6 +11,7 @@ permalink: /cbdcom/papersubmissions/
 <h4>Submission Instructions</h4>
  Submission to Regular Tracks: <b> 6 pages</b> in minimum<br>
  Submission to WiP/Workshop/Special Session Tracks: <b>4 pages</b> in minimum<br>
+ Submission to Late Breaking Innovation Tracks: <b>4-8</b> pages<br>
 </p>
 
 <p>Authors are invited to submit their original research work that has not previously been submitted or published in any other venue. Regular, work-in-progress (WiP), and workshop/special session papers 
@@ -22,6 +23,7 @@ permalink: /cbdcom/papersubmissions/
 <li><b>Work-in-Progress (WiP) papers</b> should present original, ongoing and unpublished work with preliminary results. Wherever current status, initial findings, and expected contributions of the work should be included.</li>
 <li><b>Workshop papers</b> should present original, unpublished work associated with specific workshops theme. Wherever novel ideas, methods, or applications related to the workshop scope as well as concrete evaluation and/or analysis should be included.</li>
 <li><b>Special Session (SS) papers</b> should present substantial, original, completed, and unpublished work focus on emerging topics, specific research domains, or interdisciplinary areas. Wherever significant contributions to advance the state-of-the-art in the specific research domain or interdisciplinary area should be included.</li>
+<li><b>Late Breaking Innovation (LBI) papers</b> should present cutting-edge research across all CyberSciTech topics. LBI submissions will undergo a review process, and those accepted will be included in the conference program as either Regular or WiP papers, based on their quality, novelty, and completeness.</li>
 </ul>
 </p><p>
 Papers should be prepared in IEEE CS Proceedings format. IEEE formatting information: <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html" target=_new>http://www.ieee.org/conferences_events/conferences/publishing/templates.html</a>
