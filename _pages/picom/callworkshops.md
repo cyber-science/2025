@@ -41,8 +41,9 @@ A single pdf file with all the material described above should be prepared. Plea
 <b>Important Dates:</b><br/>
 - Workshop/SS Proposal Due: June 30, 2024
 - Workshop/SS Paper Due: <font color=black><del>July 15, 2024</del></font><font color=red> July 31, 2024 (extended)</font>
-- Authors Notification: September 15, 2024
-- Camera-ready Submission: September 15, 2024
+- Authors Notification: September 1, 2024
+- Paper Registration Due: September 18, 2024
+- Camera-ready Submission: September 27, 2024
 
 <!--- COMMENTED
 <hr/>
