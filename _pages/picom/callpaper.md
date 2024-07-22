@@ -86,7 +86,7 @@ PICom workshops and special sessions are listed <a href="/2024/picom/acceptworks
 <hr/>
 <h4>LBI (Late Breaking Innovation) Track</h4>
 The LBI track accommodates cutting-edge research across all<br/>
-CyberSciTech topics that has emerged after the regular paper deadline.<br/>
+PICom topics that has emerged after the regular paper deadline.<br/>
 This track is designed for timely, significant advancements that warrant<br/>
 rapid dissemination in the present conference proceedings.
 <hr/>
