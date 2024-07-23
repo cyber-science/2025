@@ -50,7 +50,7 @@ permalink: /panel/
 
 <img src="/2024/assets/images/panel_speaker/paulo_pires.jpg" align="left" style="border:5px solid white" width="150">
 <h5><b>Paulo F. Pires, Research Manager</b></h5>
-<h6>Office of the CTO division of Dell</h6>
+<h6>Office of the CTO division of Dell, Brazil & US</h6>
 <p style="text-align: justify;">
  <b>Biography</b>: Paulo F. Pires (DSc COPPE / UFRJ 2002) currently serves as a Research Manager at the Office of the CTO division of Dell, leading dynamic global teams in Brazil and the US. His current research focuses on AI/ML, Intelligent Infrastructures, and Quantum Computing. Paulo Pires is also an Associate Professor at the Fluminense Federal University, Brazil where he researches at the intersection of Software Engineering and Distributed Systems. He has published more than 200 papers in internationally renowned journals, conference and book chapters and has more the 15 patents registered with the USPTO (United States). He is currently a member of the IEEE TC on Cybermatics, Associate Editor of the IEEE Open Journal of the Communications Society and member of the editorial board of the International Journal of Computer Networks (CSC Journals). Dr. Pires has a CNPq research productivity scholarship since 2010 and is a member of IEEE and the Brazilian Computer Society (SBC).
  </p>
