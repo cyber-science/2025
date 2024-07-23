@@ -44,6 +44,7 @@ permalink: /panel/
 <img src="/2024/assets/images/panel_speaker/john_vergara.jpg" align="left" style="border:5px solid white" width="150">
 <h5><b>John Paul C. Vergara, Professor</b></h5>
 <h6>Ateneo de Manila University, Philippines <h6>
+<p style="text-align: justify;">
  <b>Biography</b>: John Paul Vergara is a Professor in the Department of Information Systems and Computer Science at the Ateneo de Manila University, where he also served as Vice President from 2010-2016 and 2019-2022, overseeing its higher education units.  His research interests are in theoretical computer science, algorithms, graph theory, and artificial intelligence.  He is currently a research fellow under the University of the Philippines President Eduardo J. Angara (UP PEJA) fellowship program working on a policy framework for higher education in response to developments in generative artificial intelligence.
  </p>
 <br/>
