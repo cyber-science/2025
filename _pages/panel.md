@@ -43,15 +43,15 @@ permalink: /panel/
 
 <img src="/2024/assets/images/panel_speaker/john_vergara.jpg" align="left" style="border:5px solid white" width="150">
 <h5><b>John Paul C. Vergara, Professor</b></h5>
-<h6>Ateneo de Manila University, Philippines <h6>
+<h6>Ateneo de Manila University, Philippines<h6>
 <p style="text-align: justify;">
- <b>Biography</b>: John Paul Vergara is a Professor in the Department of Information Systems and Computer Science at the Ateneo de Manila University, where he also served as Vice President from 2010-2016 and 2019-2022, overseeing its higher education units.  His research interests are in theoretical computer science, algorithms, graph theory, and artificial intelligence.  He is currently a research fellow under the University of the Philippines President Eduardo J. Angara (UP PEJA) fellowship program working on a policy framework for higher education in response to developments in generative artificial intelligence.
-</p>
+<b>Biography</b>: John Paul Vergara is a Professor in the Department of Information Systems and Computer Science at the Ateneo de Manila University, where he also served as Vice President from 2010-2016 and 2019-2022, overseeing its higher education units.  His research interests are in theoretical computer science, algorithms, graph theory, and artificial intelligence.  He is currently a research fellow under the University of the Philippines President Eduardo J. Angara (UP PEJA) fellowship program working on a policy framework for higher education in response to developments in generative artificial intelligence.
 <br/>
+</p>
 
 <img src="/2024/assets/images/panel_speaker/paulo_pires.jpg" align="left" style="border:5px solid white" width="150">
-<h5><b>Paulo F. Pires, Associate Professor</b></h5>
-<h6>Federal University of Rio de Janeiro, Brazil</h6>
+<h5><b>Paulo F. Pires, Research Manager</b></h5>
+<h6>Office of the CTO division of Dell</h6>
 <p style="text-align: justify;">
  <b>Biography</b>: Paulo F. Pires (DSc COPPE / UFRJ 2002) currently serves as a Research Manager at the Office of the CTO division of Dell, leading dynamic global teams in Brazil and the US. His current research focuses on AI/ML, Intelligent Infrastructures, and Quantum Computing. Paulo Pires is also an Associate Professor at the Fluminense Federal University, Brazil where he researches at the intersection of Software Engineering and Distributed Systems. He has published more than 200 papers in internationally renowned journals, conference and book chapters and has more the 15 patents registered with the USPTO (United States). He is currently a member of the IEEE TC on Cybermatics, Associate Editor of the IEEE Open Journal of the Communications Society and member of the editorial board of the International Journal of Computer Networks (CSC Journals). Dr. Pires has a CNPq research productivity scholarship since 2010 and is a member of IEEE and the Brazilian Computer Society (SBC).
  </p>
