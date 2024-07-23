@@ -40,7 +40,6 @@ permalink: /panel/
 <p style="text-align: justify;">
  <b>Biography</b>: Hui-Huang Hsu is a Professor in the Department of Computer Science and Information Engineering at Tamkang University in Taipei, Taiwan. Since August 2022, he has also served as the Vice President for Academic Affairs. From February 2017 to January 2019, he was the President of the Taiwanese Association for Artificial Intelligence (TAAI). He co-edited the book "Big Data Analytics for Sensor-Network Collected Intelligence," published by Elsevier in February 2017. With over 30 years of experience, his research interests include machine learning, data mining, ambient intelligence, biomedical informatics, and multimedia processing.
  </p>
- <br/>
 
 <img src="/2024/assets/images/panel_speaker/john_vergara.jpg" align="left" style="border:5px solid white" width="150">
 <h5><b>John Paul C. Vergara, Professor</b></h5>
