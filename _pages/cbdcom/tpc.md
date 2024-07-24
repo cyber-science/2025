@@ -1,5 +1,5 @@
 ---
-title: Technical Program Committee
+title: CBDCom 2024 Technical Program Committee
 layout: subcbd2
 permalink: /cbdcom/tpc/
 ---

@@ -1,5 +1,5 @@
 ---
-title: Technical Program Committee
+title: CyberSciTech 2024 Technical Program Committee
 layout: subcst2
 permalink: /cyberscitech/tpc/
 ---

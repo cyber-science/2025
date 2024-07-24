@@ -1,5 +1,5 @@
 ---
-title: Technical Program Committee
+title: DASC 2024 Technical Program Committee
 layout: subdasc2
 permalink: /dasc/tpc/
 ---
