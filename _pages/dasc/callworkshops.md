@@ -45,7 +45,7 @@ Please use 'DASC 2024 Workshop-SS Proposal' as the email subject. Accepted propo
 
 <b>Important Dates:</b><br/>
 - Workshop/SS Proposal Due: June 30, 2024
-- WiP/Workshop/SS Paper Due: <font color=black><del>July 15, 2024</del></font><font color=red> July 31, 2024 (extended)</font>
+- Workshop/SS Paper Due: <font color=black><del>July 15, 2024</del></font><font color=red> August 15, 2024 (Final Extension)</font>
 - Author Notification: September 1, 2024
 - Paper Registration Due: September 18, 2024
 - Camera-ready Submission: September 27, 2024
