@@ -16,7 +16,7 @@ permalink: /picom/acceptworkshops/
 <ol>
 <!-- <li><u>The 3rd International Workshop on Hybrid Internet of Everything Models for Industry 5.0 (HIEMI 2024) </u></li> -->
 <li><a href="https://hiemi-workshop.github.io/2024/" target="_new"><u>The 3rd International Workshop on Hybrid Internet of Everything Models for Industry 5.0 (HIEMI 2024)</u></a></li>
-<li><u>The 1st International Workshop on Advanced Platforms for Generative AI for Marine Science and Engineering Applications (GENAI4SEA 2024) </u></li>
+<li><a href="https://genai4sea-workshop.org/" target="_new"><u>The 1st International Workshop on Advanced Platforms for Generative AI for Marine Science and Engineering Applications (GENAI4SEA 2024)</u></a></li>
 </ol>
 <!-- <ol>
 <li><a href="/2022/assets/files/ws-ss/cst/AmI2022_CFP.pdf" target=_new>The 1st International Workshop on Cybersecurity Issues of IoT in Ambient Intelligence environment (AmI 2022)</a></li>
