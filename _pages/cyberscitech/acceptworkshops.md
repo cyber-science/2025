@@ -15,8 +15,7 @@ permalink: /cyberscitech/acceptworkshops/
 <h3>Workshops - IEEE CyberSciTech 2024</h3>
 <hr/>
 <ol>
-
-<li>The 6th International Workshop on Big Data Analytics for Cyber Security and Defence (BigCyberSecurity 2024)</li>
+<li><a href="http://cyber-science.org/2024/assets/files/ws-ss/cst/BigCyberSecurity2024_CFP.pdf" target=_new><u>The 6th International Workshop on Big Data Analytics for Cyber Security and Defence (BigCyberSecurity 2024)</u></a></li>
 <li><a href="http://cyber-science.org/2024/assets/files/ws-ss/cst/IOT-LIFE2024_CFP.pdf" target=_new><u>The 5th International Workshop on Impact of Internet of Things on Daily Life (IoT-Life 2024)</u></a></li>
 <li><a href="https://gai-hyperi.github.io/" target="_new"><u>The 1st International Workshop on Generative AI and Hyper Intelligence (GAI-HyperI 2024)</u></a></li>
 </ol>
