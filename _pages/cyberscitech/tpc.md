@@ -7,6 +7,7 @@ permalink: /cyberscitech/tpc/
 <h3>CyberSciTech 2024 Technical Program Committee</h3>
 <hr/>
 Mitsuaki Akiyama, NTT, Japan<br>
+Earl Ryan M. Aleluya, MSU-Iligan Institute of Technology, Philippines<br>
 Liaqat Ali, Athabasca University, Canada<br>
 Md Amiruzzaman, Kent State University, USA<br>
 Thomas Austin, San Jose State University, USA<br>
@@ -21,6 +22,7 @@ Jiaoyan Chen, Wuhan University of Science and Technology, China<br>
 Xianfu Chen, VTT Technical Research Centre of Finland, Finland<br>
 Chien-Fu Cheng, National Taiwan Ocean University, Taiwan<br>
 Marta Chinnici, ENEA, Italy<br>
+Liezil E. Daberao, MSU-Iligan Institute of Technology, Philippines<br>
 Lu Dai, Huazhong University of Science and Technology (HUST), China<br>
 Miguel De-la-torre, Universidad de Guadalajara, Mexico<br>
 M. Ali Akber Dewan, Athabasca University, Canada<br>
@@ -71,6 +73,7 @@ Zhaoxing Li, University of Southampton, UK<br>
 Kaitai Liang, University of Surrey, UK<br>
 Jian-wei Liu, China University of Petroleum Beijing, China<br>
 Zhe Liu, University of Jiangsu, China<br>
+Orven E. Llantos, MSU-Iligan Institute of Technology, Philippines<br>
 Nai-Wei Lo, National Taiwan University of Science and Technology, Taiwan<br>
 Eleonora Losiouk, University of Padova, Italy<br>
 Xin Luo, Chongqing University, China<br>
@@ -103,6 +106,7 @@ Tengku Adil Tengku Izhar, Universiti Teknologi Mara, Malaysia<br>
 Zenonas Theodosiou, Smart Systems and Emerging Technologies, Cyprus<br>
 Costas Vassilakis, University of the Peloponnese, Greece<br>
 Vinod Kumar Verma, SLIET,  LONGOWAL, India<br>
+Cherry Mae G. Villame, MSU-Iligan Institute of Technology, Philippines<br>
 Feng Wang, Guangdong University of Technology, China<br>
 Hao Wang, Norwegian University of Science and Technology, Norway<br>
 Jianjia Wang, Xi'an Jiaotong-Liverpool University, China<br>
