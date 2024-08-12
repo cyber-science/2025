@@ -42,7 +42,6 @@ George Grispos, University of Nebraksa at Omaha, USA<br>
 Bo Gu, Sun Yat-Sen University, China<br>
 Zhongyang Han, School of Control Science and Engineering,  Dalian University of Technology, China<br>
 Enamul Haque, York University, Canada<br>
-Takuya Hayashi, NEC, Japan<br>
 Naohiro Hayashibara, Kyoto Sangyo University, Japan<br>
 Hiroaki Higaki, Tokyo Denki University, Japan<br>
 Mario Hildebrandt, Otto von Guericke University Magdeburg, Germany<br>
