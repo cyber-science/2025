@@ -46,6 +46,7 @@ Fabrizio Marozzo, Dimes, Unical, Italy<br>
 Diogo M. F. Mattos, Universidade Federal Fluminense & MídiaCom, Brazil<br>
 Ilir Murturi, Vienna University of Technology, Austria<br>
 Klimis Ntalianis, University of West Attica, Greece<br>
+Atsumoto Ohashi, Nagoya University, Japan<br>
 Souvik Pal, Global Institute of Management and Technology, India<br>
 Fernanda G. O. Passos, Instituto Superior de Engenharia de Lisboa & COPELABS - Universidade Lusófona, Portugal<br>
 Al-Sakib Khan Pathan, United International University, Bangladesh<br>
