@@ -62,6 +62,7 @@ Federico Fausto Santoro, University of Catania, Italy<br>
 Giuseppe Sarnè, Università Milano Bicocca, Italy<br>
 Thiago Pereira Silva, Federal University of Mato Grosso, Brazil<br>
 Michael Sirivianos, Cyprus University of Technology, Cyprus<br>
+Guanqun Sun, Hangzhou Medical College, China<br>
 Javid Taheri, Karlstad University, Sweden<br>
 Zenonas Theodosiou, Research Centre on Interactive Media, Smart Systems and Emerging Technologies & RISE, Cyprus<br>
 Pedro Valderas, Technical University of Valencia, Spain<br>
