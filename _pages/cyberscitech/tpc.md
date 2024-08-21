@@ -6,7 +6,6 @@ permalink: /cyberscitech/tpc/
 
 <h3>CyberSciTech 2024 Technical Program Committee</h3>
 <hr/>
-Mitsuaki Akiyama, NTT, Japan<br>
 Earl Ryan M. Aleluya, MSU-Iligan Institute of Technology, Philippines<br>
 Liaqat Ali, Athabasca University, Canada<br>
 Md Amiruzzaman, Kent State University, USA<br>
