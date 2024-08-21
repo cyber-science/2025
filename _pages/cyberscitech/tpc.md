@@ -37,7 +37,6 @@ Vasileios Gkioulos, Norwegian University of Science and Technology, Norway<br>
 Danilo Gligoroski, Norwegian University of Science and Technology, Norway<br>
 George Grispos, University of Nebraksa at Omaha, USA<br>
 Bo Gu, Sun Yat-Sen University, China<br>
-Zhongyang Han, School of Control Science and Engineering,  Dalian University of Technology, China<br>
 Enamul Haque, York University, Canada<br>
 Naohiro Hayashibara, Kyoto Sangyo University, Japan<br>
 Hiroaki Higaki, Tokyo Denki University, Japan<br>
