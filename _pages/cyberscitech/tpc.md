@@ -59,11 +59,9 @@ Jian-wei Liu, China University of Petroleum Beijing, China<br>
 Orven E. Llantos, MSU-Iligan Institute of Technology, Philippines<br>
 Xin Luo, Chongqing University, China<br>
 Roger Nkambo, Université du Québec à Montréal, Canada<br>
-Ruxandra F Olimid, University of Bucharest, Romania<br>
 Han Pan, Shanghai Jiao Tong University, China<br>
 Panagiotis Petratos, California State University, USA<br>
 Lianyong Qi, Qufu Normal University, China<br>
-Barry Reynolds, University of Macau, Macao<br>
 Zia Ush Shamszaman, Teesside University, UK<br>
 Stefano Silvestri, ICAR-CNR, Italy<br>
 Chunhua Su, University of Aizu, Japan<br>
