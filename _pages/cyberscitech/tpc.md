@@ -44,7 +44,6 @@ Mario Hildebrandt, Otto von Guericke University Magdeburg, Germany<br>
 Tzung-Pei Hong, National University of Kaohsiung, Taiwan<br>
 Suzhen Huang, Central South University, China<br>
 Yanyong Huang, Southwestern University of Finance and Economics, China<br>
-Md. Shahedul Islam, Bangabandhu Sheikh Mujibur Rahman Maritime University, Bangladesh<br>
 Shareeful Islam, Anglia Ruskin University, UK<br>
 Jiulei Jiang, Changshu Institute of Technology, China<br>
 Yoshiaki Kakuda, Hiroshima City University, Japan<br>
