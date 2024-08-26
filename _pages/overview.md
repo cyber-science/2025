@@ -9,7 +9,7 @@ permalink: /overview/
 <style>
 /* 限制表格和标题的宽度并居中显示 */
 .centered-content {
-    width: 60%; /* 你可以根据需要调整宽度 */
+    width: 50%; /* 你可以根据需要调整宽度 */
     margin: 0 auto; /* 内容居中 */
     text-align: left; /* 标题左对齐 */
 }
