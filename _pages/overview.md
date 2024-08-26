@@ -5,19 +5,18 @@ permalink: /overview/
 ---
 
 <h3>Program Overview</h3>
-
-<h2 id="tuesday-november-5th">Tuesday, November 5th:</h2>
+<br>
+<h4 id="tuesday-november-5th">Tuesday, November 5th:</h4>
 <style>
-/* 限制样式的应用范围到指定的表格类 */
+/* 限制表格宽度并居中显示 */
 .news-table-wrapper {
-    width: 100%;
-    overflow: hidden;
+    width: 70%; /* 你可以根据需要调整宽度 */
+    margin: 0 auto; /* 表格居中 */
 }
 
 .news-table {
     width: 100%;
     border-collapse: collapse;
-    margin: 0 auto; /* 确保表格居中 */
 }
 
 .news-table tr td:nth-child(1) {
@@ -36,8 +35,7 @@ permalink: /overview/
 }
 
 .news-table tr {
-    width: 60%; /* 仅将表格宽度限制为5/3 */
-    margin: 0 auto; /* 将每行居中显示 */
+    width: 100%;
 }
 
 .coffee-break {
@@ -80,7 +78,7 @@ permalink: /overview/
     </table>
 </div>
 
-<h2 id="wednesday-november-6th">Wednesday, November 6th:</h2>
+<h4 id="wednesday-november-6th">Wednesday, November 6th:</h4>
 <div class="news-table-wrapper">
     <table class="news-table">
       <tbody>
@@ -124,7 +122,7 @@ permalink: /overview/
     </table>
 </div>
 
-<h2 id="thursday-november-7th">Thursday, November 7th:</h2>
+<h4 id="thursday-november-7th">Thursday, November 7th:</h4>
 <div class="news-table-wrapper">
     <table class="news-table">
       <tbody>
@@ -168,7 +166,7 @@ permalink: /overview/
     </table>
 </div>
 
-<h2 id="friday-november-8th">Friday, November 8th:</h2>
+<h4 id="friday-november-8th">Friday, November 8th:</h4>
 <div class="news-table-wrapper">
     <table class="news-table">
       <tbody>
