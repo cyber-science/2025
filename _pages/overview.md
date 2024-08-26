@@ -5,7 +5,6 @@ permalink: /overview/
 --- 
 
 <h3>Program Overview</h3>
-<hr/>
 
 <h4 id="tuesday-november-5th">Tuesday, November 5th:</h4>
 <style>
@@ -52,7 +51,7 @@ permalink: /overview/
     </tr>
   </tbody>
 </table>
-<br>
+
 <h4 id="wednesday-november-6th">Wednesday, November 6th:</h4>
 <table class="news-table">
   <tbody>
@@ -94,7 +93,7 @@ permalink: /overview/
     </tr>
   </tbody>
 </table>
-<br>
+
 <h4 id="thursday-november-7th">Thursday, November 7th:</h4>
 <table class="news-table">
   <tbody>
