@@ -9,7 +9,7 @@ permalink: /overview/
 <style>
 /* 限制表格和标题的宽度并居中显示 */
 .centered-content {
-    width: 70%; /* 你可以根据需要调整宽度 */
+    width: 60%; /* 你可以根据需要调整宽度 */
     margin: 0 auto; /* 内容居中 */
     text-align: left; /* 标题左对齐 */
 }
@@ -37,7 +37,7 @@ permalink: /overview/
 
 .news-table tr td {
     border-bottom: 1px solid #ccc; /* 添加浅灰色的线 */
-    padding: 5px 0; /* 缩小上下填充，减少行高 */
+    padding: 1px 0; /* 缩小上下填充，减少行高 */
     font-size: 14px; /* 调整字体大小 */
     width: 100%; /* 确保单元格宽度一致 */
 }
