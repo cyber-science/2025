@@ -79,7 +79,7 @@ permalink: /overview/
       </tbody>
     </table>
 </div>
-
+<br>
 <div class="centered-content">
     <h4 id="wednesday-november-6th">Wednesday, November 6th:</h4>
     <table class="news-table">
@@ -123,7 +123,7 @@ permalink: /overview/
       </tbody>
     </table>
 </div>
-
+<br>
 <div class="centered-content">
     <h4 id="thursday-november-7th">Thursday, November 7th:</h4>
     <table class="news-table">
@@ -167,7 +167,7 @@ permalink: /overview/
       </tbody>
     </table>
 </div>
-
+<br>
 <div class="centered-content">
     <h4 id="friday-november-8th">Friday, November 8th:</h4>
     <table class="news-table">
