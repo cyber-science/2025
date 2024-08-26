@@ -2,22 +2,16 @@
 title: Program Overview
 layout: sub
 permalink: /overview/
----
+--- 
 
 <h3>Program Overview</h3>
+<hr/>
 
-<h2 id="tuesday-november-5th">Tuesday, November 5th:</h2>
+<h4 id="tuesday-november-5th">Tuesday, November 5th:</h4>
 <style>
-/* 限制样式的应用范围到指定的表格类 */
-.news-table-wrapper {
-    width: 100%;
-    overflow: hidden;
-}
-
 .news-table {
-    width: 100%;
     border-collapse: collapse;
-    margin: 0 auto; /* 确保表格居中 */
+    width: 100%;
 }
 
 .news-table tr td:nth-child(1) {
@@ -29,169 +23,142 @@ permalink: /overview/
     width: 55em;
 }
 
-.news-table tr td {
-    border-bottom: 1px solid #ccc; /* 添加浅灰色的线 */
-    padding: 10px 0;
-    width: 100%; /* 确保单元格宽度一致 */
-}
-
 .news-table tr {
-    width: 60%; /* 仅将表格宽度限制为5/3 */
-    margin: 0 auto; /* 将每行居中显示 */
-}
-
-.coffee-break {
-    background-color: #f9f2d7; /* 浅黄色 */
-}
-
-.lunch-break {
-    background-color: #e4bfa5; /* 浅棕色 */
-}
-
-.welcome-reception, .gala-dinner {
-    background-color: #e3ede3; /* 浅绿色 */
+    border-bottom: 1px solid #ccc; /* Add a light grey line */
 }
 </style>
 
-<div class="news-table-wrapper">
-    <table class="news-table">
-      <tbody>
-        <tr>
-          <td>09:30 – 16:00</td>
-          <td>Registration</td>
-        </tr>
-        <tr>
-          <td>13:00 – 14:30</td>
-          <td>Tutorial</td>
-        </tr>
-        <tr class="coffee-break">
-          <td>14:30 – 15:00</td>
-          <td>Coffee Break</td>
-        </tr>
-        <tr>
-          <td>15:00 – 17:00</td>
-          <td>Panel Discussion</td>
-        </tr>
-        <tr class="welcome-reception">
-          <td>18:30 – 21:00</td>
-          <td>Welcome Reception</td>
-        </tr>
-      </tbody>
-    </table>
-</div>
-
-<h2 id="wednesday-november-6th">Wednesday, November 6th:</h2>
-<div class="news-table-wrapper">
-    <table class="news-table">
-      <tbody>
-        <tr>
-          <td>08:30 – 16:00</td>
-          <td>Registration</td>
-        </tr>
-        <tr>
-          <td>08:30 – 09:00</td>
-          <td>Welcome Ceremony</td>
-        </tr>
-        <tr>
-          <td>09:00 – 10:20</td>
-          <td>Keynote Talks</td>
-        </tr>
-        <tr class="coffee-break">
-          <td>10:20 – 10:40</td>
-          <td>Coffee Break</td>
-        </tr>
-        <tr>
-          <td>10:40 – 12:00</td>
-          <td>Parallel Sessions</td>
-        </tr>
-        <tr class="lunch-break">
-          <td>12:00 – 13:30</td>
-          <td>Lunch Break</td>
-        </tr>
-        <tr>
-          <td>13:30 – 16:10</td>
-          <td>Parallel Sessions</td>
-        </tr>
-        <tr class="coffee-break">
-          <td>16:10 – 16:30</td>
-          <td>Coffee Break</td>
-        </tr>
-        <tr>
-          <td>16:30 – 17:50</td>
-          <td>Parallel Sessions</td>
-        </tr>
-      </tbody>
-    </table>
-</div>
-
-<h2 id="thursday-november-7th">Thursday, November 7th:</h2>
-<div class="news-table-wrapper">
-    <table class="news-table">
-      <tbody>
-        <tr>
-          <td>08:30 – 16:00</td>
-          <td>Registration</td>
-        </tr>
-        <tr>
-          <td>08:30 – 09:50</td>
-          <td>Keynote Talks</td>
-        </tr>
-        <tr class="coffee-break">
-          <td>09:50 – 10:20</td>
-          <td>Coffee Break</td>
-        </tr>
-        <tr>
-          <td>10:20 – 12:00</td>
-          <td>Parallel Sessions</td>
-        </tr>
-        <tr class="lunch-break">
-          <td>12:00 – 13:30</td>
-          <td>Lunch Break</td>
-        </tr>
-        <tr>
-          <td>13:30 – 16:10</td>
-          <td>Parallel Sessions</td>
-        </tr>
-        <tr class="coffee-break">
-          <td>16:10 – 16:30</td>
-          <td>Coffee Break</td>
-        </tr>
-        <tr>
-          <td>16:30 – 17:50</td>
-          <td>Parallel Sessions</td>
-        </tr>
-        <tr class="gala-dinner">
-          <td>19:00 – 22:00</td>
-          <td>Gala Dinner</td>
-        </tr>
-      </tbody>
-    </table>
-</div>
-
-<h2 id="friday-november-8th">Friday, November 8th:</h2>
-<div class="news-table-wrapper">
-    <table class="news-table">
-      <tbody>
-        <tr>
-          <td>08:30 – 11:00</td>
-          <td>Registration</td>
-        </tr>
-        <tr>
-          <td>08:30 – 10:10</td>
-          <td>Parallel Sessions</td>
-        </tr>
-        <tr class="coffee-break">
-          <td>10:10 – 10:30</td>
-          <td>Coffee Break</td>
-        </tr>
-        <tr>
-          <td>10:30 – 11:50</td>
-          <td>Parallel Sessions</td>
-        </tr>
-        <tr>
-          <td>11:50 – 12:20</td>
-          <td>Closing Ceremony</td>
-        </tr>
-      </tbody>
-    </table>
-</div>
+<table class="news-table">
+  <tbody>
+    <tr>
+      <td>09:30 – 16:00</td>
+      <td>Registration</td>
+    </tr>
+    <tr>
+      <td>13:00 – 14:30</td>
+      <td>Session 1: Tutorial</td>
+    </tr>
+    <tr>
+      <td>14:30 – 15:00</td>
+      <td>Break - Coffee, Tea and Pastry</td>
+    </tr>
+    <tr>
+      <td>15:00 – 17:00</td>
+      <td>Session 2: Panel Discussion</td>
+    </tr>
+    <tr>
+      <td>18:30 – 21:00</td>
+      <td>Welcome Reception</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<h4 id="wednesday-november-6th">Wednesday, November 6th:</h4>
+<table class="news-table">
+  <tbody>
+    <tr>
+      <td>08:30 – 16:00</td>
+      <td>Registration</td>
+    </tr>
+    <tr>
+      <td>08:30 – 09:00</td>
+      <td>Session 3: Welcome Ceremony</td>
+    </tr>
+    <tr>
+      <td>09:00 – 10:20</td>
+      <td>Session 4: Keynote Talks</td>
+    </tr>
+    <tr>
+      <td>10:20 – 10:40</td>
+      <td>Break - Coffee, Tea and Pastry</td>
+    </tr>
+    <tr>
+      <td>10:40 – 12:00</td>
+      <td>Session 5: Parallel Sessions</td>
+    </tr>
+    <tr>
+      <td>12:00 – 13:30</td>
+      <td>Lunch Break</td>
+    </tr>
+    <tr>
+      <td>13:30 – 16:10</td>
+      <td>Session 6: Parallel Sessions</td>
+    </tr>
+    <tr>
+      <td>16:10 – 16:30</td>
+      <td>Break - Coffee, Tea and Pastry</td>
+    </tr>
+    <tr>
+      <td>16:30 – 17:50</td>
+      <td>Session 7: Parallel Sessions</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<h4 id="thursday-november-7th">Thursday, November 7th:</h4>
+<table class="news-table">
+  <tbody>
+    <tr>
+      <td>08:30 – 16:00</td>
+      <td>Registration</td>
+    </tr>
+    <tr>
+      <td>08:30 – 09:50</td>
+      <td>Session 8: Keynote Talks</td>
+    </tr>
+    <tr>
+      <td>09:50 – 10:20</td>
+      <td>Break - Coffee, Tea and Pastry</td>
+    </tr>
+    <tr>
+      <td>10:20 – 12:00</td>
+      <td>Session 9: Parallel Sessions</td>
+    </tr>
+    <tr>
+      <td>12:00 – 13:30</td>
+      <td>Lunch Break</td>
+    </tr>
+    <tr>
+      <td>13:30 – 16:10</td>
+      <td>Session 10: Parallel Sessions</td>
+    </tr>
+    <tr>
+      <td>16:10 – 16:30</td>
+      <td>Break - Coffee, Tea and Pastry</td>
+    </tr>
+    <tr>
+      <td>16:30 – 17:50</td>
+      <td>Session 11: Parallel Sessions</td>
+    </tr>
+    <tr>
+      <td>19:00 – 22:00</td>
+      <td>Gala Dinner</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<h4 id="friday-november-8th">Friday, November 8th:</h4>
+<table class="news-table">
+  <tbody>
+    <tr>
+      <td>08:30 – 11:00</td>
+      <td>Registration</td>
+    </tr>
+    <tr>
+      <td>08:30 – 10:10</td>
+      <td>Session 12: Parallel Sessions</td>
+    </tr>
+    <tr>
+      <td>10:10 – 10:30</td>
+      <td>Break - Coffee, Tea and Pastry</td>
+    </tr>
+    <tr>
+      <td>10:30 – 11:50</td>
+      <td>Session 13: Parallel Sessions</td>
+    </tr>
+    <tr>
+      <td>11:50 – 12:20</td>
+      <td>Session 14: Closing Ceremony</td>
+    </tr>
+  </tbody>
+</table>
