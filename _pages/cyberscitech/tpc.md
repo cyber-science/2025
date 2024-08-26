@@ -63,6 +63,7 @@ Lianyong Qi, Qufu Normal University, China<br>
 Zia Ush Shamszaman, Teesside University, UK<br>
 Stefano Silvestri, ICAR-CNR, Italy<br>
 Chunhua Su, University of Aizu, Japan<br>
+Guanqun Sun, Hangzhou Medical College, China<br>
 Kenichi Takahashi, Tottori University, Japan<br>
 Suhua Tang, The University of Electro-Communications, Japan<br>
 Tengku Adil Tengku Izhar, Universiti Teknologi Mara, Malaysia<br>
