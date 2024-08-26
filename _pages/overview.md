@@ -9,9 +9,16 @@ permalink: /overview/
 <style>
 /* 限制表格和标题的宽度并居中显示 */
 .centered-content {
-    width: 50%; /* 你可以根据需要调整宽度 */
+    width: 70%; /* 你可以根据需要调整宽度 */
     margin: 0 auto; /* 内容居中 */
     text-align: left; /* 标题左对齐 */
+}
+
+.centered-content h5 {
+    border-bottom: 1px solid #ccc; /* 添加浅灰色的线条 */
+    padding-bottom: 5px; /* 增加一点下边距 */
+    margin-bottom: 10px; /* 使标题与内容稍微分隔 */
+    font-size: 18px; /* 调整字体大小 */
 }
 
 .news-table {
@@ -79,7 +86,7 @@ permalink: /overview/
       </tbody>
     </table>
 </div>
-<br>
+
 <div class="centered-content">
     <h5 id="wednesday-november-6th">Wednesday, November 6th:</h5>
     <table class="news-table">
@@ -123,7 +130,7 @@ permalink: /overview/
       </tbody>
     </table>
 </div>
-<br>
+
 <div class="centered-content">
     <h5 id="thursday-november-7th">Thursday, November 7th:</h5>
     <table class="news-table">
@@ -167,7 +174,7 @@ permalink: /overview/
       </tbody>
     </table>
 </div>
-<br>
+
 <div class="centered-content">
     <h5 id="friday-november-8th">Friday, November 8th:</h5>
     <table class="news-table">
