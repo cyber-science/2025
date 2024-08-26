@@ -60,7 +60,7 @@ permalink: /overview/
 </style>
 
 <div class="centered-content">
-    <h5 id="tuesday-november-5th">Tuesday, November 5th:</h5>
+    <h5 id="tuesday-november-5th">Day 1 (Tuesday, 11/5)</h5>
     <table class="news-table">
       <tbody>
         <tr>
@@ -88,7 +88,7 @@ permalink: /overview/
 </div>
 <br>
 <div class="centered-content">
-    <h5 id="wednesday-november-6th">Wednesday, November 6th:</h5>
+    <h5 id="wednesday-november-6th">Day 2 (Wednesday, 11/6)</h5>
     <table class="news-table">
       <tbody>
         <tr>
@@ -132,7 +132,7 @@ permalink: /overview/
 </div>
 <br>
 <div class="centered-content">
-    <h5 id="thursday-november-7th">Thursday, November 7th:</h5>
+    <h5 id="thursday-november-7th">Day 3 (Thursday, 11/7)</h5>
     <table class="news-table">
       <tbody>
         <tr>
@@ -176,7 +176,7 @@ permalink: /overview/
 </div>
 <br>
 <div class="centered-content">
-    <h5 id="friday-november-8th">Friday, November 8th:</h5>
+    <h5 id="friday-november-8th">Day 4 (Friday, 11/8)</h5>
     <table class="news-table">
       <tbody>
         <tr>
