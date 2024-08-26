@@ -6,7 +6,7 @@ permalink: /overview/
 
 <h3>Program Overview</h3>
 
-<h2 id="tuesday-november-5th">Tuesday, November 5th:</h2>
+<h4 id="tuesday-november-5th">Tuesday, November 5th:</h4>
 <style>
 .news-table {
     border-collapse: collapse;
@@ -51,8 +51,8 @@ permalink: /overview/
     </tr>
   </tbody>
 </table>
-
-<h2 id="wednesday-november-6th">Wednesday, November 6th:</h2>
+<br>
+<h4 id="wednesday-november-6th">Wednesday, November 6th:</h4>
 <table class="news-table">
   <tbody>
     <tr>
@@ -93,8 +93,8 @@ permalink: /overview/
     </tr>
   </tbody>
 </table>
-
-<h2 id="thursday-november-7th">Thursday, November 7th:</h2>
+<br>
+<h4 id="thursday-november-7th">Thursday, November 7th:</h4>
 <table class="news-table">
   <tbody>
     <tr>
@@ -135,8 +135,8 @@ permalink: /overview/
     </tr>
   </tbody>
 </table>
-
-<h2 id="friday-november-8th">Friday, November 8th:</h2>
+<br>
+<h4 id="friday-november-8th">Friday, November 8th:</h4>
 <table class="news-table">
   <tbody>
     <tr>
