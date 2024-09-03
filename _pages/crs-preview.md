@@ -24,7 +24,7 @@ Camera ready submissions must follow the following template format:
   <br /><a href="https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip">https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip</a>
   </p>
 <p> 
-The final upload deadline is 27 September 22024021. The final camera-ready paper submission link at IEEE CPS will be available soon.
+The final upload deadline is 27 September 2024. The final camera-ready paper submission link at IEEE CPS will be available soon.
 <br />
 <!-- <a href="https://ieeecps.org/#!/auth/login?ak=1&amp;pid=7jEMWXAEPnObhXBPM9VERs" target="_new"> https://ieeecps.org/#!/auth/login?ak=1&amp;pid=7jEMWXAEPnObhXBPM9VERs </a> -->
 </p>
