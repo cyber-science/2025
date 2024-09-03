@@ -39,6 +39,6 @@ If you have any questions, please e-mail them to  <a href="mailto:cyberscitech20
 </p>
 <h4>Registration</h4>
 <p>
-All advanced registrations must be done by (Sep. 26, 2024). The detailed registration instructions can be found on this page: 
+All advanced registrations must be done by (September 26, 2024). The detailed registration instructions can be found on this page: 
   <br /><a href="https://cyber-science.org/2024/registration/">https://cyber-science.org/2024/registration/</a> 
  </p>
