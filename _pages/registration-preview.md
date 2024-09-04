@@ -40,8 +40,7 @@ permalink: /registration-preview/
 <br>
 <br>
 
-<h5>Author/Co-Author/No-Paper/Advance Registration</h5>
-    <p><span class="important">IMPORTANT: Author Registration: Sept. 4 - 20, 2024</span><br>
+ <p><span class="important">IMPORTANT: Author Registration: Sept. 4 - 20, 2024</span><br>
     <table>
         <tr>
             <th colspan="2">Advance Registration (Sept. 4 - 27, 2024 JST)</th>
@@ -68,7 +67,7 @@ permalink: /registration-preview/
         </tr>
     </table>
 
-    <table>
+<table>
         <tr>
             <th colspan="2">Late Registration (Sept. 30 - October 10, 2024 JST)</th>
         </tr>
@@ -94,7 +93,7 @@ permalink: /registration-preview/
         </tr>
     </table>
 
-    <table>
+<table>
         <tr>
             <th colspan="2">On-site Registration (Nov. 5 - 8, 2024 JST)</th>
         </tr>
@@ -120,5 +119,5 @@ permalink: /registration-preview/
         </tr>
     </table>
 
-    <p class="important">Note: For co-authors and no-paper participants. Registration system will be activated on the specified date/period.</p>
-    <p class="important">Note: Please prepare the exact amount for on-site registration.</p>
+<p class="important">Note: For co-authors and no-paper participants. Registration system will be activated on the specified date/period.</p>
+<p class="important">Note: Please prepare the exact amount for on-site registration.</p>
