@@ -37,10 +37,11 @@ permalink: /registration-preview/
 <li> Payments by credit card or bank wire transfer are available. Since bank wire transfer takes a long time to process, we encourage you to pay by credit card. However, if bank wire transfer is the only option, please do the bank transaction the soonest so the payment will arrive on time. Be reminded that all bank charges and fees (i.e., sending and receiving banks) will be paid by the applicant. After completing your bank wire transfer transaction, please email (pdf file) a copy of your bank transfer receipt or certificate to <a href="mailto:ntcmice2@nnr-g.com"><u>ntcmice2@nnr-g.com</u></a>, <a href="mailto:cyberscitech2024@gmail.com"><u>cyberscitech2024@gmail.com</u></a> with Subject: Bank Transfer-______________ (your registration ID number). The conference must receive the registration and all other additional purchase payments in full. </li>
 <li> Questions and queries regarding registration, email to <a href="mailto:cyberscitech2024@gmail.com"><u>cyberscitech2024@gmail.com</u></a>. </li>
 
+<br>
+<br>
+
 <h5>Author/Co-Author/No-Paper/Advance Registration</h5>
     <p><span class="important">IMPORTANT: Author Registration: Sept. 4 - 20, 2024</span><br>
-    Co-Author/No-Paper/Advance Registration: Sept. 4 - 27, 2024</p>
-
     <table>
         <tr>
             <th colspan="2">Advance Registration (Sept. 4 - 27, 2024 JST)</th>
