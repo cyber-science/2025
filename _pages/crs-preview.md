@@ -19,8 +19,8 @@ Please read the following notice before uploading your paper (for 2024 CyberSciT
 </p>
 <p>  
 Camera ready submissions must follow the following template format:
-<br /><a href="https://www.computer.org/cms/CPS/app/8x11-2/instruct8.5x11x2.doc">https://www.computer.org/cms/CPS/app/8x11-2/instruct8.5x11x2.doc</a>
-  <br /><a href="https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip">https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip</a>
+<br /><a href="https://www.computer.org/cms/CPS/app/8x11-2/instruct8.5x11x2.doc"><u>https://www.computer.org/cms/CPS/app/8x11-2/instruct8.5x11x2.doc</u></a>
+  <br /><a href="https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip"><u>https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip</u></a>
   </p>
 <p> 
 The final upload deadline is September 27 2024. The final camera-ready paper submission link at IEEE CPS will be available soon.
@@ -29,15 +29,15 @@ The final upload deadline is September 27 2024. The final camera-ready paper sub
 </p>
 <p>
 During preparation of your final camera-ready manuscript, any change to the list of authors and paper title must be informed with valid reasons by emailing 
-  <a href="mailto:cyberscitech2024@gmail.com">cyberscitech2024@gmail.com</a>
+  <a href="mailto:cyberscitech2024@gmail.com"><u>cyberscitech2024@gmail.com</u></a>
   and must be approved by the conference chairs before September 13, 2024. Failure to do so, your paper may be delayed (or even excluded) from being included in the Proceedings.
 </p>
 <p>
 
-If you have any questions, please e-mail them to  <a href="mailto:cyberscitech2024@gmail.com">cyberscitech2024@gmail.com</a>,  with the full author names and paper ID (the 10 digital ID number given by EDAS).
+If you have any questions, please e-mail them to  <a href="mailto:cyberscitech2024@gmail.com"><u>cyberscitech2024@gmail.com</u></a>,  with the full author names and paper ID (the 10 digital ID number given by EDAS).
 </p>
 <h4>Registration</h4>
 <p>
 All advanced registrations must be done by (September 26, 2024). The detailed registration instructions can be found on this page: 
-  <br /><a href="https://cyber-science.org/2024/registration/">https://cyber-science.org/2024/registration/</a> 
+  <br /><a href="https://cyber-science.org/2024/registration/"><u>https://cyber-science.org/2024/registration/</u></a> 
  </p>
