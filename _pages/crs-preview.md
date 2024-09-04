@@ -15,7 +15,6 @@ Please read the following notice before uploading your paper (for 2024 CyberSciT
 <p>
 <ol><li>The page limits are: Regular Papers: 8 + 2 extra pages for purchase, $100 (US)  per extra page 
   </li><li>WiP/Special Session/Workshop Papers: 6 + 2 extra pages for purchase, $100 (US)  per extra page
-  </li><li>Poster Papers: 4 + 2 extra pages for purchase, $100 (US)  per extra page
   </li></ol>
 </p>
 <p>  
@@ -31,7 +30,7 @@ The final upload deadline is September 27 2024. The final camera-ready paper sub
 <p>
 During preparation of your final camera-ready manuscript, any change to the list of authors and paper title must be informed with valid reasons by emailing 
   <a href="mailto:cyberscitech2024@gmail.com">cyberscitech2024@gmail.com</a>
-  and must be approved by the conference chairs before September 13, 2024. Fail to do so, your paper may be delayed (or even excluded) from being included in the Proceedings.
+  and must be approved by the conference chairs before September 13, 2024. Failure to do so, your paper may be delayed (or even excluded) from being included in the Proceedings.
 </p>
 <p>
 
