@@ -75,7 +75,7 @@ Anomaly Identification and Classification of Network Traffic Using Optimized Mac
 
 <h4>International Workshop on Hybrid Internet of Everything Models for Industry 5 (HIEMI 2024)</h4>
 <ol><li>
-<br/></li><li>Architecting a privacy-aware IoT-enabled platform for bathers monitoring in beach resort: a case study - 	Giovanni Campo; Davide Carnemolla; Mario Di Raimondo; Corrado Santoro; Federico Fausto Santoro
+Architecting a privacy-aware IoT-enabled platform for bathers monitoring in beach resort: a case study - 	Giovanni Campo; Davide Carnemolla; Mario Di Raimondo; Corrado Santoro; Federico Fausto Santoro
 
 <br/></li><li>A Comprehensive System for Indoor Assistance and User Interaction - Francesco Cauteruccio; Miriana Russo; Corrado Santoro; Federico Fausto Santoro; Alessio Tudisco
 
