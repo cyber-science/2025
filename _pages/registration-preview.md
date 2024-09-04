@@ -29,7 +29,7 @@ permalink: /registration-preview/
 <ul>
 
 <li> At least one author of an accepted paper must register and present the paper. </li>
-<li> The author must register and pay the registration and all other applicable fees before September 20, 2024 (JST). If the conference does not receive your full payment within the specified period, your paper and registration will be cancelled. </li>
+<li> <u>The author must register and pay the registration and all other applicable fees before September 20, 2024 (JST)</u>. If the conference does not receive your full payment within the specified period, your paper and registration will be cancelled. </li>
 <li> Active IEEE Membership status will be verified. Non-active members cannot qualify for IEEE membership discount. </li>
 <li> To avail of the IEEE Student Member/Non-IEEE Student Member discounted rates, the student must be presently enrolled. The student should attach and send a copy (through the student’s university email address) of his/her student ID or a certification (pdf files) from your dean to <a href="mailto:cyberscitech2024@gmail.com"><u>cyberscitech2024@gmail.com</u></a>. </li>
 <li> Full registration includes free participation to all sessions, conference proceedings, coffee breaks, lunches, welcome reception, gala dinner, souvenir items (if any). For on-site registration, souvenir items may not be available. </li>
