@@ -39,7 +39,7 @@ permalink: /registration/
 <li> Payments by credit card or bank wire transfer are available. Since bank wire transfer takes a long time to process, we encourage you to pay by credit card. <b>However, if bank wire transfer is the only option, please do the bank transaction the soonest so the payment will arrive on time. Be reminded that all bank charges and fees (i.e., sending and receiving banks) will be paid by the applicant. After completing your bank wire transfer transaction, please email (pdf file) a copy of your bank transfer receipt or certificate to </b> <a href="mailto:ntcmice2@nnr-g.com"><u>ntcmice2@nnr-g.com</u></a>, <a href="mailto:cyberscitech2024@gmail.com"><u>cyberscitech2024@gmail.com</u></a> with Subject: Bank Transfer-(your registration ID number). <br>The conference must receive the registration and all other additional purchase payments in full. </li>
 <li> Questions and queries regarding registration, email to <a href="mailto:cyberscitech2024@gmail.com"><u>cyberscitech2024@gmail.com</u></a>. 
 </li>
-<li><a href="https://niccs.nishitetsutravel.jp/niccs/en/app/BN1330" target=_new><u>Link to Registration page</u></a></li>
+<li><a href="https://niccs.nishitetsutravel.jp/niccs/en/app/BN1330" target=_new><u>Link to Registration page: https://niccs.nishitetsutravel.jp/niccs/en/app/BN1330</u></a></li>
 
 
 <br>
