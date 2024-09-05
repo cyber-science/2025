@@ -23,14 +23,14 @@ Camera ready submissions must follow the following template format:
   <br /><a href="https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip"><u>https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip</u></a>
   </p>
 <p> 
-The final upload deadline is September 27 2024. The final camera-ready paper submission link at IEEE CPS will be available soon.
+The final upload deadline is September 27, 2024. The final camera-ready paper submission link at IEEE CPS will be available soon.
 <br />
 <!-- <a href="https://ieeecps.org/#!/auth/login?ak=1&amp;pid=7jEMWXAEPnObhXBPM9VERs" target="_new"> https://ieeecps.org/#!/auth/login?ak=1&amp;pid=7jEMWXAEPnObhXBPM9VERs </a> -->
 </p>
 <p>
-During preparation of your final camera-ready manuscript, any change to the list of authors and paper title must be informed with valid reasons by emailing 
+During preparation of your final camera-ready manuscript, <b>any change to the list of authors and paper title must be informed with valid reasons by emailing 
   <a href="mailto:cyberscitech2024@gmail.com"><u>cyberscitech2024@gmail.com</u></a>
-  and must be approved by the conference chairs before September 13, 2024. Failure to do so, your paper may be delayed (or even excluded) from being included in the Proceedings.
+  and must be approved by the conference chairs before September 13, 2024</b>. Failure to do so, your paper may be delayed (or even excluded) from being included in the Proceedings.
 </p>
 <p>
 
@@ -38,6 +38,6 @@ If you have any questions, please e-mail them to  <a href="mailto:cyberscitech20
 </p>
 <h4>Registration</h4>
 <p>
-All advanced registrations must be done by (September 26, 2024). The detailed registration instructions can be found on this page: 
+All advanced registrations must be done by September 20, 2024. The detailed registration instructions can be found on this page: 
   <br /><a href="https://cyber-science.org/2024/registration/"><u>https://cyber-science.org/2024/registration/</u></a> 
  </p>
