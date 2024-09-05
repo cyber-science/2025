@@ -30,7 +30,7 @@ permalink: /registration/
 <hr/>
 <ul>
 
-<li> At least one author of an accepted paper must register and present the paper. </li>
+<li> At least one author of an accepted paper must register and present the paper. On-site and online presenters pay the same registration fee. </li>
 <li> <b>The author must register and pay the registration and all other applicable fees before September 20, 2024 (JST). <br>If the conference does not receive your full payment within the specified period, your paper and registration will be cancelled.</b> </li>
 <li> Active IEEE Membership status will be verified. Non-active members cannot qualify for IEEE membership discount. </li>
 <li> To avail of the IEEE Student Member/Non-IEEE Student Member discounted rates, the student must be presently enrolled. The student should attach and send a copy (through the student’s university email address) of his/her student ID or a certification (pdf files) from your dean to <a href="mailto:cyberscitech2024@gmail.com"><u>cyberscitech2024@gmail.com</u></a>. </li>
@@ -45,10 +45,10 @@ permalink: /registration/
 <br>
 <br>
 
- <p><span class="important">IMPORTANT: Author Registration: Sept. 4 - 20, 2024</span><br>
+ <p><span class="important">IMPORTANT: Author Registration: Sept. 4 - 20, 2024</span> (At least one author of an accepted paper must register. The registration fee is the same as in Advance Registration.) <br>
     <table>
         <tr>
-            <th colspan="2">Advance Registration (Sept. 4 - 27, 2024 JST)</th>
+            <th colspan="2">Co-author/No-paper Advance Registration (Sept. 4 - 27, 2024 JST)</th>
         </tr>
         <tr>
             <td>IEEE Member Fee</td>
@@ -74,7 +74,7 @@ permalink: /registration/
 
 <table>
         <tr>
-            <th colspan="2">Late Registration (Sept. 30 - October 10, 2024 JST)</th>
+            <th colspan="2">Co-author/No-paper Late Registration (Sept. 30 - October 10, 2024 JST)</th>
         </tr>
         <tr>
             <td>IEEE Member Fee</td>
@@ -124,5 +124,6 @@ permalink: /registration/
         </tr>
     </table>
 
-<p class="important">Note: For co-authors and no-paper participants. Registration system will be activated on the specified date/period.</p>
-<p class="important">Note: Please prepare the exact amount for on-site registration.</p>
+<p class="important">Notes:</p>
+<p class="important">For Late Registration, the system will be activated on the specified date/period.</p>
+<p class="important">For On-site Registration, please prepare the exact amount in cash.</p>
