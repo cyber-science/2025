@@ -2,6 +2,7 @@
 layout: sub
 permalink: /registration-preview/
 ---
+
 <style>
         table {
             width: 100%;

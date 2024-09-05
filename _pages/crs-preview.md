@@ -25,7 +25,6 @@ Camera ready submissions must follow the following template format:
 <p> 
 The final upload deadline is September 27, 2024. The final camera-ready paper submission link at IEEE CPS will be available soon.
 <br />
-<!-- <a href="https://ieeecps.org/#!/auth/login?ak=1&amp;pid=7jEMWXAEPnObhXBPM9VERs" target="_new"> https://ieeecps.org/#!/auth/login?ak=1&amp;pid=7jEMWXAEPnObhXBPM9VERs </a> -->
 </p>
 <p>
 During preparation of your final camera-ready manuscript, <b>any change to the list of authors and paper title must be informed with valid reasons by emailing 
