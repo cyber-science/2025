@@ -17,7 +17,7 @@ permalink: /cbdcom/acceptedpapers/
 
 <h3>CBDCom Accepted WIP Papers (Work in Progress)</h3>
 <ol><li>
-<br/></li><li>(1571054240) Lark: Reinforcement Mechanism Design for Sustainable Federated Edge Learning - Yufeng Zhan
+(1571054240) Lark: Reinforcement Mechanism Design for Sustainable Federated Edge Learning - Yufeng Zhan
 <br/></li><li>(1571056663) A Survey of Privacy Enhancement for Cloud Computing - Huancheng Ouyang
 <br/></li><li>(1571057324) SmartSSD: A K-Means and Multi-Armed Bandit Approach for Optimized Controller Deployment in SDWAN - Senmao Qi
 </li></ol>
