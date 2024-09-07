@@ -1,6 +1,6 @@
 ---
 title: Accepted Papers
-layout: subpi2
+layout: subdasc2
 permalink: /dasc/acceptedpapers/
 ---
 

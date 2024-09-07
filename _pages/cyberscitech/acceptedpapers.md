@@ -1,6 +1,6 @@
 ---
 title: Accepted Papers
-layout: subpi2
+layout: subcst2
 permalink: /cyberscitech/acceptedpapers/
 ---
 

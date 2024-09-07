@@ -1,6 +1,6 @@
 ---
 title: Accepted Papers
-layout: subpi2
+layout: subcbd2
 permalink: /cbdcom/acceptedpapers/
 ---
 
