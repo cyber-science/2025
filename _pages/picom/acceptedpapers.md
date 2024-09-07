@@ -44,7 +44,7 @@ permalink: /picom/acceptedpapers/
 </li></ol>
 
 
-<h3>PICo Accepted WIP Papers (Work in Progress)</h3>
+<h3>PICom Accepted WIP Papers (Work in Progress)</h3>
 <ol><li>
 (1571056257) Anomaly Identification and Classification of Network Traffic Using Optimized Machine Machine Learning Approach - 	Vishwanath Eswarakrishnan; Priyanka Singla
 
