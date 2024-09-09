@@ -5,6 +5,17 @@ permalink: /crs/
 ---
 
 
+<style>
+        .important {
+            color: red;
+            font-weight: bold;
+        }
+        .highlight {
+            background-color: yellow;
+        }
+    </style>
+
+
 <h3>Camera Ready Paper Submission</h3>
 <hr/>
 
@@ -15,7 +26,7 @@ Please read the following notice before uploading your paper (for 2024 CyberSciT
   </p>
 <p>
 <ol><li>Regular Papers: 8 + 2 extra pages for purchase, $100 (US)  per extra page 
-  </li><li>WiP/Special Session/Workshop Papers: 6 + 2 extra pages for purchase, $100 (US)  per extra page
+  </li><li>WiP/Special Session/Workshop Papers: 6 + 2 extra pages for purchase, $100 (US) per extra page
   </li></ol>
 </p>
 <p>  
@@ -24,7 +35,8 @@ Camera ready submissions must follow the following template format:
   <br /><a href="https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip"><u>https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip</u></a>
   </p>
 <p> 
-The final upload deadline is September 27, 2024. The final camera-ready paper submission link at IEEE CPS will be available soon.
+The final upload deadline is September 27, 2024. <a href="https://ieeecps.org:/cps#!/auth/login?ak=1&pid=1V9EJXiDVJrlVGmCRyafYk" target=_new> <span class="important">Link to final camera-ready paper submission at IEEE CPS: https://ieeecps.org:/cps#!/auth/login?ak=1&pid=1V9EJXiDVJrlVGmCRyafYk</u></a>
+
 <br />
 </p>
 <p>
