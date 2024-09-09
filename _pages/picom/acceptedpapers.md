@@ -56,7 +56,7 @@ permalink: /picom/acceptedpapers/
 
 <br/></li><li>(1571051592) Capturing Spatial Information for sEMG-Based Gesture Recognition Using Graph Attention Networks - Tong Xia; Feng Wang; Seiichi Kawata; Juan Zhao; Jinhua She
 
-<br/></li><li>(1571051595) Reducing the Influence of Individual Variability in sEMG-Based Fatigue Detection Using Transfer Learning - Renwei Lin; Feng Wang; Seiichi Kawata; Juan Zhao; Jinhua She
+<br/></li><li>(1571051595) Reducing the Influence of Individual Variability in sEMG-Based Fatigue Detection Using Transfer Learning - Renwei Lin; Feng Wang; Seiichi Kawata; Juan Zhao; Jinhua She, Daisuke Chugo
 
 <br/></li><li>(1571052966) Identifying Emerging Research Topics in Computer Science using Overlapping Community Detection on Graph Neural Network Predicted Graphs - Constantinos Djouvas; Christos Christodoulou; Antonis Charalampous; Nicolas Tsapatsoulis
 
