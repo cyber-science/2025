@@ -14,6 +14,7 @@ permalink: /panel/
 <br/><b>Hui-Huang Hsu</b>, Department of Computer Science and Information Engineering, Tamkang University, Taiwan
 <br/><b>John Paul C. Vergara</b>, Department of Information Systems and Computer Science, Ateneo de Manila University, Philippines
 <br/><b>Paulo F. Pires</b>, Department of Computer Science, University of Coimbra, Federal University of Rio de Janeiro, Brazil
+<br/><b>Antonio Guerrieri</b>, Institute for High-Performance Computing and Networking, National Research Council of Italy, Italy
 <br/><br/><b>Panel Secretary: </b>
 <br/><b>Ao Guo</b>, Graduate School of Informatics, Nagoya University, Japan
 <br/>
