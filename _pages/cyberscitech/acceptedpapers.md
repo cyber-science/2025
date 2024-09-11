@@ -99,7 +99,7 @@ permalink: /cyberscitech/acceptedpapers/
 <br/></li><li>(1571071788) Paradigm Shift in Foreign Language Teaching Practices in the Age of AI - Case Studies of Chinese and Japanese Learners - Xiaolin WU; Shuliang Zhu; Raymond Yao
 </li></ol>
 
-<h4>IEEE International Workshop on the Impact of Internet of Things on Daily Life (IoT-Life)</h4>
+<h4>International Workshop on the Impact of Internet of Things on Daily Life (IoT-Life)</h4>
 <ol><li>(1571050205) Analyzing the Impact of Effect Sounds on Real-World Human Emotions and Behaviors by Adding Effect Sounds to Human Actions - Xin Tong
 <br/></li><li>(1571060849) Analyzing Eye-Movements of Drivers with Varying Levels of Experience During U-Turn Segment - Haojie Wang; Luyang Wang; Yishui Zhu; Jun Wang; Bo Wu
 <br/></li><li>(1571061107) Impacts of Internet of Things (IoT) leveraging Radio Frequency Identification (RFID) and Internet Protocol (IP) on Business Continuity (BC) and Disaster Recovery (DR) - Nikhil Kumar Agarwal; Gurkiran Singh Batra; Dhrumik Mukeshbhai Patel; Eslam G. AbdAllah
