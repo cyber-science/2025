@@ -83,7 +83,14 @@ permalink: /cyberscitech/acceptedpapers/
 <br/></li><li>(1571070721) 3-DoF Pose Estimation of Vehicles on the Road - Jaehyeon Sung; Kanghyun Jo
 </li></ol>
 
-<h3>CyberSciTech Accepted Papers (Workshops)</h3>
+<h3>CyberSciTech Accepted Papers (Workshops/Special Sessions)</h3>
+
+<h4>Special Session on Computing and Applications for Cyber Internet of Things (Cyber-IoT)</h4>
+<ol><li>(1571038292) Age of Information Dependent Grant-Free Communication - Yuanchen Wang; Kai Zhang; Yiliang Liu; Weilin Song; Jian Tang
+<br/></li><li>(1571049788) Duplicate Data Elimination Optimization Strategy Based on Edge Service Management - yonglin pu; Xiaolong Xu; Lianyong Qi; Wanchun Dou; Jiong Yu; Ziyang Li
+<br/></li><li>(1571071843) Fine-Grained Access Control for Lightweight Data Sharing of UAVs - Haojia Yang; Qichao Xu
+</li></ol>
+
 <h4>International Workshop on Generative AI and Hyper Intelligence (GAI-HyperI 2024)</h4>
 <ol><li>(1571044470) Digital Twin to Modeling Data Center: An enabler for holistic approach - Marta Chinnici
 <br/></li><li>(1571054598) Sequence-Integrated Radiology Report Generation Leveraging Positional Encoding for Text and Images - Yizhi Pan; Kai Li; Han Shu; Jinghao Wu; Feihe Shao; Junyi Xin; Guanqun Sun
@@ -99,4 +106,10 @@ permalink: /cyberscitech/acceptedpapers/
 <br/></li><li>(1571061244) Analyzing the Imitation behaviors of Gorilla Chest-Beating Based on Human Pose Estimation - Yu Qi; Bo Wu; Chongyang Zhang; Siyu Xiong
 <br/></li><li>(1571061246) A New Smart Glasses-based Dual Authentication System via Signature Image Recognition Handwriting Behaviors Identification - XiangYu Su; Siyu Xiong; Bo Wu
 <br/></li><li>(1571061538) Investigating Decentralized Management of Wearable Device Data for Health and Fitness - Tao Zhou; Tianle Hu; Hong Chen
+</li></ol>
+
+<h4>International Workshop on Big Data Analytics for Cyber Security and Defence (BigCyberSecurity 2024)</h4>
+<ol><li>(1571040111) Delay-Tolerant Computation Offloading in Vehicular Networks Based on Local Blockchain - Xin Liu; Rui Wang; Rui Xing; Donglan Liu; Fangzhe Zhang; Lili Sun
+<br/></li><li>(1571061230) Integrated Sensing and Communication for UAV Detection: A Reinforcement Learning-based - Yu Su
+<br/></li><li>(1571061262) A Trust Evaluation and Concept Drift-Based Approach for Dynamic APT Evasion Detection - Han Liu; Baoyu An; Yaoyao Yin; Xueyang Huo; Zhou Su; Yuntao Wang
 </li></ol>
