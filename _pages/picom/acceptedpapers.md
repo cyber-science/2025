@@ -54,7 +54,7 @@ permalink: /picom/acceptedpapers/
 
 <br/></li><li>(1571038086) Multimodal Sequential Deep Learning for Agitation Detection in People Living with Dementia -  Shehroz S Khan; Grant Lau; Bing Ye; Kristine Newman; Alex Mihailidis; Andrea Iaboni
 
-<br/></li><li>(1571051592) Capturing Spatial Information for sEMG-Based Gesture Recognition Using Graph Attention Networks - Tong Xia; Feng Wang; Seiichi Kawata; Juan Zhao; Jinhua She
+<br/></li><li>(1571051592) Capturing Spatial Information for sEMG-Based Gesture Recognition Using Graph Attention Networks - Tong Xia; Feng Wang; Seiichi Kawata; Juan Zhao; Jinhua She, Daisuke Chugo
 
 <br/></li><li>(1571051595) Reducing the Influence of Individual Variability in sEMG-Based Fatigue Detection Using Transfer Learning - Renwei Lin; Feng Wang; Seiichi Kawata; Juan Zhao; Jinhua She, Daisuke Chugo
 

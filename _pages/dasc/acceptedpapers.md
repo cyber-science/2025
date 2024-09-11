@@ -44,7 +44,7 @@ permalink: /dasc/acceptedpapers/
 
 <h4>International Workshop on Emerging Dependable Computing System Technologies and Applications (EDCSTA 2024)</h4>
 <ol><li>
-(1571037278) Employee Management Support Application for Operation Managers and Its Security - Toshihiro Uchibayashi; Chinasa Sueyoshi; Yoshihiro Yasutake; Kentaro Inenaga
+(1571037278) Crew Management Support Application for Operation Managers and Boosting System Security - Toshihiro Uchibayashi; Chinasa Sueyoshi; Yoshihiro Yasutake; Hideyuki Satomura, Kentaro Inenaga
 <br/></li><li>(1571056381) Hybrid IoT Programming with Data Flow Diagrams and Mruby - Kazuaki Tanaka; Sota Ogura; Krishnamoorthy R
 <br/></li><li>(1571058063) VR-Mill: A Virtual Reality Trainer for Industrial Flour Mill - Lawrenze Earl Romaguera; Efren Tabuada; Stephanie Visitacion; Earl Ryan Aleluya; Cherry Mae G Villame
 <br/></li><li>(1571058123) Smart Parking: Detecting Vacant Spots from an Angled Viewpoint - Jan Leven Sayson; Alfa Valdehueza; Mac Jiem Maghanoy; Perly Rica Flores; Stephen Haim; Earl Ryan Aleluya; Francis Jann A Alagon
