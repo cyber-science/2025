@@ -57,8 +57,8 @@ permalink: /panel/
  </p>
 
  <img src="/2024/assets/images/panel_speaker/antonio.jpg" align="left" style="border:5px solid white" width="150">
-<h5><b>Antonio Guerrieri, Ph.D.</b></h5>
-<h6>Researcher at ICAR-CNR, Italy</h6>
+<h5><b>Antonio Guerrieri, Researcher</b></h5>
+<h6>ICAR-CNR, Italy</h6>
 <p style="text-align: justify;">
 <b>Biography</b>: Antonio Guerrieri is currently a researcher at ICAR-CNR (National Research Council of Italy, Institute for High-Performance Computing and Networking). He previously served as a researcher at the Telecom Italia WSN Lab in Berkeley, California, and at the Clarity Centre, UCD (University College Dublin), Ireland. Dr. Guerrieri has been involved in several research projects and co-founded SenSysCal S.r.l., a University of Calabria (UNICAL) spinoff focused on innovative IoT systems. His research interests include wireless sensor and actuator networks, building monitoring and control, smart objects, smart and cognitive environments, and the Internet of Things. He has co-authored over 100 papers in international journals, conferences, and books. He is an Associate Editor of IEEE Transactions on Human-Machine Systems (THMS) and serves on the editorial boards of journals such as IoT, Cybersecurity and Privacy, Engineering Proceedings, Sensors, and Wireless Communications and Mobile Computing. He is an adjunct professor at the DIMES department at UNICAL. More information can be found at <a href="https://staff.icar.cnr.it/guerrieri/wordpress/" target=_new><u>https://staff.icar.cnr.it/guerrieri/wordpress/</u></a>.
  </p>
