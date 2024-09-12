@@ -38,7 +38,7 @@ permalink: /cyberscitech/acceptedpapers/
 <br/></li><li>(1571052702) STFormer: Spatio-Temporal Transformer Network for traffic flow Prediction - Lecheng Li; Xinzhuo Chai; Fei Dai; Shuai Wang; Yueyu Dong; Bi Huang
 <br/></li><li>(1571052803) An Approach to Detecting Reentrancy Vulnerabilities in Interacting Smart Contracts Using Model Checking - Xinzhuo Chai; Bi Huang; Ning Liu; Guoxi Liu; Xiaojing Wu; Fei Dai
 <br/></li><li>(1571052874) Review of Collaborative Inference in Edge Intelligence: Emphasis on DNN Partition - Ning Liu; Fei Dai; Xinzhuo Chai; Guoxi Liu; Xiaojing Wu; Bi Huang
-<br/></li><li>(1571052890) A Study on Adaptive Gradient Clipping Algorithms for Differential Privacy: Enhancing Cyber Security and Trust - SiMan Chen; Wei Liang
+<br/></li><li>(1571052890) A Study on Adaptive Gradient Clipping Algorithms for Differential Privacy: Enhancing Cyber Security and Trust - Siman Chen; Wei Liang
 <br/></li><li>(1571052896) Deadlock Analysis of Microservice Systems with Bounded Buffers - Li Yang; Bi Huang; Xinzhuo Chai; Guoxi Liu; Xiaojing Wu; Fei Dai
 <br/></li><li>(1571052915) Money Adjustment Among ISPs Based on Cooperative Games for ICN Promotion - Masaki Ito; Noriaki Kamiyama
 <br/></li><li>(1571053530) Motion Deblurring by Fusing Multi-Stage Image Features - Shihua Zhang; Fan He; Xun Shao
@@ -51,9 +51,9 @@ permalink: /cyberscitech/acceptedpapers/
 <br/></li><li>(1571061838) Strong-Guided Pixel Supervised Contrast for Polyp Segmentation - Ledan Tan; Hai-Lin Liu; Lei Chen; Yuping Wang
 <br/></li><li>(1571063001) Privacy-Preserving Parameter Aggregation Scheme Based on Two Leaders for Federated Learning - Weiyu Wang; Zhuotao Lian; Tianhui Li; Kouichi Sakurai; Chunhua Su
 <br/></li><li>(1571064913) Internet Security and Privacy Awareness Among College Students in the Philippines - Jim Alves-Foss; Baby Grace Llego
-<br/></li><li>(1571065170) An Automated Memory Image Forensic Scheme for Linux Systems Based on Containerization Technology - Ruihao Chen; Hui Lin; qingxin lin; Hui Ju
+<br/></li><li>(1571065170) An Automated Memory Image Forensic Scheme for Linux Systems Based on Containerization Technology - Ruihao Chen; Hui Lin; Qingxin Lin; Hui Ju
 <br/></li><li>(1571065286) Autonomous Decision-Making in Roundabouts Using Deep Reinforcement Learning and Heuristics Rules - haikuo zhang; Weizhen Han; Haiyong Shi; Haiyang Feng; Jin Hu
-<br/></li><li>(1571065306) Voltage Prediction of Electric Vehicle Based on Attention Mechanism CNN-GRU Model - Haiyang Feng; Weizhen Han; haikuo zhang
+<br/></li><li>(1571065306) Voltage Prediction of Electric Vehicle Based on Attention Mechanism CNN-GRU Model - Haiyang Feng; Weizhen Han; Haikuo Zhang
 <br/></li><li>(1571066610) Detecting Characteristic Points in Breathing Cycles using FMCW Radar with Spirometer as Reference - Haotian Wang; Walid Brahim; Jianhua Ma; Muxin Ma; Alex Qi
 <br/></li><li>(1571066809) SarlBFT: Scalable Tree Communication Pattern BFT Protocol - Jianxin Yang; Xiaoding Wang; Hui Lin
 <br/></li><li>(1571066853) ADEFTOR: Adaptive Adversarial Example Generation for Website Fingerprinting Defense in Tor - Krishan Pal Singh
@@ -65,13 +65,13 @@ permalink: /cyberscitech/acceptedpapers/
 (1571015033) Green Computing Optimization in a Cloud Capacity Environment: An Analytical Approach With Circular Model Integration - Uday Kumar Dosanapudi; Suneeta Mohanty; Prasant Kumar Pattnaik
 <br/></li><li>(1571020481) Representation Learning for Complex Networks - Shiyu Chen; Jun Hou
 <br/></li><li>(1571028644) Integrated Evaluation System for Intelligent Model - Xizhi Yang; Zhichao Lian
-<br/></li><li>(1571029564) Enhancing Adversarial Patch Effectiveness for Face Recognition Systems Using Sharpness-Aware Minimization - Wu Chenyu; Zhang Ting; Zhi xian Li; Zhichao Lian
+<br/></li><li>(1571029564) Enhancing Adversarial Patch Effectiveness for Face Recognition Systems Using Sharpness-Aware Minimization - Wu Chenyu; Zhang Ting; Zhixian Li; Zhichao Lian
 <br/></li><li>(1571035660) DMCGF Dehazing Neural Network Design for Edge-AI Implementation - Kuo Yi Chang; Kun Lin Li; Ming-Hwa Sheu; Szu-Hong Wang
 <br/></li><li>(1571042387) Deep Knowledge Tracking Model Integrating Multiple Feature Personalization Factors - Yukun Wang; Xingjian Xu; Fanjun Meng
 <br/></li><li>(1571042776) Intelligent Task Offloading in IoT-Driven Digital Twin Systems via Hybrid Federated and Reinforcement Learning - Shivam Goyal; Sudhakar Kumar; Sunil K. Singh; Brij B. Gupta; Varsha Arya; Kwok Tai Chui
 <br/></li><li>(1571046691) Advanced Evaluation of Propagation Models and Routing Protocols in Vehicular Ad-Hoc Networks - Anmol Jaiswal; Sunil K. Singh; Sudhakar Kumar; Kwok Tai Chui; Brij B. Gupta
-<br/></li><li>(1571051609) SA-PSO Approach for Optimizing QoS Management in SDN Service Chains - Wen Ji; Chenhan Lin; jiang Liu; hongyang xu; Liangjie Xu; jun Hu
-<br/></li><li>(1571052311) The Application and Optimization of Differential Privacy Technology in Cybersecurity and Personal Privacy Protection - Xie Fu Ping
+<br/></li><li>(1571051609) SA-PSO Approach for Optimizing QoS Management in SDN Service Chains - Wen Ji; Chenhan Lin; Jiang Liu; Hongyang Xu; Liangjie Xu; Jun Hu
+<br/></li><li>(1571052311) The Application and Optimization of Differential Privacy Technology in Cybersecurity and Personal Privacy Protection - Xiefu Ping
 <br/></li><li>(1571052691) Analysis of Business Model of Co-Creation Digital-Twin City Using Evolutionary Game - Kaito Kondo; Noriaki Kamiyama
 <br/></li><li>(1571056388) DORAC: Dynamic-Objects Removal And Clustering For Object Detection - Kwanho Kim; Dokyung Kim; Kanghyun Jo
 <br/></li><li>(1571056710) Visual Positioning System for Greeting Card Rhinestone Pasting Machine - Jia Linling; Anton Louise P. De Ocampo; Rowell M Hernandez; Jeffrey Sarmiento
@@ -96,7 +96,7 @@ permalink: /cyberscitech/acceptedpapers/
 <br/></li><li>(1571054598) Sequence-Integrated Radiology Report Generation Leveraging Positional Encoding for Text and Images - Yizhi Pan; Kai Li; Han Shu; Jinghao Wu; Feihe Shao; Junyi Xin; Guanqun Sun
 <br/></li><li>(1571061113) A PSO-CNN-BiLSTM model for predicting Leaf Area Index - wang dong; Zhou Guoyuan; Jinglue Xu; Joao Eduardo Batista; Guo Jia; Hitoshi Iba
 <br/></li><li>(1571066520) Leveraging ECG Signal for People Identification under Different Emotion States - Zhiying Huang; Yuang Meng; Ao Guo; Walid Brahim; Jianhua Ma
-<br/></li><li>(1571071788) Paradigm Shift in Foreign Language Teaching Practices in the Age of AI - Case Studies of Chinese and Japanese Learners - Xiaolin WU; Shuliang Zhu; Raymond Yao
+<br/></li><li>(1571071788) Paradigm Shift in Foreign Language Teaching Practices in the Age of AI - Case Studies of Chinese and Japanese Learners - Xiaolin Wu; Shuliang Zhu; Raymond Yao
 </li></ol>
 
 <h4>International Workshop on the Impact of Internet of Things on Daily Life (IoT-Life)</h4>
@@ -104,7 +104,7 @@ permalink: /cyberscitech/acceptedpapers/
 <br/></li><li>(1571060849) Analyzing Eye-Movements of Drivers with Varying Levels of Experience During U-Turn Segment - Haojie Wang; Luyang Wang; Yishui Zhu; Jun Wang; Bo Wu
 <br/></li><li>(1571061107) Impacts of Internet of Things (IoT) leveraging Radio Frequency Identification (RFID) and Internet Protocol (IP) on Business Continuity (BC) and Disaster Recovery (DR) - Nikhil Kumar Agarwal; Gurkiran Singh Batra; Dhrumik Mukeshbhai Patel; Eslam G. AbdAllah
 <br/></li><li>(1571061244) Analyzing the Imitation behaviors of Gorilla Chest-Beating Based on Human Pose Estimation - Yu Qi; Bo Wu; Chongyang Zhang; Siyu Xiong
-<br/></li><li>(1571061246) A New Smart Glasses-based Dual Authentication System via Signature Image Recognition Handwriting Behaviors Identification - XiangYu Su; Siyu Xiong; Bo Wu
+<br/></li><li>(1571061246) A New Smart Glasses-based Dual Authentication System via Signature Image Recognition Handwriting Behaviors Identification - Xiangyu Su; Siyu Xiong; Bo Wu
 <br/></li><li>(1571061538) Investigating Decentralized Management of Wearable Device Data for Health and Fitness - Tao Zhou; Tianle Hu; Hong Chen
 </li></ol>
 
