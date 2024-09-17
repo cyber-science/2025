@@ -66,8 +66,6 @@ permalink: /picom/acceptedpapers/
 
 <br/></li><li>(1571052712) Graph Attention Network with LSTM for Smart Contract Vulnerability Detection - Kyungbin Jang; Hyunah Ra; Ikbeom Jang
 
-<br/></li><li>(1571054479) Dual-sense irrigation system using infused weather and soil data for efficient water management	- Anton Louise P. De Ocampo; Romel Briones; Mars Panganiban; Melmar Eje; Herbert Bañados; Myrna Garcia; Mark Justine M. Domingo
-
 <br/></li><li>(1571059813) Projected Quantum Kernel for IoT Data Analysis - Francesco D'Amore; Luca Mariani; Carlo Mastroianni; Jacopo Settino; Andrea Vinci
 </li></ol>
 
