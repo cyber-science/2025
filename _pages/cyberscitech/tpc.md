@@ -6,85 +6,56 @@ permalink: /cyberscitech/tpc/
 
 <h3>CyberSciTech 2024 Technical Program Committee</h3>
 <hr/>
-Earl Ryan M. Aleluya, MSU-Iligan Institute of Technology, Philippines<br>
-Liaqat Ali, Athabasca University, Canada<br>
-Md Amiruzzaman, Kent State University, USA<br>
-Md. Khayrul Bashar, Ochanomizu University, Japan<br>
-Maria Bermudez-Edo, University of Granada, Spain<br>
-Kechao Cai, Sun Yat-Sen University, China<br>
+Yalong Li, The University of Electro-Communications, Japan<br>
+An Xing, The University of Electro-Communication, Japan<br>
+Yiming Chen, The University of Electro-Communications, Japan<br>
+Jingjing Bao, The University of Electro-Communications, Japan<br>
+Bin Dai, Huazhong University of Science and Technology, China<br>
+Zhao Fengpan, Meta Platforms, Inc., USA<br>
+Jishen Yang, Amazon, USA<br>
+Liu Zhiguo, Georgia State University, USA<br>
+Wei Chen, Huazhong University of Science and Technology, China<br>
+Zhengguang Xu, Huazhong University of Science and Technology, China<br>
+Chen Huang, Hubei University, China<br>
+Zhiying Huang, Hosei University, Japan<br>
+Yangfei Lin, The University of Electro-Communications, Japan<br>
+Juanjuan Zhao, Shenzhen Institutes of Advanced Technology, China<br>
+Zhiyong Tian, Hubei University, China<br>
+Shen Yukang, SenseTime, China<br>
+Walid Brahim, Hosei University, Japan<br>
+Bo Gu, Sun Yat-Sen University, China<br>
+Hui Zeng, Shanghai University, China<br>
+Youwei Zhang, University of Science and Technology of China, China<br>
 Bolin Chen, Northwest Polytechnic University, China<br>
-Dehua Chen, Donghua University, China<br>
+Minghui Dai, Donghua University, China<br>
+Guo Jia, Hubei University of Economics, China<br>
+Guanqun Sun, Hanghzou Medical College, China<br>
+Enchao Zhang, The University of Electro-Communications, Japan<br>
+M. Ali Akber Dewan, Athabasca University, Canada<br>
+Larbi Esmahi, Athabasca University, Canada<br>
+Zhikang Feng, Qufu Normal University, China<br>
+Zheng Hu, Shanghai University, China<br>
+Jun Kanai, Toshiba Corporation, Japan<br>
+Suhua Tang, The University of Electro-Communications, Japan<br>
+Xiaoming Yuan, Northeastern University, China<br>
+Earl Ryan Aleluya, Mindanao State University - Iligan Institute of Technology, Philippines<br>
+Md Amiruzzaman, Kent State University, USA<br>
+Kechao Cai, Sun Yat-Sen University, China<br>
 Hongmei Chen, Southwest Jiaotong University, China<br>
-Jian Chen, Cyber University, Japan<br>
-Jiaoyan Chen, Wuhan University of Science and Technology, China<br>
 Xianfu Chen, VTT Technical Research Centre of Finland, Finland<br>
 Chien-Fu Cheng, National Taiwan Ocean University, Taiwan<br>
-Marta Chinnici, ENEA, Italy<br>
-Liezil E. Daberao, MSU-Iligan Institute of Technology, Philippines<br>
-Lu Dai, Huazhong University of Science and Technology (HUST), China<br>
-Miguel De-la-torre, Universidad de Guadalajara, Mexico<br>
-M. Ali Akber Dewan, Athabasca University, Canada<br>
-Peng Dong, Shanghai Jiao Tong University, China<br>
+Liezil C. Daberao, Mindanao State University-Iligan Institute of Technology, Philippines<br>
 Bowen Du, Beihang University, China<br>
-Larbi Esmahi, Athabasca University, Canada<br>
-Chun-I Fan, National Sun Yat-sen University, Taiwan<br>
-Dongfeng Fang, California Polytechnic State University San Luis Obispo, USA<br>
-Yaokai Feng, Kyushu University, Japan<br>
-Zhao Fengpan, Meta Platforms,  Inc., USA<br>
-Zeng Gang, Nagoya University, Japan<br>
-Honghao Gao, Shanghai University, China<br>
-Vasileios Gkioulos, Norwegian University of Science and Technology, Norway<br>
-Danilo Gligoroski, Norwegian University of Science and Technology, Norway<br>
-George Grispos, University of Nebraksa at Omaha, USA<br>
-Bo Gu, Sun Yat-Sen University, China<br>
-Enamul Haque, York University, Canada<br>
+Ruxue Han, Qufu Normal University, China<br>
 Naohiro Hayashibara, Kyoto Sangyo University, Japan<br>
-Hiroaki Higaki, Tokyo Denki University, Japan<br>
-Mario Hildebrandt, Otto von Guericke University Magdeburg, Germany<br>
 Tzung-Pei Hong, National University of Kaohsiung, Taiwan<br>
-Suzhen Huang, Central South University, China<br>
-Yanyong Huang, Southwestern University of Finance and Economics, China<br>
-Shareeful Islam, Anglia Ruskin University, UK<br>
-Jiulei Jiang, Changshu Institute of Technology, China<br>
-Yoshiaki Kakuda, Hiroshima City University, Japan<br>
-Jun Kanai, Toshiba Corporation, Japan<br>
-Shinsaku Kiyomoto, Information Security Laboratory,  KDDI Research Inc., Japan<br>
-Haiying Li, University of Pennsylvania, USA<br>
+Shareeful Islam, Anglia Ruskin University, United Kingdom (Great Britain)<br>
 Yongkun Li, University of Science and Technology of China, China<br>
-Yue Li, South China University of Technology, China<br>
-Zhaoxing Li, University of Southampton, UK<br>
-Jian-wei Liu, China University of Petroleum Beijing, China<br>
-Orven E. Llantos, MSU-Iligan Institute of Technology, Philippines<br>
-Xin Luo, Chongqing University, China<br>
-Roger Nkambo, Université du Québec à Montréal, Canada<br>
-Han Pan, Shanghai Jiao Tong University, China<br>
-Panagiotis Petratos, California State University, USA<br>
-Lianyong Qi, Qufu Normal University, China<br>
-Zia Ush Shamszaman, Teesside University, UK<br>
-Stefano Silvestri, ICAR-CNR, Italy<br>
+Stefano Silvestri, Institute for High Performance Computing and Networking, ICAR-CNR, Italy<br>
+Te Song, China University of Petroleum (East China), China<br>
 Chunhua Su, University of Aizu, Japan<br>
-Guanqun Sun, Hangzhou Medical College, China<br>
 Kenichi Takahashi, Tottori University, Japan<br>
-Suhua Tang, The University of Electro-Communications, Japan<br>
 Tengku Adil Tengku Izhar, Universiti Teknologi Mara, Malaysia<br>
-Cherry Mae G. Villame, MSU-Iligan Institute of Technology, Philippines<br>
-Hao Wang, Norwegian University of Science and Technology, Norway<br>
-Xiaoyan Wang, Ibaraki University, Japan<br>
-Celimuge Wu, The University of Electro-Communications, Japan<br>
+Cherry Mae G Villame, Mindanao State University-Iligan Institute of Technology, Philippines<br>
 Yue Wu, Shanghai Jiaotong University, China<br>
-Qichao Xu, Shanghai University, China<br>
-Jishen Yang, Amazon, USA<br>
-Yan Yang, Changchun Normal University, China<br>
-Fenghui Yao, Tennessee State University, USA<br>
-Masaya Yasuda, Kyushu University, Japan<br>
-Tao Yu, Nagasaki Institute of Applied Science, Japan<br>
-Weiwei Yu, Northwestern Polytechnic University, China<br>
-Wei Yuan, Huazhong University of Science and Technology, China<br>
-Xiaoming Yuan, Northeastern University, China<br>
-Shen Yukang, SenseTime, China<br>
-Zhi-Hui Zhan, Nankai University, China<br>
-Qiang Zhang, Dalian University of Technology, China<br>
-Zhenkai Zhang, Jiangsu University of Science and Technology, China<br>
-Junzhou Zhao, King Abdullah University of Science and Technology, Saudi Arabia<br>
-Wei Zhao, Anhui University of Technology (Xiushan), China<br>
-Liu Zhiguo, Georgia State University, USA<br>
+Xiaoran Zhao, Qufu Normal University, China<br>
