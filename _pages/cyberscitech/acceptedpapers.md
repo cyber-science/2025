@@ -58,7 +58,16 @@ permalink: /cyberscitech/acceptedpapers/
 <br/></li><li>(1571066809) SarlBFT: Scalable Tree Communication Pattern BFT Protocol - Jianxin Yang; Xiaoding Wang; Hui Lin
 <br/></li><li>(1571066853) ADEFTOR: Adaptive Adversarial Example Generation for Website Fingerprinting Defense in Tor - Krishan Pal Singh
 <br/></li><li>(1571070228) A Privacy-preserving Across-institution Archives Utilization Framework and Implementation - Weiwei Chen; Jinquan Zuo; Shuai Su; Chi Chen
+<br/></li><li>(1571071596) Lightweight IoT-Oriented Verifiable Computing Scheme in Cloud Computing Circumstance - Xintao Pei; Yuling Chen; Yun Luo; Zaidong Li; Jianqi Wei
+<br/></li><li>(1571072934) Optimized Block-K Clustering IoT Clustering and Blockchain Sharding Strategy Using Deep Reinforcement Learning - Tianci Chen; Lin Hui; Lizhao Wu; Xiaoding Wang
+<br/></li><li>(1571073316) IoT Intrusion Detection Using SDN Cloud-edge Collaboration and Ensemble Deep Learning - Yuhua Xu; Yan Li; Sun Zhixin
+<br/></li><li>(1571073323) Fake news detection based on contrast learning and cascading attention - Fu Li; Hui Zhang; Zhichao Lian; Shujuan Wang
+<br/></li><li>(1571073340) Unsupervised Anomaly Behavior Detection in Power Information Network Based on Discriminative Semantic Transformation Sequences - Hao Yu; Wei Sun; Jian Liu; Peng Gao
+<br/></li><li>(1571073385) Bandwidth-Adaptive Semantic Communication System with Non-ROI Image Compression - Chao Wu; Celimuge Wu; Jiale Wu; Yangfei Lin; Zhaoyang Du; Ha Si; Wugedele Bao
+<br/></li><li>(1571073658) Improved YOLOv5 for Pavement Patch Detection Using Deformable Convolution and Bidirectional Feature Pyramid Network - Xiaojing Wu; Bi Huang; Fei Dai; Shuai Wang; Xinzhuo Chai; Yueyu Dong
 </li></ol>
+
+
 
 <h3>CyberSciTech Accepted WIP Papers (Work in Progress)</h3>
 <ol><li>
@@ -81,6 +90,8 @@ permalink: /cyberscitech/acceptedpapers/
 <br/></li><li>(1571065468) Efficient Feature Extraction Model for Surveillance Systems Using Drone Imagery - Jehwan Choi; Youlkyeong Lee; Kang-Hyun Jo
 <br/></li><li>(1571068130) Checking the Neural Networks' Subitizing Ability and Proposing Three Challenges for Human-like Subitizing - Seongmin Kim; Kang-Hyun Jo
 <br/></li><li>(1571070721) 3-DoF Pose Estimation of Vehicles on the Road - Jaehyeon Sung; Kanghyun Jo
+<br/></li><li>(1571072967) Improved Multi-Objective Simulated Annealing Particle Swarm Algorithm for Siting and Capacity Sizing of Distributed Power Supplies - Hou tao Sun; Chuanxin Wen; Chunhu Shi; Fei Luo; Qiangsheng Pu; Pengpeng Lv 
+<br/></li><li>(1571073388) Cross-Layer Performance Analysis of Delay-Doppler Domain Multi-Carrier Modulation for Vehicular Networks - Ganggui Wang; Celimuge Wu; Yangfei Lin; Zhaoyang Du; Wugedele Bao; Ha Si
 </li></ol>
 
 <h3>CyberSciTech Accepted Papers (Workshops/Special Sessions)</h3>
