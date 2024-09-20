@@ -54,7 +54,7 @@ permalink: /panel/
 <h6>Federal University of Rio de Janeiro, Brazil</h6>
 <p style="text-align: justify;">
 <b>Biography</b>: Claudio Miceli de Farias graduated in Computer Science (2008), and holds a master's degree (2010) and a PhD (2014) in Computer Science from the Federal University of Rio de Janeiro. He was chosen by MCTI to represent Brazil at the BRICS Young Scientists Forum in the area of Cyber-Physical Systems (2021). The professor was also awarded the Young Scientist of our state scholarship by FAPERJ. Currently, the aforementioned professor works in the Graduate Program in Systems Engineering and Computer Science (PESC-COPPE-UFRJ) and at the Tércio Pacitti Institute for Computer Research and Applications at UFRJ. In 2022, the aforementioned professor won the IEEE Hype-Intelligence Workgroup Middle Career Researcher Award for his contributions to the area. The professor's main topics of interest are smart cities, the Internet of Things, Data Fusion, and Security.
- </p>
+</p>
 
  <img src="/2024/assets/images/panel_speaker/antonio.jpg" align="left" style="border:5px solid white" width="150">
 <h5><b>Antonio Guerrieri, Researcher</b></h5>
