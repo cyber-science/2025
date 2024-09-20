@@ -49,11 +49,11 @@ permalink: /panel/
 <b>Biography</b>: John Paul Vergara is a Professor in the Department of Information Systems and Computer Science at the Ateneo de Manila University, where he also served as Vice President from 2010-2016 and 2019-2022, overseeing its higher education units.  His research interests are in theoretical computer science, algorithms, graph theory, and artificial intelligence.  He is currently a research fellow under the University of the Philippines President Eduardo J. Angara (UP PEJA) fellowship program working on a policy framework for higher education in response to developments in generative artificial intelligence. 
 </p>
 
-<img src="/2024/assets/images/panel_speaker/paulo_pires.jpg" align="left" style="border:5px solid white" width="150">
-<h5><b>Paulo F. Pires, Research Manager</b></h5>
-<h6>Office of the CTO division of Dell, Brazil & US</h6>
+<img src="/2024/assets/images/panel_speaker/claudio.jpeg" align="left" style="border:5px solid white" width="150">
+<h5><b>Claudio Miceli, Associate Professor</b></h5>
+<h6>Federal University of Rio de Janeiro, Brazil</h6>
 <p style="text-align: justify;">
-<b>Biography</b>: Paulo F. Pires (DSc COPPE / UFRJ 2002) currently serves as a Research Manager at the Office of the CTO division of Dell, leading dynamic global teams in Brazil and the US. His current research focuses on AI/ML, Intelligent Infrastructures, and Quantum Computing. Paulo Pires is also an Associate Professor at the Fluminense Federal University, Brazil where he researches at the intersection of Software Engineering and Distributed Systems. He has published more than 200 papers in internationally renowned journals, conference and book chapters and has more the 15 patents registered with the USPTO (United States). He is currently a member of the IEEE TC on Cybermatics, Associate Editor of the IEEE Open Journal of the Communications Society and member of the editorial board of the International Journal of Computer Networks (CSC Journals). Dr. Pires has a CNPq research productivity scholarship since 2010 and is a member of IEEE and the Brazilian Computer Society (SBC).
+<b>Biography</b>: Claudio Miceli de Farias graduated in Computer Science (2008), and holds a master's degree (2010) and a PhD (2014) in Computer Science from the Federal University of Rio de Janeiro. He was chosen by MCTI to represent Brazil at the BRICS Young Scientists Forum in the area of Cyber-Physical Systems (2021). The professor was also awarded the Young Scientist of our state scholarship by FAPERJ. Currently, the aforementioned professor works in the Graduate Program in Systems Engineering and Computer Science (PESC-COPPE-UFRJ) and at the Tércio Pacitti Institute for Computer Research and Applications at UFRJ. In 2022, the aforementioned professor won the IEEE Hype-Intelligence Workgroup Middle Career Researcher Award for his contributions to the area. The professor's main topics of interest are smart cities, the Internet of Things, Data Fusion, and Security.
  </p>
 
  <img src="/2024/assets/images/panel_speaker/antonio.jpg" align="left" style="border:5px solid white" width="150">
