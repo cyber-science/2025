@@ -46,8 +46,8 @@ permalink: /dasc/acceptedpapers/
 <ol><li>
 (1571037278) Crew Management Support Application for Operation Managers and Boosting System Security - Toshihiro Uchibayashi; Chinasa Sueyoshi; Yoshihiro Yasutake; Hideyuki Satomura, Kentaro Inenaga
 <br/></li><li>(1571056381) Hybrid IoT Programming with Data Flow Diagrams and Mruby - Kazuaki Tanaka; Sota Ogura; Krishnamoorthy R
-<br/></li><li>(1571058063) VR-Mill: A Virtual Reality Trainer for Industrial Flour Mill - Lawrenze Earl Romaguera; Efren Tabuada; Stephanie Visitacion; Earl Ryan Aleluya; Cherry Mae G Villame
-<br/></li><li>(1571058123) Smart Parking: Detecting Vacant Spots from an Angled Viewpoint - Jan Leven Sayson; Alfa Valdehueza; Mac Jiem Maghanoy; Perly Rica Flores; Stephen Haim; Earl Ryan Aleluya; Francis Jann A Alagon
+<br/></li><li>(1571058063) 3.	VR-Mill: A Virtual Reality Trainer for Industrial Flour Mill - Lawrenze Earl Romaguera; Efren Tabuada; Stephanie Visitacion; Earl Ryan Aleluya; Stephen Haim; Francis Jann Alagon; Steve Clar; Arnel Zamayla; Cherry Mae G Villame
+<br/></li><li>(1571058123) 4.	Smart Parking: Detecting Vacant Spots from an Angled Viewpoint - Jan Leven Sayson; Alfa Valdehueza; Mac Jiem Maghanoy; Perly Rica Flores; Stephen Haim; Francis Jann A Alagon; Stephanie Visitacion; Cherry Mae Villame; Steve Clar; Arnel Zamayla; Earl Ryan Aleluya
 <br/></li><li>(1571060434) Congestion Prediction by Multimodal Learning of Audiovisual Data - Iori Ide; Yuki Toyosaka; Kai Cheng; Keisuke Abe
 <br/></li><li>(1571060677) Message Routing Protocol for DTN based on Road Network Density - Kazuma Matsubara; Naohiro Hayashibara
 <br/></li><li>(1571060936) Investigating the Impact of COVID-19 Pandemic on Education by Learning Analytics - Keisuke Abe
