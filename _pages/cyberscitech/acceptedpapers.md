@@ -48,7 +48,7 @@ permalink: /cyberscitech/acceptedpapers/
 <br/></li><li>(1571057478) Adversarial Evaluation of AI-Based Security Alert Screening Systems - Samuel Ndichu; Tao Ban; Takeshi Takahashi; Akira Yamada; Seiichi Ozawa; Daisuke Inoue
 <br/></li><li>(1571059137) Assessing ChatGPT-Generated Comments for Video Content Viewing in Online Learning - Jiaqi Wang; Jian Chen; Qun Jin
 <br/></li><li>(1571060467) Addressee Selection for Multi-Party Conversations in Cyber-Physical-Social Systems - Xiaoming He; Yunzhe Jiang; Huajun Cui; Yinqiu Liu
-<br/></li><li>(1571061838) Strong-Guided Pixel Supervised Contrast for Polyp Segmentation - Ledan Tan; Hai-Lin Liu; Lei Chen; Yuping Wang
+<!-- <br/></li><li>(1571061838) Strong-Guided Pixel Supervised Contrast for Polyp Segmentation - Ledan Tan; Hai-Lin Liu; Lei Chen; Yuping Wang -->
 <br/></li><li>(1571063001) Privacy-Preserving Parameter Aggregation Scheme Based on Two Leaders for Federated Learning - Weiyu Wang; Zhuotao Lian; Tianhui Li; Kouichi Sakurai; Chunhua Su
 <br/></li><li>(1571064913) Internet Security and Privacy Awareness Among College Students in the Philippines - Jim Alves-Foss; Baby Grace Llego
 <br/></li><li>(1571065170) An Automated Memory Image Forensic Scheme for Linux Systems Based on Containerization Technology - Ruihao Chen; Hui Lin; Qingxin Lin; Hui Ju
