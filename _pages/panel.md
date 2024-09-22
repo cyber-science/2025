@@ -13,7 +13,7 @@ permalink: /panel/
 <br/><b>Qun Jin</b>, Department of Human Informatics and Cognitive Sciences and Faculty of Human Sciences, Waseda University, Japan
 <br/><b>Hui-Huang Hsu</b>, Department of Computer Science and Information Engineering, Tamkang University, Taiwan
 <br/><b>John Paul C. Vergara</b>, Department of Information Systems and Computer Science, Ateneo de Manila University, Philippines
-<br/><b>Claudio Miceli</b>, Department of Computer Science, Federal University of Rio de Janeiro, Brazil
+<br/><b>Claudio Miceli</b>, Graduate Program in Systems Engineering and Computer Science, Federal University of Rio de Janeiro, Brazil
 <br/><b>Antonio Guerrieri</b>, Institute for High-Performance Computing and Networking, National Research Council of Italy, Italy
 <br/><br/><b>Panel Secretary: </b>
 <br/><b>Ao Guo</b>, Graduate School of Informatics, Nagoya University, Japan
