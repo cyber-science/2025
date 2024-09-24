@@ -68,6 +68,10 @@ permalink: /overview/
           <td>Registration</td>
         </tr>
         <tr>
+          <td>10:00 - 11:30</td>
+          <td>Birds-of-a-Feather (BoF)</td>
+        </tr>
+        <tr>
           <td>13:00 – 14:30</td>
           <td>Tutorial</td>
         </tr>
@@ -198,6 +202,10 @@ permalink: /overview/
         <tr>
           <td>11:50 – 12:20</td>
           <td>Closing Ceremony</td>
+        </tr>
+        <tr>
+          <td>14:30 - 16:00</td>
+          <td>Conference Organizational Meeting</td>
         </tr>
       </tbody>
     </table>
