@@ -44,7 +44,7 @@ permalink: /cyberscitech/acceptedpapers/
 <br/></li><li>(1571053530) Motion Deblurring by Fusing Multi-Stage Image Features - Shihua Zhang; Fan He; Xun Shao
 <br/></li><li>(1571056994) Short-term Solar Irradiance Forecasting Based on CNN-iTransformer Model - Chuan Wang; Hua Wang; Jian Bi; Ke Yan
 <br/></li><li>(1571057114) Fuzzy Logic-based Deep Reinforcement Learning Pre-training: A Case Study in MEC Task Offloading - Jiujie Zhang; Yangfei Lin; Zhaoyang Du; Wugedele Bao
-<br/></li><li>(1571057151) uSkin Pillow: Tactile-Sensor-Based Non-invasive Approach to Sleep Analysis - Yegang Du
+<br/></li><li>(1571057151) uSkin Pillow: Tactile-Sensor-Based Non-invasive Approach to Sleep Analysis - Riya Mahajan; Yegang Du; Alexander Schmitz; Gabriele Trovato; Yasuyuki Taki; Shigeki Sugano
 <br/></li><li>(1571057478) Adversarial Evaluation of AI-Based Security Alert Screening Systems - Samuel Ndichu; Tao Ban; Takeshi Takahashi; Akira Yamada; Seiichi Ozawa; Daisuke Inoue
 <br/></li><li>(1571059137) Assessing ChatGPT-Generated Comments for Video Content Viewing in Online Learning - Jiaqi Wang; Jian Chen; Qun Jin
 <br/></li><li>(1571060467) Addressee Selection for Multi-Party Conversations in Cyber-Physical-Social Systems - Xiaoming He; Yunzhe Jiang; Huajun Cui; Yinqiu Liu
@@ -107,7 +107,7 @@ permalink: /cyberscitech/acceptedpapers/
 <br/></li><li>(1571054598) Sequence-Integrated Radiology Report Generation Leveraging Positional Encoding for Text and Images - Yizhi Pan; Kai Li; Han Shu; Jinghao Wu; Feihe Shao; Junyi Xin; Guanqun Sun
 <br/></li><li>(1571061113) A PSO-CNN-BiLSTM model for predicting Leaf Area Index - wang dong; Zhou Guoyuan; Jinglue Xu; Joao Eduardo Batista; Guo Jia; Hitoshi Iba
 <br/></li><li>(1571066520) Leveraging ECG Signal for People Identification under Different Emotion States - Zhiying Huang; Yuang Meng; Ao Guo; Walid Brahim; Jianhua Ma
-<br/></li><li>(1571071788) Paradigm Shift in Foreign Language Teaching Practices in the Age of AI - Case Studies of Chinese and Japanese Learners - Xiaolin Wu; Shuliang Zhu; Raymond Yao
+<br/></li><li>(1571071788) Paradigm Shift in Foreign Language Teaching Practices in the Age of AI - Case Studies of Chinese and Japanese Learners - Xiaolin Wu; Shuliang Zhu; Jinjia Zhou, Raymond Yao
 </li></ol>
 
 <h4>International Workshop on the Impact of Internet of Things on Daily Life (IoT-Life)</h4>
