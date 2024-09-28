@@ -70,9 +70,10 @@ permalink: /cyberscitech/acceptedpapers/
 
 
 <h3>CyberSciTech Accepted WIP Papers (Work in Progress)</h3>
-<!-- <ol><li>
-(1571015033) Green Computing Optimization in a Cloud Capacity Environment: An Analytical Approach With Circular Model Integration - Uday Kumar Dosanapudi; Suneeta Mohanty; Prasant Kumar Pattnaik<br/> -->
-</li><li>(1571020481) Representation Learning for Complex Networks - Shiyu Chen; Jun Hou
+<ol><li>
+<!-- 
+(1571015033) Green Computing Optimization in a Cloud Capacity Environment: An Analytical Approach With Circular Model Integration - Uday Kumar Dosanapudi; Suneeta Mohanty; Prasant Kumar Pattnaik<br/></li><li> -->
+(1571020481) Representation Learning for Complex Networks - Shiyu Chen; Jun Hou
 <br/></li><li>(1571028644) Integrated Evaluation System for Intelligent Model - Xizhi Yang; Zhichao Lian
 <br/></li><li>(1571029564) Enhancing Adversarial Patch Effectiveness for Face Recognition Systems Using Sharpness-Aware Minimization - Wu Chenyu; Zhang Ting; Zhixian Li; Zhichao Lian
 <br/></li><li>(1571035660) DMCGF Dehazing Neural Network Design for Edge-AI Implementation - Kuo Yi Chang; Kun Lin Li; Ming-Hwa Sheu; Szu-Hong Wang
