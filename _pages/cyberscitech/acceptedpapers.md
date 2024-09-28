@@ -18,16 +18,16 @@ permalink: /cyberscitech/acceptedpapers/
 <br/></li><li>(1571038468) Range Proof-Based Noise Filtering Mechanism for IoT Differential Privacy - Jianqi Wei; Yuling Chen; Yun Luo; Zaidong Li
 <br/></li><li>(1571040138) Research on Virtual Resource Scheduling Algorithm Based on Multi-Objective Optimization - Cheng Zhou; Xiaojuan Guan; Chen Wang; Wen Ji; Chenhan Lin
 <br/></li><li>(1571041174) Traffic Prediction by Integrating Multi-Cycle Features and Spatio-Temporal Correlations - Lugang Nie; Benxiong Huang; Lai Tu
-<br/></li><li>(1571042306) Leveraging Machine Learning for the Design of a Digital Twin in Smart Mobility - Marzia Canzaniello; Sara Amitrano; Edoardo Prezioso; Fabio Giampaolo; Francesco Piccialli
+<br/></li><li>(1571042306) Leveraging Digital Twins and Generative AI for Effective Urban Mobility Management - Marzia Canzaniello; Sara Amitrano; Edoardo Prezioso; Fabio Giampaolo; Francesco Piccialli
 <br/></li><li>(1571042355) A Two-Stage Depression Recognition Model Based on Improved YOLOv5 and Spatial-Temporal CNN-Transformer Network - Jianing Zhao; Qun Jin
 <br/></li><li>(1571046878) Model Extraction Attacks on Text-to-Image Generative Adversarial Networks - Ying Chen; Weihao Guo; Pingyuan Ge; Xiaoji Ma; Zhang Yu qing
-<br/></li><li>(1571047743) Static Malware Classification Based on Multimodal Global Features - Chen Zhiguo; Lei Zhou; Ning Yang; Tao Lu; Lili Huang; Yunlong Yang
+<!-- <br/></li><li>(1571047743) Static Malware Classification Based on Multimodal Global Features - Chen Zhiguo; Lei Zhou; Ning Yang; Tao Lu; Lili Huang; Yunlong Yang -->
 <br/></li><li>(1571050453) Attack Path Extraction based on VGAE and DBSCAN - Zi Ang Lu; Lu Chen; Yong Li; Guang Xin Guo; Teng Yan Wang
 <br/></li><li>(1571050820) A Graph Neural Network with Imbalance-Aware Mechanism for Enhanced Fraud Detection - Yuhao Chen; Binbin Zhou; Zengwei Zheng; Jianhua Ma
 <br/></li><li>(1571051869) Bio-SSI: Self-Sovereign Identity bound to Biometrics - Yoshiko Yasumura; Masakazu Fujio; Wataru Nakamura; Kenta Takahashi
 <br/></li><li>(1571051907) Chinese Named Entity Recognition in Industry Domain Based on Lexical Enhancement - Jingxin Zhao; Cuilan Liu; Caiyun Liu; Zhenxing Ni; Jiadong Ren; Zhang Yu qing
 <br/></li><li>(1571051941) Evacuation Guidance System Using UAVs of Multiple Types at Disaster - Kozaburo Ibuki; Noriaki Kamiyama
-<br/></li><li>(1571052084) Attentive Mixture of Expert - Boqian Fu; Peng Li
+<!-- <br/></li><li>(1571052084) Attentive Mixture of Expert - Boqian Fu; Peng Li -->
 <br/></li><li>(1571052128) Energy-Efficient Reliable Data Storage Service in Heterogeneous Crowdsensing - Zhaoxiang Huang; Zhiwen Yu; Zhijie Huang; Erhe Yang; Jiangyan Xu; Bin Guo
 <br/></li><li>(1571052139) Detection of Smoking Behaviors Using Human Key point and YOLOv8 - WieXiong Zhang; Anton Louise P. De Ocampo; Rowell M Hernandez
 <br/></li><li>(1571052392) Pavement Crack Detection based on Channel Attention Mechanism - Guoxi Liu; Bi Huang; Ning Liu; Xiaojing Wu; Li Yang; Fei Dai
@@ -56,7 +56,7 @@ permalink: /cyberscitech/acceptedpapers/
 <br/></li><li>(1571065306) Voltage Prediction of Electric Vehicle Based on Attention Mechanism CNN-GRU Model - Haiyang Feng; Weizhen Han; Haikuo Zhang
 <br/></li><li>(1571066610) Detecting Characteristic Points in Breathing Cycles using FMCW Radar with Spirometer as Reference - Haotian Wang; Walid Brahim; Jianhua Ma; Muxin Ma; Alex Qi
 <br/></li><li>(1571066809) SarlBFT: Scalable Tree Communication Pattern BFT Protocol - Jianxin Yang; Xiaoding Wang; Hui Lin
-<br/></li><li>(1571066853) ADEFTOR: Adaptive Adversarial Example Generation for Website Fingerprinting Defense in Tor - Krishan Pal Singh
+<!-- <br/></li><li>(1571066853) ADEFTOR: Adaptive Adversarial Example Generation for Website Fingerprinting Defense in Tor - Krishan Pal Singh -->
 <br/></li><li>(1571070228) A Privacy-preserving Across-institution Archives Utilization Framework and Implementation - Weiwei Chen; Jinquan Zuo; Shuai Su; Chi Chen
 <br/></li><li>(1571071596) Lightweight IoT-Oriented Verifiable Computing Scheme in Cloud Computing Circumstance - Xintao Pei; Yuling Chen; Yun Luo; Zaidong Li; Jianqi Wei
 <br/></li><li>(1571072934) Optimized Block-K Clustering IoT Clustering and Blockchain Sharding Strategy Using Deep Reinforcement Learning - Tianci Chen; Lin Hui; Lizhao Wu; Xiaoding Wang
@@ -70,9 +70,9 @@ permalink: /cyberscitech/acceptedpapers/
 
 
 <h3>CyberSciTech Accepted WIP Papers (Work in Progress)</h3>
-<ol><li>
-(1571015033) Green Computing Optimization in a Cloud Capacity Environment: An Analytical Approach With Circular Model Integration - Uday Kumar Dosanapudi; Suneeta Mohanty; Prasant Kumar Pattnaik
-<br/></li><li>(1571020481) Representation Learning for Complex Networks - Shiyu Chen; Jun Hou
+<!-- <ol><li>
+(1571015033) Green Computing Optimization in a Cloud Capacity Environment: An Analytical Approach With Circular Model Integration - Uday Kumar Dosanapudi; Suneeta Mohanty; Prasant Kumar Pattnaik<br/> -->
+</li><li>(1571020481) Representation Learning for Complex Networks - Shiyu Chen; Jun Hou
 <br/></li><li>(1571028644) Integrated Evaluation System for Intelligent Model - Xizhi Yang; Zhichao Lian
 <br/></li><li>(1571029564) Enhancing Adversarial Patch Effectiveness for Face Recognition Systems Using Sharpness-Aware Minimization - Wu Chenyu; Zhang Ting; Zhixian Li; Zhichao Lian
 <br/></li><li>(1571035660) DMCGF Dehazing Neural Network Design for Edge-AI Implementation - Kuo Yi Chang; Kun Lin Li; Ming-Hwa Sheu; Szu-Hong Wang
@@ -80,10 +80,10 @@ permalink: /cyberscitech/acceptedpapers/
 <br/></li><li>(1571042776) Intelligent Task Offloading in IoT-Driven Digital Twin Systems via Hybrid Federated and Reinforcement Learning - Shivam Goyal; Sudhakar Kumar; Sunil K. Singh; Brij B. Gupta; Varsha Arya; Kwok Tai Chui
 <br/></li><li>(1571046691) Advanced Evaluation of Propagation Models and Routing Protocols in Vehicular Ad-Hoc Networks - Anmol Jaiswal; Sunil K. Singh; Sudhakar Kumar; Kwok Tai Chui; Brij B. Gupta
 <br/></li><li>(1571051609) SA-PSO Approach for Optimizing QoS Management in SDN Service Chains - Wen Ji; Chenhan Lin; Jiang Liu; Hongyang Xu; Liangjie Xu; Jun Hu
-<br/></li><li>(1571052311) The Application and Optimization of Differential Privacy Technology in Cybersecurity and Personal Privacy Protection - Xiefu Ping
+<!-- <br/></li><li>(1571052311) The Application and Optimization of Differential Privacy Technology in Cybersecurity and Personal Privacy Protection - Xiefu Ping -->
 <br/></li><li>(1571052691) Analysis of Business Model of Co-Creation Digital-Twin City Using Evolutionary Game - Kaito Kondo; Noriaki Kamiyama
 <br/></li><li>(1571056388) DORAC: Dynamic-Objects Removal And Clustering For Object Detection - Kwanho Kim; Dokyung Kim; Kanghyun Jo
-<br/></li><li>(1571056710) Visual Positioning System for Greeting Card Rhinestone Pasting Machine - Jia Linling; Anton Louise P. De Ocampo; Rowell M Hernandez; Jeffrey Sarmiento
+<!-- <br/></li><li>(1571056710) Visual Positioning System for Greeting Card Rhinestone Pasting Machine - Jia Linling; Anton Louise P. De Ocampo; Rowell M Hernandez; Jeffrey Sarmiento -->
 <br/></li><li>(1571061147) FaceGuard: Enhancing Data Privacy through Selective Facial Anonymization in Public Events - Chalee Vorakulpipat; Apiwat Chantawibul; Satheanpong Jeungudomporn; Chanchai Techawatcharapaikul; Wachirapong Jirakitpuwapat
 <br/></li><li>(1571061405) Low-Frequency Injection for Performance Boosting of Image Classification - Minseung Kim; Jongchae Lee; Kang-Hyun Jo
 <br/></li><li>(1571062189) Descriptor Feature Map for Classification - Jongchae Lee; Minseung Kim; Kanghyun Jo
@@ -103,7 +103,7 @@ permalink: /cyberscitech/acceptedpapers/
 </li></ol>
 
 <h4>International Workshop on Generative AI and Hyper Intelligence (GAI-HyperI 2024)</h4>
-<ol><li>(1571044470) Digital Twin to Modeling Data Center: An enabler for holistic approach - Marta Chinnici
+<!-- <ol><li>(1571044470) Digital Twin to Modeling Data Center: An enabler for holistic approach - Marta Chinnici -->
 <br/></li><li>(1571054598) Sequence-Integrated Radiology Report Generation Leveraging Positional Encoding for Text and Images - Yizhi Pan; Kai Li; Han Shu; Jinghao Wu; Feihe Shao; Junyi Xin; Guanqun Sun
 <br/></li><li>(1571061113) A PSO-CNN-BiLSTM model for predicting Leaf Area Index - wang dong; Zhou Guoyuan; Jinglue Xu; Joao Eduardo Batista; Guo Jia; Hitoshi Iba
 <br/></li><li>(1571066520) Leveraging ECG Signal for People Identification under Different Emotion States - Zhiying Huang; Yuang Meng; Ao Guo; Walid Brahim; Jianhua Ma

@@ -50,5 +50,5 @@ permalink: /dasc/acceptedpapers/
 <br/></li><li>(1571058123) 4.	Smart Parking: Detecting Vacant Spots from an Angled Viewpoint - Jan Leven Sayson; Alfa Valdehueza; Mac Jiem Maghanoy; Perly Rica Flores; Stephen Haim; Francis Jann A Alagon; Stephanie Visitacion; Cherry Mae Villame; Steve Clar; Arnel Zamayla; Earl Ryan Aleluya
 <br/></li><li>(1571060434) Congestion Prediction by Multimodal Learning of Audiovisual Data - Iori Ide; Yuki Toyosaka; Kai Cheng; Keisuke Abe
 <br/></li><li>(1571060677) Message Routing Protocol for DTN based on Road Network Density - Kazuma Matsubara; Naohiro Hayashibara
-<br/></li><li>(1571060936) Investigating the Impact of COVID-19 Pandemic on Education by Learning Analytics - Keisuke Abe
+<br/></li><li>(1571060936) Investigating the Impact of COVID-19 Pandemic on Education by Learning Analytics - Keisuke Abe; Kai Cheng
 </li></ol>
