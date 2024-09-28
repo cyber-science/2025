@@ -104,8 +104,9 @@ permalink: /cyberscitech/acceptedpapers/
 </li></ol>
 
 <h4>International Workshop on Generative AI and Hyper Intelligence (GAI-HyperI 2024)</h4>
-<!-- <ol><li>(1571044470) Digital Twin to Modeling Data Center: An enabler for holistic approach - Marta Chinnici -->
-<br/></li><li>(1571054598) Sequence-Integrated Radiology Report Generation Leveraging Positional Encoding for Text and Images - Yizhi Pan; Kai Li; Han Shu; Jinghao Wu; Feihe Shao; Junyi Xin; Guanqun Sun
+<ol><li>
+<!-- (1571044470) Digital Twin to Modeling Data Center: An enabler for holistic approach - Marta Chinnici <br/></li><li>-->
+(1571054598) Sequence-Integrated Radiology Report Generation Leveraging Positional Encoding for Text and Images - Yizhi Pan; Kai Li; Han Shu; Jinghao Wu; Feihe Shao; Junyi Xin; Guanqun Sun
 <br/></li><li>(1571061113) A PSO-CNN-BiLSTM model for predicting Leaf Area Index - wang dong; Zhou Guoyuan; Jinglue Xu; Joao Eduardo Batista; Guo Jia; Hitoshi Iba
 <br/></li><li>(1571066520) Leveraging ECG Signal for People Identification under Different Emotion States - Zhiying Huang; Yuang Meng; Ao Guo; Walid Brahim; Jianhua Ma
 <br/></li><li>(1571071788) Paradigm Shift in Foreign Language Teaching Practices in the Age of AI - Case Studies of Chinese and Japanese Learners - Xiaolin Wu; Shuliang Zhu; Jinjia Zhou, Raymond Yao
