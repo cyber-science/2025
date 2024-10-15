@@ -120,15 +120,15 @@ permalink: /overview/
           <td>Lunch Break</td>
         </tr>
         <tr>
-          <td>13:30 – 16:10</td>
+          <td>13:30 – 15:10</td>
           <td>Parallel Sessions</td>
         </tr>
         <tr class="coffee-break">
-          <td>16:10 – 16:30</td>
+          <td>15:10 – 15:30</td>
           <td>Coffee Break</td>
         </tr>
         <tr>
-          <td>16:30 – 17:50</td>
+          <td>15:30 – 17:10</td>
           <td>Parallel Sessions</td>
         </tr>
       </tbody>
@@ -160,15 +160,15 @@ permalink: /overview/
           <td>Lunch Break</td>
         </tr>
         <tr>
-          <td>13:30 – 16:10</td>
+          <td>13:30 – 15:10</td>
           <td>Parallel Sessions</td>
         </tr>
         <tr class="coffee-break">
-          <td>16:10 – 16:30</td>
+          <td>15:10 – 15:30</td>
           <td>Coffee Break</td>
         </tr>
         <tr>
-          <td>16:30 – 17:50</td>
+          <td>15:30 – 17:10</td>
           <td>Parallel Sessions</td>
         </tr>
         <tr class="gala-dinner">
@@ -188,15 +188,15 @@ permalink: /overview/
           <td>Registration</td>
         </tr>
         <tr>
-          <td>08:30 – 10:10</td>
+          <td>08:30 – 09:50</td>
           <td>Parallel Sessions</td>
         </tr>
         <tr class="coffee-break">
-          <td>10:10 – 10:30</td>
+          <td>09:50 – 10:10</td>
           <td>Coffee Break</td>
         </tr>
         <tr>
-          <td>10:30 – 11:50</td>
+          <td>10:10 – 11:50</td>
           <td>Parallel Sessions</td>
         </tr>
         <tr>
