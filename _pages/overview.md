@@ -64,7 +64,7 @@ permalink: /overview/
     <table class="news-table">
       <tbody>
         <tr>
-          <td>09:30 – 16:00</td>
+          <td>09:30 – 17:00</td>
           <td>Registration</td>
         </tr>
         <tr>
@@ -96,7 +96,7 @@ permalink: /overview/
     <table class="news-table">
       <tbody>
         <tr>
-          <td>08:30 – 16:00</td>
+          <td>08:00 – 17:00</td>
           <td>Registration</td>
         </tr>
         <tr>
@@ -140,7 +140,7 @@ permalink: /overview/
     <table class="news-table">
       <tbody>
         <tr>
-          <td>08:30 – 16:00</td>
+          <td>08:00 – 17:00</td>
           <td>Registration</td>
         </tr>
         <tr>
@@ -184,7 +184,7 @@ permalink: /overview/
     <table class="news-table">
       <tbody>
         <tr>
-          <td>08:30 – 11:00</td>
+          <td>08:00 – 11:00</td>
           <td>Registration</td>
         </tr>
         <tr>
