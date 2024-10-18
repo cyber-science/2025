@@ -168,7 +168,7 @@ permalink: /overview/
           <td>Coffee Break</td>
         </tr>
         <tr>
-          <td>15:30 – 17:10</td>
+          <td>15:30 – 17:30</td>
           <td>Parallel Sessions</td>
         </tr>
         <tr class="gala-dinner">
