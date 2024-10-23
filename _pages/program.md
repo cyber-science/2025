@@ -4,7 +4,7 @@ layout: sub
 permalink: /program/
 --- 
 
-<h3>Program</h3>
+<h3>Program Agenda</h3>
 
 <hr/>
 <h4>Please click the following link to get Program at a Glance</h4>
