@@ -15,7 +15,7 @@ permalink: /panel/
 <br/><b>John Paul C. Vergara</b>, Department of Information Systems and Computer Science, Ateneo de Manila University, Philippines
 <br/><b>Claudio Miceli</b>, Graduate Program in Systems Engineering and Computer Science, Federal University of Rio de Janeiro, Brazil
 <br/><b>Antonio Guerrieri</b>, Institute for High-Performance Computing and Networking, National Research Council of Italy, Italy
-<br/><b>Chuan-Yu Chang</b>, National Yunlin University of Science and Technology, Taiwan
+<br/><b>Chuan-Yu Chang</b>, Department of Electronic Engineering, National Yunlin University of Science and Technology, Taiwan
 <br/><br/><b>Panel Secretary: </b>
 <br/><b>Ao Guo</b>, Graduate School of Informatics, Nagoya University, Japan
 <br/>
