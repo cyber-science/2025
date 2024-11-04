@@ -15,6 +15,7 @@ permalink: /panel/
 <br/><b>John Paul C. Vergara</b>, Department of Information Systems and Computer Science, Ateneo de Manila University, Philippines
 <br/><b>Claudio Miceli</b>, Graduate Program in Systems Engineering and Computer Science, Federal University of Rio de Janeiro, Brazil
 <br/><b>Antonio Guerrieri</b>, Institute for High-Performance Computing and Networking, National Research Council of Italy, Italy
+<br/><b>Chuan-Yu Chang</b>, National Yunlin University of Science and Technology, Taiwan
 <br/><br/><b>Panel Secretary: </b>
 <br/><b>Ao Guo</b>, Graduate School of Informatics, Nagoya University, Japan
 <br/>
@@ -62,4 +63,12 @@ permalink: /panel/
 <p style="text-align: justify;">
 <b>Biography</b>: Antonio Guerrieri is currently a researcher at ICAR-CNR (National Research Council of Italy, Institute for High-Performance Computing and Networking). He previously served as a researcher at the Telecom Italia WSN Lab in Berkeley, California, and at the Clarity Centre, UCD (University College Dublin), Ireland. Dr. Guerrieri has been involved in several research projects and co-founded SenSysCal S.r.l., a University of Calabria (UNICAL) spinoff focused on innovative IoT systems. His research interests include wireless sensor and actuator networks, building monitoring and control, smart objects, smart and cognitive environments, and the Internet of Things. He has co-authored over 100 papers in international journals, conferences, and books. He is an Associate Editor of IEEE Transactions on Human-Machine Systems (THMS) and serves on the editorial boards of journals such as IoT, Cybersecurity and Privacy, Engineering Proceedings, Sensors, and Wireless Communications and Mobile Computing. He is an adjunct professor at the DIMES department at UNICAL. More information can be found at <a href="https://staff.icar.cnr.it/guerrieri/wordpress/" target=_new><u>https://staff.icar.cnr.it/guerrieri/wordpress/</u></a>.
  </p>
+
+  <img src="/2024/assets/images/panel_speaker/chuan-yu_chang.jpg" align="left" style="border:5px solid white" width="150">
+<h5><b>Chuan-Yu Chang, Professor</b></h5>
+<h6>National Yunlin University of Science and Technology, Taiwan</h6>
+<p style="text-align: justify;">
+<b>Biography</b>: Chuan-Yu Chang received his M.S. degree in electrical engineering from National Taiwan Ocean University, Keelung, Taiwan, in 1995, and his Ph.D. degree in electrical engineering from National Cheng Kung University, Tainan, Taiwan, in 2000. From 2001 to 2002, he was in the Department of Computer Science and Information Engineering, Shu-Te University, Kaohsiung, Taiwan. From 2002 to 2006, he was in the Department of Electronic Engineering, National Yunlin University of Science and Technology, Yunlin, Taiwan, where he has been with the Department of Computer and Communication Engineering. His current research interests include neural networks and their applications in medical image processing, wafer defect inspections, digital watermarking and pattern recognition. In the above areas, he has authored or coauthored more than 150 publications in journals and conference proceedings. He is the Chair of the IEEE Signal Processing Society Tainan Chapter.</a>.
+ </p>
+
 <br/>
