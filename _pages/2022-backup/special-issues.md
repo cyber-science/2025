@@ -17,7 +17,7 @@ Selected conference articles will be invited to be submitted to the following Sp
 <br/>
 Guest Editors:
 <br/>
-Prof. Xiaokang Zhou - Shiga University (Japan), Prof. Vincenzo Piuri - University of Milan (Italy), Prof. Henry Leung - University of Calgary (Canada)
+Prof. Xiaokang Zhou - Kansai University (Japan), Prof. Vincenzo Piuri - University of Milan (Italy), Prof. Henry Leung - University of Calgary (Canada)
 </li>
 
 <li>Special Issue on <a href="/2022/assets/files/si/220412_IEEE TCSS_SI.pdf" target=_new><b>Dark side of the Socio-Cyber World: Media Manipulation, Fake News, and Misinformation</b></a> in <i>IEEE Transactions on Computational Social Systems</i>
@@ -45,14 +45,14 @@ Prof. Andrei Gurtov - Linkoping University (Sweden), Prof. Giancarlo Fortino - U
 <br/>
 Guest Editors:
 <br/>
-Prof. Xiaokang Zhou (Managing Guest Editor) - Shiga University (Japan), Prof. Giancarlo Fortino - University of Calabria (Italy), Prof. Alireza Jolfaei - Flinders University (Australia), Prof. Lianyong Qi - Qufu Normal University (China), Prof. Mohammad Hammoudeh - Manchester Metropolitan University (UK)
+Prof. Xiaokang Zhou (Managing Guest Editor) - Kansai University (Japan), Prof. Giancarlo Fortino - University of Calabria (Italy), Prof. Alireza Jolfaei - Flinders University (Australia), Prof. Lianyong Qi - Qufu Normal University (China), Prof. Mohammad Hammoudeh - Manchester Metropolitan University (UK)
 </li>
 
 <li>Special Issue on <a href="/2022/assets/files/si/IEEEIoT-SmartBlockchain-TSP.pdf" target=_new><b> Smart Blockchain for IoT Trust, Security and Privacy</b></a> in <i>IEEE IoT Journal</i>
 <br/>
 Guest Editors:
 <br/>
-Prof. Xiaokang Zhou (Managing Guest Editor) - Shiga University (Japan), Prof. Zheng Yan - Xidian University (China) and Aalto University (Finland), Prof. Yan Zhang - University of Oslo (Norway), Stephen Yau - Arizona State University (USA)
+Prof. Xiaokang Zhou (Managing Guest Editor) - Kansai University (Japan), Prof. Zheng Yan - Xidian University (China) and Aalto University (Finland), Prof. Yan Zhang - University of Oslo (Norway), Stephen Yau - Arizona State University (USA)
 </li>
 
 <li>Special Issue on <a href="/2022/assets/files/si/DigitalTwinsforComplexSystems.pdf" target=_new><b> Digital Twins for Complex Systems</b></a> in <i>Big Data and Cognitive Computing</i>
@@ -66,7 +66,7 @@ Dr. Fabrizio Fornari – University of Camerino (Italy), Prof. Pedro Valderas - 
 <br/>
 Guest Editors:
 <br/>
-Prof. Xiaokang Zhou (Managing Guest Editor) - Shiga University (Japan), Prof. Giancarlo Fortino - University of Calabria (Italy), Prof. Carson Leung - University of Manitoba (Canada), Prof. Mohammad Hammoudeh - King Fahd University of Petroleum & Mineral
+Prof. Xiaokang Zhou (Managing Guest Editor) - Kansai University (Japan), Prof. Giancarlo Fortino - University of Calabria (Italy), Prof. Carson Leung - University of Manitoba (Canada), Prof. Mohammad Hammoudeh - King Fahd University of Petroleum & Mineral
 </li>
 
 </ol>

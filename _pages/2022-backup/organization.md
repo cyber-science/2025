@@ -22,7 +22,7 @@ Henry Leung, the University of Calgary, Canada
 
 <h4>Publication Chair </h4> 
 
-Xiaokang Zhou, Shiga University, Japan 
+Xiaokang Zhou, Kansai University, Japan 
 
 
 <h4>Finance Chair</h4> 

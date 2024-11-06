@@ -18,7 +18,7 @@ Bernady O. Apduhan, Kyushu Sangyo University (Japan) <br>
 Kuan-Ching Li, Providence University (Taiwan)
 
 <h4>General Executive Chairs</h4>
-Xiaokang Zhou, Shiga University (Japan)<br>
+Xiaokang Zhou, Kansai University (Japan)<br>
 Moayad Aloqaily, Mohamed Bin Zayed University (UAE) <br>
 Kanghyun Jo, University of Ulsan (Korea)
 
