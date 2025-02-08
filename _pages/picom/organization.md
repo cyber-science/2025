@@ -4,7 +4,7 @@ layout: subpi2
 permalink: /picom/organization/
 ---
 
-<h3>PICom 2024 Organizing Committee</h3>
+<h3>PICom 2025 Organizing Committee</h3>
 <hr/>
 
 <h4>Honorary Chairs</h4>

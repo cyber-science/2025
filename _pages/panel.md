@@ -3,8 +3,8 @@ title: Panel
 layout: sub
 permalink: /panel/
 --- 
-
-<h3>The Panel on Challenges for Generative AI and Hyper Intelligence</h3>
+TBA
+<!-- <h3>The Panel on Challenges for Generative AI and Hyper Intelligence</h3>
 <hr/>
 <br/><b>Panel Time:</b> 15:10-17:00 p.m. PHT (UTC+8), November 5, 2024
 <br/> <br/><b>Panel Chair: </b>
@@ -71,4 +71,4 @@ permalink: /panel/
 <b>Biography</b>: Chuan-Yu Chang(張傳育) (IET Fellow, IEEE Senior Member) received the Ph.D. degree in electrical engineering from National Cheng Kung University, Tainan, Taiwan, in 2000. He is a Distinguished Professor in the Department of Computer Science and Information Engineering at National Yunlin University of Science and Technology (YunTech) and also serves as the Chief Digital Officer of the Service Systems Technology Center at Industrial Technology Research Institute (ITRI). In the past, he has served as the Chair of the Department of Computer Science and Information Engineering and held the positions of the Dean of Research and Development and Director of the Incubation Center for Academia-Industry Collaboration and Intellectual Property at YunTech. He also held the position of Deputy General Director of the Service Systems Technology Center at the Industrial Technology Research Institute (ITRI), Taiwan. Additionally, he served as President of the Chinese Image Processing and Pattern Recognition Society (IPPR). Dr. Chang’s current research interests include neural networks and their application to medical image processing, digital watermarking, automated optical inspection, and pattern recognition. He has authored or coauthored more than 300 publications in journals and conference proceedings in these areas. Dr. Chang has held leadership roles in various conferences and societies, receiving several awards for his contributions to industry-academia cooperation and engineering. For example, he received the National Award for Distinguished Contribution to Industry-Academia Cooperation from Ministry of Education, and the Distinguished Engineering Professor Award from the Chinese Institute of Engineers.
  </p>
 
-<br/>
+<br/> -->

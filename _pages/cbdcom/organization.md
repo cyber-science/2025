@@ -5,7 +5,7 @@ permalink: /cbdcom/organization/
 ---
 
 
-<h3>CBDCom 2024 Organizing Committee</h3>
+<h3>CBDCom 2025 Organizing Committee</h3>
 
 <hr/>
 
@@ -31,10 +31,6 @@ Qiang He, Huazhong University of Science and Technology (China) <br>
 Xianfu Chen, VTT Technical Research Centre of Finland (Finland) <br>
 Huawei Huang, Sun Yat-Sen University (China) <br>
 Jin Nakazato, Tokyo University (Japan)
-<!-- Track 1: Theories and Algorithms (Track Chair: Qiang He, Huazhong University of Science and Technology, China)<br>
-Track 2: Systems and Management (Track Chair: Xianfu Chen, VTT Technical Research Centre of Finland, Finland)<br>
-Track 3: Security, Privacy & Trust (Track Chair: Huawei Huang, Sun Yat-Sen University, China)<br>
-Track 4: Tools and Applications (Track Chair: TBA) -->
 
 <h4>Workshops & Special Sessions Chair</h4>
 Bo Wu, Tokyo University of Technology (Japan)

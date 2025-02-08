@@ -4,10 +4,10 @@ layout: subdasc2
 permalink: /dasc/callworkshops/
 ---
 
-<h3>Call For Workshops and Special Sessions - IEEE DASC 2024</h3>
+<h3>Call For Workshops and Special Sessions - IEEE DASC 2025</h3>
 <hr/>
 
-IEEE DASC 2024 invites Workshops and Special Sessions (SS) to enrich and broaden the research focus of the main conference. 
+IEEE DASC 2025 invites Workshops and Special Sessions (SS) to enrich and broaden the research focus of the main conference. 
 The purpose is to provide opportunities for focused discussions on selected topics that will not be fully explored during the main event, 
 as well as to encourage in-depth discussion of technical and application issues related to Dependable, Autonomic, and Secure Computing. 
 Workshops and Special Sessions are a great addition to the main conference.
@@ -31,12 +31,12 @@ The review and selection of workshop papers should follow similar approaches use
 The fees will be paid to the conference, and the conference will provide workshop facilities including the meeting room, proceedings and conference attendance delegation for the Workshop/SS day. 
 <br/>
 
-The proceedings of the IEEE DASC 2024 workshops will be published by Conference Publishing Services and included in the proceedings of IEEE DASC 2024. 
+The proceedings of the IEEE DASC 2025 workshops will be published by Conference Publishing Services and included in the proceedings of IEEE DASC 2025. 
 <br/>
 
 <b>Submissions</b><br/>
 A single pdf file with all the material described above should be prepared. Please email your proposals in PDF format as early as possible to the Workshop Chairs. 
-Please use 'DASC 2024 Workshop-SS Proposal' as the email subject. Accepted proposals should follow strictly the important dates, particularly paper notification and camera-ready dates listed below.
+Please use 'DASC 2025 Workshop-SS Proposal' as the email subject. Accepted proposals should follow strictly the important dates, particularly paper notification and camera-ready dates listed below.
 <br/>
 
 <b>Workshop/SS Chairs:</b><br/>
@@ -44,36 +44,10 @@ Please use 'DASC 2024 Workshop-SS Proposal' as the email subject. Accepted propo
 - Arafatur Rahman, University of Wolverhampton, UK < Arafatur DOT Rahman AT wlv DOT ac DOT uk >
 
 <b>Important Dates:</b><br/>
-- Workshop/SS Proposal Due: June 30, 2024
-- Workshop/SS Paper Due: <font color=black><del>July 15, 2024</del></font><font color=red> August 15, 2024 (Final Extension)</font>
-- Author Notification: September 1, 2024
-- Paper Registration Due: September 18, 2024
-- Camera-ready Submission: September 27, 2024
+<!-- - Workshop/SS Proposal Due: June 30, 2025
+- Workshop/SS Paper Due: <font color=black><del>July 15, 2025</del></font><font color=red> August 15, 2025 (Final Extension)</font>
+- Author Notification: September 1, 2025
+- Paper Registration Due: September 18, 2025
+- Camera-ready Submission: September 27, 2025 -->
 
 For further details about the workshop, special session as well as the conference, you may reach out to Dr. Zakirul Alam Bhuiyan < zakirulalam AT gmail DOT com >
-
-<!--- COMMENTED
-<hr/>
-<h4>Call For Papers for Special Sessions</h4>
-<ol><li><a href="/2022/assets/files/2021IEEE CyberScience_Cyber-IoT_Workshop.docx" target=_new>Computing and Applications for Cyber Internet of Things (Cyber-IoT)</a>
- </li>
-<li><a href="/2022/assets/files/CyberIC_2021_CFP.docx" target=_new> Special Session on Intelligent Computing in Cyber-Physical Social Systems (CyberIC) </a>
-</li>
-</ol>
- 
- <h4>Call For Workshop Proposals</h4>
-<ol> 
- <li><a href="/2022/assets/files/ACE2021_CFPpost_workshop.pdf" target=_new>The 5th International Workshop on
-Applications of AI, Cyber Security and Economics Big Data (ACE-2021)</a>
- </li>
- <li><a href="/2022/assets/files/CFP_IoT Life2021.pdf" target=_new>The
-2nd IEEE international workshop on the Impact of Internet of Things on Daily Life  (IoT Life)</a>
- </li>
-
- <li><a href="/2022/assets/files/BigCyberSecurity2021-CFPV2.pdf" target=_new>
-The 3rd IEEE International Workshop on Big Data Analytics for Cyber Security and Defence</a>
- </li>
-
-</ol>
-<br/>
--->

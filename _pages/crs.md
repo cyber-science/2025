@@ -4,7 +4,8 @@ layout: sub
 permalink: /crs/
 ---
 
-
+TBA
+<!-- 
 <style>
         .important {
             color: red;
@@ -37,7 +38,7 @@ Camera ready submissions must follow the following template format:
 <p> 
 The final upload deadline is September 27, 2024. <a href="https://ieeecps.org:/cps#!/auth/login?ak=1&pid=1V9EJXiDVJrlVGmCRyafYk" target=_new> <span class="important">Link to final camera-ready paper submission at IEEE CPS:</span> <u>https://ieeecps.org:/cps#!/auth/login?ak=1&pid=1V9EJXiDVJrlVGmCRyafYk</u></a>
 
-<br />
+<br/>
 </p>
 <p>
 During preparation of your final camera-ready manuscript, <b>any change to the list of authors and paper title must be informed with valid reasons by emailing 
@@ -52,4 +53,4 @@ If you have any questions, please e-mail them to  <a href="mailto:cyberscitech20
 <p>
 All advanced registrations must be done by September 20, 2024. The detailed registration instructions can be found on this page: 
   <br /><a href="https://cyber-science.org/2024/registration/"><u>https://cyber-science.org/2024/registration/</u></a> 
- </p>
+ </p> -->

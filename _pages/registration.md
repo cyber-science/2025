@@ -28,8 +28,9 @@ permalink: /registration/
 
 <h4>Registration and Payment Instructions</h4>
 <hr/>
+TBA
+<!-- 
 <ul>
-
 <li> At least one author of an accepted paper must register and present the paper. On-site and online presenters pay the same registration fee. </li>
 <li> <b>The author must register and pay the registration and all other applicable fees before September 20, 2024 (JST). <br>If the conference does not receive your full payment within the specified period, your paper and registration will be cancelled.</b> </li>
 <li> Active IEEE Membership status will be verified. Non-active members cannot qualify for IEEE membership discount. </li>
@@ -41,11 +42,8 @@ permalink: /registration/
 <li> Questions and queries regarding registration, email to <a href="mailto:cyberscitech2024@gmail.com"><u><cyberscitech2024@gmail.com></u></a>. 
 </li>
 <li><a href="https://niccs.nishitetsutravel.jp/niccs/en/app/BN1330" target=_new> <span class="important">Link to Registration Page</span> <u>https://niccs.nishitetsutravel.jp/niccs/en/app/BN1330</u></a></li>
-
-
 <br>
 <br>
-
  <p><span class="important">IMPORTANT: Author Registration: Sept. 4 - 20, 2024</span> (At least one author of an accepted paper must register. The registration fee is the same as in Advance Registration.) <br>
     <table>
         <tr>
@@ -72,7 +70,6 @@ permalink: /registration/
             <td>JPY 61,600</td>
         </tr>
     </table>
-
 <table>
         <tr>
             <th colspan="2">Co-author/No-paper Late Registration (Sept. 30 - October 10, 2024 JST)</th>
@@ -98,7 +95,6 @@ permalink: /registration/
             <td>JPY 70,400</td>
         </tr>
     </table>
-
 <table>
         <tr>
             <th colspan="2">On-site Registration (Nov. 5 - 8, 2024 JST)</th>
@@ -124,7 +120,6 @@ permalink: /registration/
             <td>JPY 70,400</td>
         </tr>
     </table>
-
 <p class="important">Notes:</p>
 <p class="important">For Late Registration, the system will be activated on the specified date/period.</p>
-<p class="important">For On-site Registration, please prepare the exact amount in cash.</p>
+<p class="important">For On-site Registration, please prepare the exact amount in cash.</p> -->

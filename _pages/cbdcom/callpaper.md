@@ -4,11 +4,11 @@ layout: subcbd2
 permalink: /cbdcom/callpaper/
 ---
 
-<h3>Call For Papers - IEEE CBDCom 2024 Tracks and Topics</h3>
+<h3>Call For Papers - IEEE CBDCom 2025 Tracks and Topics</h3>
 
 <hr/>
 
-<h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2024/assets/files/CBDCom2024_CFP.pdf" target=_new>here</a></b> ** </h5> 
+<h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2025/assets/files/CBDCom2025_CFP.pdf" target=_new>here</a></b> ** </h5> 
 
 
 <hr/>
@@ -67,10 +67,10 @@ The track covers all the topics for regular papers but it is aimed at
 <br/>papers that have an original but not fully validated proposal (WiP)
 
 <h4>Workshop/Special Session Tracks</h4>
-CBDCom workshops and special sessions are listed <a href="/2024/cbdcom/acceptworkshops/"><b>here</b></a>
+CBDCom workshops and special sessions are listed <a href="/2025/cbdcom/acceptworkshops/"><b>here</b></a>
 
 
-<hr/>
+<!-- <hr/>
 <h4 style="font-weight: bold">For Late Breaking Innovation Papers<h4>
 <hr/>
 <h4>LBI (Late Breaking Innovation) Track</h4>
@@ -78,4 +78,4 @@ The LBI track accommodates cutting-edge research across all<br/>
 CBDCom topics that has emerged after the regular paper deadline.<br/>
 This track is designed for timely, significant advancements that warrant<br/>
 rapid dissemination in the present conference proceedings.
-<hr/>
+<hr/> -->

@@ -1,10 +1,10 @@
 ---
-title: CyberSciTech 2024 Technical Program Committee
+title: CyberSciTech 2025 Technical Program Committee
 layout: subcst2
 permalink: /cyberscitech/tpc/
 ---
 
-<h3>CyberSciTech 2024 Technical Program Committee</h3>
+<h3>CyberSciTech 2025 Technical Program Committee</h3>
 <hr/>
 Yalong Li, The University of Electro-Communications, Japan<br>
 An Xing, The University of Electro-Communication, Japan<br>

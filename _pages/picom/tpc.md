@@ -1,11 +1,11 @@
 ---
-title: PICom 2024 Technical Program Committee
+title: PICom 2025 Technical Program Committee
 layout: subpi2
 permalink: /picom/tpc/
 ---
 
 
-<h3>PICom 2024 Technical Program Committee</h3>
+<h3>PICom 2025 Technical Program Committee</h3>
 <hr/>
 Andre Almeida, IFRN & UFRN, Brazil<br>
 Marcelo P. Alves, Federal University of Rio de Janeiro, Brazil<br>

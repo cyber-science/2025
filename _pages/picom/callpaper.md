@@ -4,10 +4,10 @@ layout: subpi2
 permalink: /picom/callpaper/
 ---
 
-<h3>Call For Papers - IEEE PICom 2024 Tracks and Topics</h3>
+<h3>Call For Papers - IEEE PICom 2025 Tracks and Topics</h3>
 <hr/>
 
-<h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2024/assets/files/PICom2024_CFP.pdf" target=_new>here</a></b> ** </h5> 
+<h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2025/assets/files/PICom2025_CFP.pdf" target=_new>here</a></b> ** </h5> 
 
 <hr/>
 <h4 style="font-weight: bold">For Regular Papers<h4>
@@ -78,9 +78,9 @@ The track covers all the topics for regular papers but it is aimed at
 <br/>papers that have an original but not fully validated proposal (WiP)
 
 <h4>Workshop/Special Session Tracks</h4>
-PICom workshops and special sessions are listed <a href="/2024/picom/acceptworkshops/"><b>here</b></a>
+PICom workshops and special sessions are listed <a href="/2025/picom/acceptworkshops/"><b>here</b></a>
 
-
+<!-- 
 <hr/>
 <h4 style="font-weight: bold">For Late Breaking Innovation Papers<h4>
 <hr/>
@@ -89,4 +89,4 @@ The LBI track accommodates cutting-edge research across all<br/>
 PICom topics that has emerged after the regular paper deadline.<br/>
 This track is designed for timely, significant advancements that warrant<br/>
 rapid dissemination in the present conference proceedings.
-<hr/>
+<hr/> -->
