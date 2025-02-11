@@ -51,4 +51,10 @@ Please use 'CBDCom 2025 Workshop-SS Proposal' as the email subject. Accepted pro
 - Paper Registration Due: September 18, 2024
 - Camera-ready Submission: September 27, 2024 -->
 
+- Workshop/SS Proposal Due: June 6, 2025
+- WiP/Workshop/SS Paper Due: June 20, 2025
+- Author Notification: August 11, 2025
+- Paper Registration Due: September 5, 2025
+- Camera-ready Submission: September 12, 2025
+
 

@@ -50,4 +50,10 @@ Please use 'DASC 2025 Workshop-SS Proposal' as the email subject. Accepted propo
 - Paper Registration Due: September 18, 2025
 - Camera-ready Submission: September 27, 2025 -->
 
+- Workshop/SS Proposal Due: June 6, 2025
+- WiP/Workshop/SS Paper Due: June 20, 2025
+- Author Notification: August 11, 2025
+- Paper Registration Due: September 5, 2025
+- Camera-ready Submission: September 12, 2025
+
 For further details about the workshop, special session as well as the conference, you may reach out to Dr. Zakirul Alam Bhuiyan < zakirulalam AT gmail DOT com >
