@@ -39,12 +39,6 @@ A single pdf file with all the material described above should be prepared. Plea
 - Ouns Bouachir, Zayed University, UAE < ouns DOT bouachir AT zu DOT ac DOT ae >
 
 <b>Important Dates:</b><br/>
-<!-- - Workshop/SS Proposal Due: June 30, 2025
-- Workshop/SS Paper Due: <font color=black><del>July 15, 2025</del></font><font color=red> August 10, 2025 (Final Extension)</font>
-- Author Notification: September 1, 2025
-- Paper Registration Due: September 18, 2025
-- Camera-ready Submission: September 27, 2025 -->
-
 - Workshop/SS Proposal Due: June 6, 2025
 - WiP/Workshop/SS Paper Due: June 20, 2025
 - Author Notification: August 11, 2025
