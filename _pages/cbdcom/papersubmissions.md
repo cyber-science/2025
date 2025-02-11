@@ -14,9 +14,8 @@ permalink: /cbdcom/papersubmissions/
  <!-- Submission to Late Breaking Innovation Tracks: <b>4-8</b> pages<br> -->
 </p>
 
-<p>Authors are invited to submit their original research work that has not previously been submitted or published in any other venue. Regular, work-in-progress (WiP), and workshop/special session papers 
- need to be submitted via EDAS  (<a href="https://edas.info/N32603" target =_new>https://edas.info/N32603</a>).
- 
+<p>Authors are invited to submit their original research work that has not previously been submitted or published in any other venue. Regular, work-in-progress (WiP), and workshop/special session papers need to be submitted via EDAS.
+<!-- (<a href="https://edas.info/N32603" target =_new>https://edas.info/N32603</a>). -->
 </p><p>
 <ul>
 <li><b>Regular papers</b> should present substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and/or analysis should be included.</li>
