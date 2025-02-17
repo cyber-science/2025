@@ -4,61 +4,89 @@ layout: subpi2
 permalink: /picom/callpaper/
 ---
 
-<h3>Call For Papers - IEEE PICom 2022 Tracks and Topics</h3>
+<h3>Call For Papers - IEEE PICom 2025 Tracks and Topics</h3>
 <hr/>
 
-<h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2022/assets/files/CFP_PICom2022.pdf" target=_new>here</a></b> ** </h5> 
+<h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2025/assets/files/PICom2025_CFP.pdf" target=_new>here</a></b> ** </h5> 
 
 <hr/>
+<h4 style="font-weight: bold">For Regular Papers<h4>
+<hr/>
 
-<p><b>Track 1: Computational Intelligence</b></p>
-<p><b>Track 2: Intelligent Networks, Middleware and Applications</b></p>
-<p><b>Track 3: Pervasive Computing and Activity/Affect Recognition</b></p>
-<p><b>Track 4: Smart Object, Environment, System and City</b></p>
+<h4>Track 1: Next Gen Pervasive AI</h4>
+GenAI for wireless sensing
+<br/>Machine-to-machine GenAI
+<br/>Generative IoT
+<br/>GenAI for semantic communications
+<br/>Multi-agent network powered by GenAI
+<br/>Big Data and Smart Data
+<br/>Brain-inspired Computing
+<br/>Mobile Data Mining
+<br/>Ubiquitous Data Mining
 
-<br/>
-<b>Topics</b> of interests include, but are not restricted to:<br/>
-- Deep Learning and Deep Computation<br/>
-- Big Data and Smart Data<br/>
-- Brain-inspired Computing<br/>
-- Crowdsourcing and Social Computing<br/>
-- Collective Intelligence<br/>
-- Agent-based Computing<br/>
-- Ubiquitous Intelligence<br/>
-- Cyber-Physical Computing<br/>
-- The Internet of Things<br/>
-- Cloud of Things and Cloud of Sensors<br/>
-- Embedded HW, SW and Systems<br/>
-- Pervasive Devices and RFIDs<br/>
-- Wearable Devices and Applications<br/>
-- Sensor Technology and Networks<br/>
-- Pervasive Networks/Communications<br/>
-- Edge and Fog Computing<br/>
-- Mobile Edge Computing (MEC)<br/>
-- Device Virtualization<br/>
-- Privacy, Security and Trust<br/>
-- Context-Aware Computing<br/>
-- Mobile Data Mining<br/>
-- Ubiquitous Data Mining<br/>
-- Activity Recognition<br/>
-- Intelligent Cloud Computing<br/>
-- Services for Pervasive Computing<br/>
-- Smart Cities and Smart Homes<br/>
-- Intelligent Social Networking<br/>
-- Pervasive Technologies for ITS<br/>
-- HCI for Pervasive Computing<br/>
-- Mobile Data Modeling<br/>
-- Middleware for Pervasive Computing<br/>
-- Intelligent/Smart IoT<br/>
-- Programming Abstractions for IoT<br/>
-- Semantic Analysis
+<h4>Track 2: Intelligent Networks, Middleware and Applications</h4>
+Pervasive Networks/Communications
+<br/>5G networks and Technologies
+<br/>AI/ML for smart wireless networks
+<br/>AI and machine learning-based applications for ad hoc networks
+<br/>Cooperative and cognitive communication
+<br/>Middleware for the IoT
+<br/>Adaptive Middleware for Pervasive Systems
+<br/>Context-aware applications
+<br/>Intelligent/Smart IoT
+<br/>Programming Abstractions for IoT
+
+<h4>Track 3: Pervasive Computing and Activity/Affect Recognition</h4>
+Crowdsourcing and Social Computing
+<br/>Collective Intelligence
+<br/>Agent-based Computing
+<br/>Pervasive Devices and RFIDs
+<br/>Wearable Devices and Applications
+<br/>Activity Recognition
+<br/>Intelligent Social Networking
+<br/>Pervasive Technologies for ITS
+<br/>HCI for Pervasive Computing
+
+<h4>Track 4: Next Gen Smart Environments</h4>
+Smart grid, healthcare, transportation applications
+<br/>Wearable and human-centric devices and networks
+<br/>Device Virtualization
+<br/>Intelligent Cloud Computing
+<br/>Services for Pervasive Computing
+<br/>Smart Cities and Smart Homes
+<br/>Privacy, Security and Trust in Smart Environments
+<br/>Autonomous Pervasive Systems
+<br/>Autonomous IoT
+<br/>Digital Twins
+
+<h4>Track 5: Edge Intelligence Applications</h4>
+ML for resource allocation at the Edge
+<br/>NFV-Edge
+<br/>5G-Edge
+<br/>Edge-assisted IoT
+<br/>Integration of Edge Computing and Blockchain
+<br/>Edge-Cloud Continuum
+<br/>Edge AI
 
 
+<hr/>
+<h4 style="font-weight: bold">For WiP/Workshop/Special Session Papers<h4>
+<hr/>
 
+<h4>WiP (Work-in-Porgress) Track</h4>
+The track covers all the topics for regular papers but it is aimed at  
+<br/>papers that have an original but not fully validated proposal (WiP)
 
+<h4>Workshop/Special Session Tracks</h4>
+PICom workshops and special sessions are listed <a href="/2025/picom/acceptworkshops/"><b>here</b></a>
 
-
-
-
-
-
+<!-- 
+<hr/>
+<h4 style="font-weight: bold">For Late Breaking Innovation Papers<h4>
+<hr/>
+<h4>LBI (Late Breaking Innovation) Track</h4>
+The LBI track accommodates cutting-edge research across all<br/>
+PICom topics that has emerged after the regular paper deadline.<br/>
+This track is designed for timely, significant advancements that warrant<br/>
+rapid dissemination in the present conference proceedings.
+<hr/> -->

@@ -1,45 +1,77 @@
 ---
-title: Technical Program Committee
+title: PICom 2025 Technical Program Committee
 layout: subpi2
 permalink: /picom/tpc/
 ---
 
 
-<h3>PICom 2022 Technical Program Committee</h3>
+<h3>PICom 2025 Technical Program Committee</h3>
 <hr/>
-
-Marcelo Alves, Federal University of Rio de Janeiro<br/>
-Md Amiruzzaman, West Chester University<br/>
-Ali Balador, RISE SICS VASTERAS<br/>
-Ranbir Singh Batth, Lovely Professional University<br/>
-Alessio Bechini, University of Pisa<br/>
-Paolo Bellavista, University of Bologna<br/>
-Francesco Cauteruccio, Polytechnic University of Marche<br/>
-Carmela Comito, ICAR-CNR<br/>
-Gregoire Danoy, University of Luxembourg<br/>
-M Ali Akber Dewan, Athabasca University<br/>
-Christos Diou, Harokopio University of Athens<br/>
-Paulo Ferreira, University of Oslo / INESC ID<br/>
-Paul Grace, University of Southampton<br/>
-Fei Hao, Shaanxi Normal University<br/>
-Enrique Hernandez-Orallo, Universitat Politècnica de Valencia<br/>
-Miaoqing Huang, University of Arkansas<br/>
-Mauro Iacono, Università degli Studi della Campania "Luigi Vanvitelli"<br/>
-Sun Jingtao, National Institute of Informatics<br/>
-Christina Kasapi, Cyprus University of Technology<br/>
-Ahmed Khaled, Northeastern Illinois University<br/>
-Kenichi Kourai, Kyushu Institute of Technology<br/>
-Yiu-Wing Leung, Hong Kong Baptist University<br/>
-Jiang Lu, University of Houston Clear Lake<br/>
-Diogo Mattos, Universidade Federal Fluminense<br/>
-Silvia Mirri, University of Bologna<br/>
-Klimis Ntalianis, University of West Attica<br/>
-Al-Sakib Khan Pathan, Independent University, Bangladesh<br/>
-Dana Petcu, West University of Timisoara<br/>
-Catia Prandi, University of Bologna / ITI/LARSyS<br/>
-Atslands Rocha, Federal University of Ceara<br/>
-Luigi Scarcello, ICAR-CNR<br/>
-Giandomenico Spezzano, ICAR-CNR<br/>
-Tullio Vardanega, University of Padua<br/>
-Shige Wang, GM R&D<br/>
-Martine Wedlake, IBM, USA
+Andre Almeida, IFRN & UFRN, Brazil<br>
+Marcelo P. Alves, Federal University of Rio de Janeiro, Brazil<br>
+Md Amiruzzaman, West Chester University, USA<br>
+Marco Anisetti, Università degli Studi di Milano, Italy<br>
+Alessio Bechini, University of Pisa, Italy<br>
+Paolo Bellavista, University of Bologna, Italy<br>
+Juan-Carlos Cano, Universidad Politecnica de Valencia, Spain<br>
+Francesco Cauteruccio, University of Salerno, Italy<br>
+Sotirios Chatzis, Cyprus University of Technology, Cyprus<br>
+Weisi Chen, Xiamen University of Technology, China<br>
+Zhikui Chen, Dalian University of Technology, China<br>
+Franco Cicirelli, CNR - National Research Council, Italy<br>
+Grégoire Danoy, University of Luxembourg, Luxembourg<br>
+Mario Di Mauro, University of Salerno, Italy<br>
+Omar Dib, Wenzhou-Kean University, France<br>
+Constantinos Djouvas, Cyprus University of Technology, Cyprus<br>
+Paulo Ferreira, University of Oslo, Norway<br>
+Vasilis Friderikos, King's College London, United Kingdom (Great Britain)<br>
+Xiuwen Fu, Wuhan University of Technology, China<br>
+Marco Furini, University of Modena and Reggio Emilia, Italy<br>
+Paul Grace, Aston University, United Kingdom (Great Britain)<br>
+Antonio Guerrieri, ICAR-CNR, Italy<br>
+Ping Guo, University of Illinois at Springfield, USA<br>
+Fei Hao, Shaanxi Normal University, China<br>
+Enrique Hernández-Orallo, Universitat Politècnica de València, Spain<br>
+Miaoqing Huang, University of Arkansas, USA<br>
+Mauro Iacono, Università degli Studi della Campania Luigi Vanvitelli, Italy<br>
+Md Babul Islam, University of Calabria, Italy & University College Dublin, Ireland<br>
+Ahmed Khaled, Northeastern Illinois University, USA<br>
+Irfanullah Khan, University of Calabria, Italy<br>
+Ntalianis Klimis, University of West Attica, Greece<br>
+Yiu-Wing Leung, Hong Kong Baptist University, Hong Kong<br>
+Priscila Lima, Federal University of Rio de Janeiro, Brazil<br>
+Jiang Lu, University of Houston Clear Lake, USA<br>
+Evandro Luiz Cardoso Macedo, Federal University of Rio de Janeiro (UFRJ), Brazil<br>
+Fabrizio Marozzo, Dimes, Unical, Italy<br>
+Diogo M. F. Mattos, Universidade Federal Fluminense & MídiaCom, Brazil<br>
+Ilir Murturi, Vienna University of Technology, Austria<br>
+Klimis Ntalianis, University of West Attica, Greece<br>
+Atsumoto Ohashi, Nagoya University, Japan<br>
+Souvik Pal, Global Institute of Management and Technology, India<br>
+Fernanda G. O. Passos, Instituto Superior de Engenharia de Lisboa & COPELABS - Universidade Lusófona, Portugal<br>
+Al-Sakib Khan Pathan, United International University, Bangladesh<br>
+Nikolaos Pavlidis, Democritus University of Thrace, Greece<br>
+Dana Petcu, West University of Timisoara & Institute E-Austria Timisoara, Romania<br>
+Paulo F. Pires, Fluminense Federal University, Brazil<br>
+Catia Prandi, University of Bologna - ITI/LARSyS, Italy<br>
+Danda B. Rawat, Howard University, USA<br>
+Barbara Re, University of Camerino, Italy<br>
+Aluizio F. Rocha, Neto, Federal University of Rio Grande do Norte, Brazil<br>
+Atslands R. Rocha, Federal University of Ceará, Brazil<br>
+Federico Fausto Santoro, University of Catania, Italy<br>
+Giuseppe Sarnè, Università Milano Bicocca, Italy<br>
+Thiago Pereira Silva, Federal University of Mato Grosso, Brazil<br>
+Michael Sirivianos, Cyprus University of Technology, Cyprus<br>
+Guanqun Sun, Hangzhou Medical College, China<br>
+Javid Taheri, Karlstad University, Sweden<br>
+Zenonas Theodosiou, Research Centre on Interactive Media, Smart Systems and Emerging Technologies & RISE, Cyprus<br>
+Pedro Valderas, Technical University of Valencia, Spain<br>
+Tullio Vardanega, University of Padua, Italy<br>
+Martine Wedlake, Amazon, USA<br>
+Celimuge Wu, The University of Electro-Communications, Japan<br>
+Muhammad Azfar Yaqoob, Free University of Bolzano Bolzano Italy, Italy<br>
+Haibo Zhang, Universtiy of Otago, New Zealand<br>
+Weitao Zou, Northeast Forestry University & University of Sydney, China<br>
+Wei Song, Shangai Ocean University, Italy<br>
+Roberto Morabito, EURECOM, France<br>
+Carlo Mastroianni, ICAR-CNR, Italy<br>

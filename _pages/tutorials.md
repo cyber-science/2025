@@ -1,10 +1,9 @@
 ---
-title: Call for Tutorials
+title: Tutorial
 layout: sub
-permalink: /tutorials/
+permalink: /tutorial/
 ---
 
-<h2>Call for Tutorials</h2>
+<h3>Tutorial</h3>
 <hr/>
-
-
+TBA

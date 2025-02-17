@@ -4,34 +4,49 @@ layout: subdasc2
 permalink: /dasc/organization/
 ---
 
-<h3>DASC 2022 Organizing Committee</h3>
+<h3>DASC 2025 Organizing Committee</h3>
 <hr/>
 
-<h4>Honorary Chair</h4>
-Xiang Yang, Swinburne University of Technology (Australia)<br/>
+<h4>Honorary Chairs</h4>
+Tadashi Dohi, Hiroshima University (Japan)<br>
+Frank Hsu, Fordham University (USA)<br>
+Mohammed Atiquzzaman, Univ. of Oklahoma (USA)
 
-<h4>General Chair</h4>
-Raymond Choo, The University of Texas at San Antonio (USA)
+<h4>General Chairs</h4>
+Zakirul Alam Bhuiyan, Fordham University (USA) <br>
+Kenichi Kourai, Kyushu Institute of Technology (Japan)
 
-<h4>General co-Chair</h4>
-Bo Yang, University of Electronic Science and Technology of China (China)
+<h4>General Executive Chairs</h4>
+Moayad Aloqaily, Mohamed Bin Zayed University (UAE) <br>
+Bernady O. Apduhan, Kyushu Sangyo University (Japan)
 
-<h4>Program Chair</h4>
-Claudio Savaglio, ICAR-CNR (Italy)
+<h4>Program Chairs</h4>
+Wenjia Li, New York Institute of Technology (USA)<br>
+Aniello Castiglione, University of Salerno (Italy)
 
 <h4>Program Co-chairs</h4>
-Anna Kobusinska, Poznan University of Technology (Poland)<br/>
-Adnan Anwar, Deakin University (Australia)<br/>
-Mohammad Mehedi Hassan, King Saud University (KSA)<br/>
-Franco Zambonelli, Universita' degli Studi di Modena e Reggio Emilia (Italy)
+Mohamed Rahouti, Fordham University (USA)<br>
+Wei Wang, Beijing Jiaotong University (China)<br>
+Adnan Anwar, Deakin University (Australia)<br>
+Shan Jiang, The Hong Kong Polytechnic University (Hong Kong)<br>
+Changqing Luo, Virginia Commonwealth Univ. (USA)<br>
+Lei Chen, Georgia Southern University (USA)
 
 <h4>Workshop & Special Session Chairs</h4>
-Andrea Tundis, Technische Universitat Darmstadt (Germany)<br/>
-Junggab Son, Kennesaw State University (GA, USA)
+Preeti Mishra, Doon University (India)<br>
+Arafatur Rahman, University of Wolverhampton (UK)
+
+<h4>WiP & LBI Chairs</h4>
+Saqib Ali, Univ. of Agri. Faisalabad (Pakistan)<br>
+Mrinal Kanti Bhowmik, Tripura University (India)
 
 <h4>Publicity Chairs</h4>
-Changqing Luo, Virginia Commonwealth University (USA)<br/>
-Keke Gai, Beijing Institute of Technology (China)
+Mubashir Rehmani, Cork Inst. of Tech. (Ireland)<br>
+Junjun Zheng, Hiroshima University (Japan)<br>
+Qin Liu, Hunan University (China)<br>
+Senthil Kumar, Mepco Schlenk Engineering College (India)<br>
+Dhomas Hatta Fudholi, Universitas Islam Indonesia (Indonesia)<br>
+Yuhong Liu, Santa Clara University (USA)
 
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br/>
@@ -41,13 +56,14 @@ Tadashi Dohi, Hiroshima University (Japan)<br/>
 Md Zakirul Alam Bhuiyan, Fordham University (USA)
 
 <h4>Advisory Committee</h4>
-Mohammed Atiquzzaman, Univ. of Oklahoma, USA<br/>
-Davide Bacciu, University of Pisa, Italy<br/>
-Yi Chang, Jilin University, China<br/>
-Nobuyasu Kanekawa, Hitachi, Ltd., Japan<br/>
-Sy-Yen Kuo, National Taiwan University, Taiwan<br/>
-Irwin King, The Chinese University of Hong Kong,China<br/>
-Jiming Liu, Hong Kong Baptist University, China<br/>
-Tatsuhiro Tsuchiya, Osaka University, Japan<br/>
-Wei Wang, University of New South Wales, Australia<br/>
-Ji-Rong Wen, Renmin University of China, China	
+Mohammed Atiquzzaman, Univ. of Oklahoma (USA)<br/>
+Davide Bacciu, University of Pisa (Italy)<br/>
+Nobuyasu Kanekawa, Hitachi, Ltd. (Japan)<br/>
+Irwin King, The Chinese University of Hong Kong (Hong Kong)<br/>
+Sy-Yen Kuo, National Taiwan University (Taiwan)<br/>
+Jiming Liu, Hong Kong Baptist University (Hong Kong)<br/>
+Tatsuhiro Tsuchiya, Osaka University (Japan)<br/>
+Wei Wang, University of New South Wales (Australia)<br/>
+Jianwen Xiang, Wuhan University of Technology (China)<br/>
+Zonghua Zhang, CRSC R&D Institute Group Co., Ltd. (China)<br/>
+Zheng Zheng, Beihang University (China)

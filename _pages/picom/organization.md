@@ -4,44 +4,59 @@ layout: subpi2
 permalink: /picom/organization/
 ---
 
-<h3>PICom 2022 Organizing Committee</h3>
+<h3>PICom 2025 Organizing Committee</h3>
 <hr/>
 
 <h4>Honorary Chairs</h4>
-Albert Zomaya, The University of Sydney (Australia)
+Hui-huang Hsu, Tamkang University (Taiwan)<br>
+Albert Zomaya, The University of Sydney (Australia)<br>
+Jinhua She, Tokyo University of Technology (Japan)
 
-<h4>General Chair</h4>
-Flavia C. Delicato, Fluminense Federal University (Brazil)
-
-<h4>General co-Chair</h4>
-Pietro Manzoni, UPV (Spain)
-
-<h4>Program Chair</h4>
+<h4>General Chairs</h4>
+Flavia Delicato, Fluminense Federal University (Brazil)<br>
 Antonio Guerrieri, ICAR-CNR (Italy)
 
-<h4>Program Co-chairs</h4>
-Paulo Pires, Fluminense Federal University (Brazil)<br/>
-Giuseppe M. L. Sarnè, University of Milan-Bicocca (Italy)<br/>
-Marco Levorato, University of California, Irvine (USA)<br/>
-Deepak Puthal, Newcastle University (UK)
+<h4>General Executive Chairs</h4>
+Bernady O. Apduhan, Kyushu Sangyo University (Japan) <br>
+Moayad Aloqaily, Mohamed Bin Zayed University (UAE) <br>
 
-<h4>Tracks Co-Chairs</h4>
-Track 1: Computational Intelligence (Track Chair: Wei Li, The University of Sydney, Australia)<br/>
-Track 2: Intelligent Networks, Middleware and Applications (Track Chair: Xiuwen Fu, Shanghai Maritime University, China)<br/>
-Track 3: Pervasive Computing and Activity/Affect Recognition (Track Chair: Franco Cicirelli, ICAR-CNR, Italy)<br/>
-Track 4: Smart Object, Environment, System and City (Track Chair: Andrea Vinci, ICAR-CNR, Italy)
+<h4>Program Chairs</h4>
+Claudio Miceli, Federal University of Rio de Janeiro (Brazil)<br>
+Wei Li, The University of Sydney (Australia)
+
+<h4>Track Chairs</h4>
+Costas Djouvas, Cyprus University of Technology (Cyprus)<br>
+Marco Miozzo, CTTC (Spain)<br>
+Raffaele Gravina, University of Calabria (Italy)<br>
+Andrea Vinci, ICAR-CNR (Italy)<br>
+Ali Dewan, Athabasca University (Canada)<br>
+Ao Guo, Nagoya University (Japan)
 
 <h4>Workshop & Special Session Chairs</h4>
-Claudio Miceli de Farias, Federal University of Rio de Janeiro (Brazil)<br/>
-Vasilis Friderikos, King's College London (UK)
+Xiuwen Fu, Shanghai Maritime University (China)<br>
+Ouns Bouachir, Zayed University (UAE)
 
 <h4>Publicity Chairs</h4>
-Celimuge Wu, The University of Electro-Communications (Japan)<br/>
-Tu Nguyen, Kennesaw State University (USA)<br/>
-Diego Méndez Chaves, Pontificia Universidad Javeriana (Colombia)
+Gwanggil Jeon, Incheon National University (Korea)<br>
+Antonino Galletta, University of Messina (Italy)<br>
+Wenfeng Li, Wuhan University of Technology (China)<br>
+Celimuge Wu, The University of Electro-Communications (Japan)<br>
+Rebeca Motta, Fluminense Federal University (Brazil)<br>
+Endang Djuana, Universitas Trisakti (Indonesia)<br>
+Kittichai Lavangnananda, King Mongkut’s University of Technology Thonburi (Thailand)
+
+<h4>Advisory Committee</h4>
+Victor Chang, Aston University (United Kingdom)<br>
+Giancarlo Fortino, University of Calabria (Italy)<br>
+Samee U. Khan, Mississippi State University (USA)<br>
+Moayad Aloqaily, MBZUAI (UAE)<br>
+Chuan-Yu Chang, National Yunlin University of Science and Technology (Taiwan)<br>
+Nicolas Tsapatsoulis, Cyprus University of Technology (Cyprus)<br>
+Paulo de Figueiredo Pires, Dell (Brazil)<br>
+D. Frank Hsu, Fordham University (USA)
 
 <h4>Steering Committee</h4>
-Jianhua Ma, Hosei University (Japan)<br/>
-Laurence T. Yang, St. Francis Xavier Univ. (Canada)<br/>
-Adnan Al-Anbuky, Auckland U Tech. (New Zealand)<br/>
+Jianhua Ma, Hosei University (Japan)<br>
+Laurence T. Yang, St. Francis Xavier Univ. (Canada)<br>
+Adnan Al-Anbuky, Auckland U Tech. (New Zealand)<br>
 Flavia C. Delicato, Fluminense Federal University (Brazil)

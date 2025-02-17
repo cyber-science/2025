@@ -66,6 +66,7 @@ Paulo Pires, Federal University of Rio de Janeiro (Brazil)<br>
 Yinglong Xia, Huawei Research America (USA)<br>
 Weishan Zhang, China University of Petroleum (China)<br>
 Felix Freitag, Universitat Politècnica de Catalunya (Spain)<br>
-Tsozen Yeh, Fu Jen Catholic University (Taiwan)<br>
-Noriaki Kamiyama, Ritsumeikan University (Japan)<br>
-Masaki Aida, Tokyo Metropolitan University (Japan)<br>
+Tsozen Yeh, Fu Jen Catholic University (Taiwan)
+Noriaki Kamiyama, Ritsumeikan University (Japan)
+Masaki Aida, Tokyo Metropolitan University (Japan)
+

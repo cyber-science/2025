@@ -4,56 +4,78 @@ layout: subcbd2
 permalink: /cbdcom/callpaper/
 ---
 
-<h3>Call For Papers - IEEE CBDCom 2022 Tracks and Topics</h3>
+<h3>Call For Papers - IEEE CBDCom 2025 Tracks and Topics</h3>
 
 <hr/>
 
-<h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2022/assets/files/CFP_CBDCom2022.pdf" target=_new>here</a></b> ** </h5> 
+<h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2025/assets/files/CBDCom2025_CFP.pdf" target=_new>here</a></b> ** </h5> 
+
 
 <hr/>
+<h4 style="font-weight: bold">For Regular Papers<h4>
+<hr/>
 
-<p><b>Track 1: Data Science & Analytics  </b></p>
+
+<h4>Track 1: Theories and Algorithms</h4>
 Big Data Fundamentals and Novel Paradigms
- <br/>Big Data Algorithms, Applications & Services
- <br/>Big Data Mining and Analytics
- <br/>Big data Processing and Querying
- <br/>Big Data Visualization
- <br/>Big Data Computing & Recommendations
+<br/>Big Data Algorithms, Applications & Services
+<br/>Big Data Mining and Analytics
+<br/>Big data Processing and Querying
+<br/>Big Data Computing & Recommendations
+<br/>Learning techniques for Cloud and Big Data
+<br/>Cloud-Native Theories and Algorithms
  
-<p><b>Track 2: Big Data Infrastructure & Management  </b></p>
+<h4>Track 2: Systems and Management</h4>
 Big Data Cloud, Grid, Stream Computing
- <br/>High Performance Platforms for Big Data
- <br/>NoSQL Data Stores and DB scalability
- <br/>Energy-Efficient Computing for Big Data
- <br/>Recommendation & Social Media Systems
- <br/>Big Data Availability and Reliability
- 
-<p><b>Track 3: Big Data Tools and Applications </b></p>
-Complex Big Data Processing
- <br/>BD in Networks and Communications
- <br/>Big Data as a Service
- <br/>Data Warehousing over Big Data
- <br/>BD Machine and Deep Learning
-<br/> Innovative Applications and Experiences
+<br/>High Performance Platforms for Big Data
+<br/>NoSQL Data Stores and DB scalability
+<br/>Energy-Efficient Computing for Big Data
+<br/>Recommendation & Social Media Systems
+<br/>Big Data Availability and Reliability
+<br/>Complex Big Data Processing
+<br/>Virtualization Technologies
+<br/>Public, Private, and Hybrid Clouds
+<br/>Green & Energy Management
+<br/>Cloudlet and Serverless Computing
+<br/>Resource Management, Storage & QoS
 
-<p><b>Track 4: Cloud Management & Virtualization </b></p>
-Virtualization Technologies
- <br/>Cloud Computing Platforms
- <br/>Public, Private, and Hybrid Clouds
- <br/>Green & Energy Management
- <br/>Cloudlet and Serverless Computing
- <br/>Resource Management, Storage & QoS
- 
-<p><b>Track 5: Cloud/Big Data Security, Privacy & Trust </b></p>
-Security, Privacy & Reliability in Cloud & BD
- <br/>Dependable/Trustworthy Big Data Processing
- <br/>Security/Privacy/Trust as a Service
- <br/>Blockchain in Cloud and Big Data Application
- 
-<p><b>Track 6: Cloud/Big Data for IoT & Smart City </b></p>
-Smart Data & Smart Environments
- <br/>CBD for IoT & Cyber-Physical Systems
- <br/>RFID & Related Technologies for IoT
- <br/>M2M Communications and IoT
-<br/> IoT and Smart City Infrastructures
- <br/>Green Computing for Big Data & Smart City
+<h4>Track 3: Security, Privacy & Trust</h4>
+Security, Privacy & Reliability in Cloud & Big Data
+<br/>Dependable/Trustworthy Big Data Processing
+<br/>Security/Privacy/Trust as a Service
+<br/>Hardware Security of Cloud & Big Data
+<br/>Blockchain for Cloud and Big Data 
+<br/>Federated Learning
+
+<h4>Track 4: Tools and Applications</h4>
+Data Warehousing over Big Data
+<br/>Innovative Applications and Experiences
+<br/>Smart Data & Smart Environments
+<br/>CBD for IoT & Cyber-Physical Systems
+<br/>RFID & Related Technologies for IoT
+<br/>M2M Communications and IoT
+<br/>IoT and Smart City Infrastructures
+<br/>Green Computing for Big Data & Smart City
+
+
+<hr/>
+<h4 style="font-weight: bold">For WiP/Workshop/Special Session Papers<h4>
+<hr/>
+
+<h4>WiP (Work-in-Porgress) Track</h4>
+The track covers all the topics for regular papers but it is aimed at  
+<br/>papers that have an original but not fully validated proposal (WiP)
+
+<h4>Workshop/Special Session Tracks</h4>
+CBDCom workshops and special sessions are listed <a href="/2025/cbdcom/acceptworkshops/"><b>here</b></a>
+
+
+<!-- <hr/>
+<h4 style="font-weight: bold">For Late Breaking Innovation Papers<h4>
+<hr/>
+<h4>LBI (Late Breaking Innovation) Track</h4>
+The LBI track accommodates cutting-edge research across all<br/>
+CBDCom topics that has emerged after the regular paper deadline.<br/>
+This track is designed for timely, significant advancements that warrant<br/>
+rapid dissemination in the present conference proceedings.
+<hr/> -->
