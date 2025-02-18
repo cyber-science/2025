@@ -64,27 +64,15 @@ permalink: /overview/
     <table class="news-table">
       <tbody>
         <tr>
-          <td>09:30 – 17:00</td>
-          <td>Registration</td>
-        </tr>
-        <tr>
-          <td>10:00 - 11:30</td>
+          <td>Morning</td>
           <td>Birds-of-a-Feather (BoF)</td>
         </tr>
         <tr>
-          <td>13:00 – 14:30</td>
-          <td>Tutorial</td>
-        </tr>
-        <tr class="coffee-break">
-          <td>14:30 – 15:00</td>
-          <td>Coffee Break</td>
+          <td>Afternoon</td>
+          <td>Parallel Sessions</td>
         </tr>
         <tr>
-          <td>15:00 – 17:00</td>
-          <td>Panel Discussion</td>
-        </tr>
-        <tr class="welcome-reception">
-          <td>18:30 – 21:00</td>
+          <td>Evening</td>
           <td>Welcome Reception</td>
         </tr>
       </tbody>
@@ -96,40 +84,16 @@ permalink: /overview/
     <table class="news-table">
       <tbody>
         <tr>
-          <td>08:00 – 17:00</td>
-          <td>Registration</td>
+          <td>Morning</td>
+          <td>Opening and Plenary Sessions</td>
         </tr>
         <tr>
-          <td>08:30 – 09:00</td>
-          <td>Welcome Ceremony</td>
-        </tr>
-        <tr>
-          <td>09:00 – 10:20</td>
-          <td>Keynote Talks</td>
-        </tr>
-        <tr class="coffee-break">
-          <td>10:20 – 10:40</td>
-          <td>Coffee Break</td>
-        </tr>
-        <tr>
-          <td>10:40 – 12:00</td>
+          <td>Afrernoon</td>
           <td>Parallel Sessions</td>
         </tr>
-        <tr class="lunch-break">
-          <td>12:00 – 13:30</td>
-          <td>Lunch Break</td>
-        </tr>
         <tr>
-          <td>13:30 – 15:10</td>
-          <td>Parallel Sessions</td>
-        </tr>
-        <tr class="coffee-break">
-          <td>15:10 – 15:30</td>
-          <td>Coffee Break</td>
-        </tr>
-        <tr>
-          <td>15:30 – 17:10</td>
-          <td>Parallel Sessions</td>
+          <td>Evening</td>
+          <td>Free</td>
         </tr>
       </tbody>
     </table>
@@ -140,40 +104,16 @@ permalink: /overview/
     <table class="news-table">
       <tbody>
         <tr>
-          <td>08:00 – 17:00</td>
-          <td>Registration</td>
+          <td>Morning</td>
+          <td>Plenary Sessions</td>
         </tr>
         <tr>
-          <td>08:30 – 09:50</td>
-          <td>Keynote Talks</td>
-        </tr>
-        <tr class="coffee-break">
-          <td>09:50 – 10:20</td>
-          <td>Coffee Break</td>
-        </tr>
-        <tr>
-          <td>10:20 – 12:00</td>
+          <td>Afrernoon</td>
           <td>Parallel Sessions</td>
         </tr>
-        <tr class="lunch-break">
-          <td>12:00 – 13:30</td>
-          <td>Lunch Break</td>
-        </tr>
         <tr>
-          <td>13:30 – 15:10</td>
-          <td>Parallel Sessions</td>
-        </tr>
-        <tr class="coffee-break">
-          <td>15:10 – 15:30</td>
-          <td>Coffee Break</td>
-        </tr>
-        <tr>
-          <td>15:30 – 17:30</td>
-          <td>Parallel Sessions</td>
-        </tr>
-        <tr class="gala-dinner">
-          <td>19:00 – 22:00</td>
-          <td>Gala Dinner</td>
+          <td>Evening</td>
+          <td>Conference Banquet</td>
         </tr>
       </tbody>
     </table>
@@ -184,28 +124,12 @@ permalink: /overview/
     <table class="news-table">
       <tbody>
         <tr>
-          <td>08:00 – 11:00</td>
-          <td>Registration</td>
-        </tr>
-        <tr>
-          <td>08:30 – 09:50</td>
-          <td>Parallel Sessions</td>
-        </tr>
-        <tr class="coffee-break">
-          <td>09:50 – 10:10</td>
-          <td>Coffee Break</td>
-        </tr>
-        <tr>
-          <td>10:10 – 11:50</td>
+          <td>Morning</td>
           <td>Parallel Sessions</td>
         </tr>
         <tr>
-          <td>11:50 – 12:20</td>
-          <td>Closing Ceremony</td>
-        </tr>
-        <tr>
-          <td>14:30 - 16:00</td>
-          <td>Conference Organizational Meeting</td>
+          <td>Afternoon</td>
+          <td>Closing and Conference Organizational Meeting</td>
         </tr>
       </tbody>
     </table>
