@@ -1,7 +1,7 @@
 ---
-title: Program Overview
+title: Program Outline
 layout: sub
-permalink: /overview/
+permalink: /outline/
 ---
 
 <h3 style="text-align: center;">Program Outline</h3>
