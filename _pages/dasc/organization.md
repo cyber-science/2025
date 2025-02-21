@@ -12,9 +12,8 @@ Tadashi Dohi, Hiroshima University (Japan)<br>
 Frank Hsu, Fordham University (USA)<br>
 Mohammed Atiquzzaman, Univ. of Oklahoma (USA)
 
-<h4>General Chairs</h4>
-Zakirul Alam Bhuiyan, Fordham University (USA) <br>
-Kenichi Kourai, Kyushu Institute of Technology (Japan)
+<h4>General Chair</h4>
+Naohiro Hayashibara, Kyoto Sangyo University (Japan)
 
 <h4>General Executive Chairs</h4>
 Moayad Aloqaily, Mohamed Bin Zayed University (UAE) <br>
@@ -53,6 +52,8 @@ Tadashi Dohi, Hiroshima University (Japan)<br/>
 Md Zakirul Alam Bhuiyan, Fordham University (USA)
 
 <h4>Advisory Committee</h4>
+Christopher P. Monterola, Asian Institute of Management (AIM) (Philippines)<br/>
+Yoshitaka Shibata, Iwate Prefectural University (Japan)<br/>
 Mohammed Atiquzzaman, Univ. of Oklahoma (USA)<br/>
 Davide Bacciu, University of Pisa (Italy)<br/>
 Nobuyasu Kanekawa, Hitachi, Ltd. (Japan)<br/>
