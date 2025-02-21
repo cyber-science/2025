@@ -41,12 +41,9 @@ Saqib Ali, Univ. of Agri. Faisalabad (Pakistan)<br>
 Mrinal Kanti Bhowmik, Tripura University (India)
 
 <h4>Publicity Chairs</h4>
-Mubashir Rehmani, Cork Inst. of Tech. (Ireland)<br>
-Junjun Zheng, Hiroshima University (Japan)<br>
-Qin Liu, Hunan University (China)<br>
-Senthil Kumar, Mepco Schlenk Engineering College (India)<br>
-Dhomas Hatta Fudholi, Universitas Islam Indonesia (Indonesia)<br>
-Yuhong Liu, Santa Clara University (USA)
+Anna Kobusinska, Poznan University of Technology (Poland)<br/>
+Liqiang Wang, University of Central Florida (USA)<br/>
+Toshiyuki Miyachi, NICT (Japan)
 
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br/>

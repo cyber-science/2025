@@ -29,10 +29,6 @@ Naohiro Hayashibara, Kyoto Sangyo University (Japan)
 David Tanier, Monash University (Australia)<br>
 Sahraoui Dhelim, Dublin City University (Ireland)<br>
 Wei Li, Southeast University (China)
-<!-- 
-<h4>Workshops Organizing Chair</h4>
-<h4>Publicity Chair</h4>
-<h4> Publication Chair</h4> -->
 
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br>
