@@ -20,8 +20,8 @@ Moayad Aloqaily, Mohamed Bin Zayed University (UAE) <br>
 Bernady O. Apduhan, Kyushu Sangyo University (Japan)
 
 <h4>Program Chairs</h4>
-Wenjia Li, New York Institute of Technology (USA)<br>
-Aniello Castiglione, University of Salerno (Italy)
+Takaki Nakamura, Tohoku University (Japan)
+Zonghua Zhang, CRSC Co. (China)
 
 <h4>Program Co-chairs</h4>
 Mohamed Rahouti, Fordham University (USA)<br>

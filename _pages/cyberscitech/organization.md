@@ -9,40 +9,34 @@ permalink: /cyberscitech/organization/
 <hr/>
 
 <h4> Honorary Chairs</h4>
-Kouichi Sakurai, Kyushu University (Japan)<br>
-Zhiwen Yu, Harbin Engineering University (China)<br>
-Stephen S. Yau, Arizona State University (USA)
+Stephen S. Yau, Arizona State University (USA)<br>
+Kouichi Sakurai, Kyushu University (Japan)
 
 <h4>General Chairs</h4>
-Bernady O. Apduhan, Kyushu Sangyo University (Japan) <br>
-Kuan-Ching Li, Providence University (Taiwan)
+Xiaohong Jiang, Future University Hakodate (Japan)<br>
+Bernady O. Apduhan, Kyushu Sangyo University (Japan)
 
 <h4>General Executive Chairs</h4>
 Xiaokang Zhou, Kansai University (Japan)<br>
-Moayad Aloqaily, Mohamed Bin Zayed University (UAE) <br>
-Kanghyun Jo, University of Ulsan (Korea)
+Moayad Aloqaily, Mohamed Bin Zayed University (UAE)
 
 <h4>Program Chairs</h4>
 Celimuge Wu, The Univ. of Electro-Comm. (Japan)<br>
-Gautam Srivastava, Brandon University (Canada)<br>
-Klimis Ntalianis, Univ. of West Attica (Greece)<br>
+Gautam Srivastava, Brandon University (Canada)
 
 <h4>Program Co-Chairs</h4>
 Yuji Suga, Internet Initiative Japan (Japan)<br>
-Francesco Pupo, University of Calabria (Italy)<br>
 Yan Huang, Kennesaw State University (USA)<br>
+Xiaoyan Wang, Ibaraki University (Japan)<br>
+Weimin Li, Shanghai University (Japan)<br>
 Xiaokun Zhang, Athabasca University (Canada)<br>
-Zhi Liu, The Univ. of Electro-Comm. (Japan)<br>
-Lai Tu, Huazhong University of Sci.&Tech. (China)<br>
-Dongsik Jo, University of Ulsan (Korea)
+Lai Tu, Huazhong University of Sci. & Tech. (China)
 
-<h4>Workshop & Special Session Chairs</h4>
-Amjad Gawanmeh, University of Dubai (UAE)<br>
-Pan Wang, Univ. of Posts & Telecomm. (China)<br>
-Keping Yu, Hosei University (Japan)
+<h4>Workshop & Special Session Chair</h4>
+Pan Wang, Univ. of Posts & Telecomm. (China)
 
 <h4>Special Issue Chair</h4>
-Ke Yan, National University of Singapore (Singapore)
+Ke Yan, Hunan University (China)
 
 <h4>International Liaison & Publicity Chairs</h4>
 Xiaohua Feng, University of Bedfordshire (UK)<br>
@@ -50,7 +44,7 @@ Hongxin Yan, Athabasca University (Canada)<br>
 Hong Chen, Daiichi Institute of Technology (Japan)<br>
 Daehwan Kim, University of Ulsan (Korea)<br>
 Safa Otoum, Zayed University (UAE)<br>
-Diana Purwitasari, Institute Technology Sepuluh Nopember (Indonesia)
+Diana Purwitasari, ITS (Indonesia)
 
 <h4> Publication Chair </h4>
 Ao Guo, Nagoya University (Japan)

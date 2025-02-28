@@ -10,7 +10,8 @@ permalink: /cbdcom/organization/
 <hr/>
 
 <h4>Honorary Chair</h4>
-Norio Shiratori, Chuo University (Japan)
+Norio Shiratori, Chuo University (Japan)<br>
+Keiji Suzuki, Future University Hakodate (Japan)
 
 <h4>Advisory Chairs</h4>
 Qiangfu Zhao, The University of Aizu (Japan)<br>
