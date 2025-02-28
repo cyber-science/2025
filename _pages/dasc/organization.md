@@ -20,7 +20,7 @@ Moayad Aloqaily, Mohamed Bin Zayed University (UAE) <br>
 Bernady O. Apduhan, Kyushu Sangyo University (Japan)
 
 <h4>Program Chairs</h4>
-Takaki Nakamura, Tohoku University (Japan)
+Takaki Nakamura, Tohoku University (Japan)<br>
 Zonghua Zhang, CRSC Co. (China)
 
 <h4>Program Co-chairs</h4>
