@@ -26,10 +26,10 @@ Zonghua Zhang, CRSC Co. (China)
 Junjun Zheng, Hiroshima University (Japan)
 
 <h4>Workshop & Special Session Chair</h4>
-
+<br>
 
 <h4>WiP & LBI Chair</h4>
-
+<br>
 
 <h4>Publicity Chairs</h4>
 Anna Kobusinska, Poznan University of Technology (Poland)<br/>

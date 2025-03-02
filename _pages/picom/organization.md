@@ -23,17 +23,17 @@ Antonio Guerrieri, ICAR-CNR (Italy)<br>
 Claudio Miceli, Federal University of Rio de Janeiro (Brazil)
 
 
-<!-- <h4>Track Chairs</h4>
+<h4>Track Chair</h4>
+<br>
 
-
-<h4>Workshop & Special Session Chairs</h4> -->
-
+<h4>Workshop & Special Session Chair</h4>
+<br>
 
 <h4>Publicity Chair</h4>
 Ao Guo, Nagoya University (Japan)
 
 <h4>Advisory Committee</h4>
-
+<br>
 
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br>
