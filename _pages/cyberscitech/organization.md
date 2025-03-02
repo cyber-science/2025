@@ -67,25 +67,3 @@ Frank Hsu, Fordham University (USA)<br>
 Jinhua She, Tokyo University of Technology (Japan)
 
 <h4> Advisory Committee </h4>
-Baoming Bai, Xidian University (China)<br>
-Julien Bourgeois, UBFC/FEMTO-ST INST/CNRS (France)<br>
-Raymond Choo, The Univ. of Texas at San Antonio (USA)<br>
-Zhong Chen, Peking University (China)<br>
-Tadashi Dohi, Hiroshima University (Japan)<br>
-Song Guo, Hong Kong Polytechnic University (Hong Kong)<br>
-Seungcheon Kim, Hansung University (Korea)<br>
-Keiichi Iwamura, The Tokyo University of Science (Japan)<br>
-Jianwei Liu, Beihang University (China)<br>
-Zhen Liu, Nagasaki Institute of Applied Science (Japan)<br>
-Huansheng Ning, Univ. of Sci. and Tech. Beijing (China)<br>
-Yi Pan, Georgia State University (USA)<br>
-Kouichi Sakurai, Kyushu University (Japan)<br>
-Zhou Su, Xi'an Jiaotong University (China)<br>
-Zhixin Sun, Minjiang University (China)<br>
-Nicolas Tsapatsoulis, Cyprus Univ. of Tech (Cyprus)<br>
-Feng Xia, RMIT University (Australia)<br>
-Jianwei Yin, Zhejiang University (China)<br>
-Bofeng Zhang, Shanghai Polytechnic University (China)<br>
-Yanchun Zhang, Victoria University (Australia)<br>
-Qiangfu Zhao, The University of Aizu (Japan)<br>
-Qinggou Zhou, Lanzhou University (China)

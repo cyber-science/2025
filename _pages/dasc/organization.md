@@ -7,37 +7,29 @@ permalink: /dasc/organization/
 <h3>DASC 2025 Organizing Committee</h3>
 <hr/>
 
-<h4>Honorary Chairs</h4>
-Tadashi Dohi, Hiroshima University (Japan)<br>
-Frank Hsu, Fordham University (USA)<br>
-Mohammed Atiquzzaman, Univ. of Oklahoma (USA)
+<h4>Honorary Chair</h4>
+Tadashi Dohi, Hiroshima University (Japan)
 
 <h4>General Chair</h4>
-Naohiro Hayashibara, Kyoto Sangyo University (Japan)
+Naohiro Hayashibara, Kyoto Sangyo University (Japan)<br>
+Moayad Aloqaily, Mohamed Bin Zayed University (UAE)
 
 <h4>General Executive Chairs</h4>
-Moayad Aloqaily, Mohamed Bin Zayed University (UAE) <br>
-Bernady O. Apduhan, Kyushu Sangyo University (Japan)
+Bernady O. Apduhan, Kyushu Sangyo University (Japan)<br>
+Xiaohong Jiang, Future University Hakodate (Japan)
 
 <h4>Program Chairs</h4>
 Takaki Nakamura, Tohoku University (Japan)<br>
 Zonghua Zhang, CRSC Co. (China)
 
-<h4>Program Co-chairs</h4>
-Mohamed Rahouti, Fordham University (USA)<br>
-Wei Wang, Beijing Jiaotong University (China)<br>
-Adnan Anwar, Deakin University (Australia)<br>
-Shan Jiang, The Hong Kong Polytechnic University (Hong Kong)<br>
-Changqing Luo, Virginia Commonwealth Univ. (USA)<br>
-Lei Chen, Georgia Southern University (USA)
+<h4>Program Co-chair</h4>
+Junjun Zheng, Hiroshima University (Japan)
 
-<h4>Workshop & Special Session Chairs</h4>
-Preeti Mishra, Doon University (India)<br>
-Arafatur Rahman, University of Wolverhampton (UK)
+<h4>Workshop & Special Session Chair</h4>
 
-<h4>WiP & LBI Chairs</h4>
-Saqib Ali, Univ. of Agri. Faisalabad (Pakistan)<br>
-Mrinal Kanti Bhowmik, Tripura University (India)
+
+<h4>WiP & LBI Chair</h4>
+
 
 <h4>Publicity Chairs</h4>
 Anna Kobusinska, Poznan University of Technology (Poland)<br/>
@@ -52,16 +44,7 @@ Tadashi Dohi, Hiroshima University (Japan)<br/>
 Md Zakirul Alam Bhuiyan, Fordham University (USA)
 
 <h4>Advisory Committee</h4>
+Junichi Funasaka, Hiroshima City University (Japan)<br/>
+Chalee Vorakulpipat, NECTEC (Thailand)<br/>
 Christopher P. Monterola, Asian Institute of Management (AIM) (Philippines)<br/>
-Yoshitaka Shibata, Iwate Prefectural University (Japan)<br/>
-Mohammed Atiquzzaman, Univ. of Oklahoma (USA)<br/>
-Davide Bacciu, University of Pisa (Italy)<br/>
-Nobuyasu Kanekawa, Hitachi, Ltd. (Japan)<br/>
-Irwin King, The Chinese University of Hong Kong (Hong Kong)<br/>
-Sy-Yen Kuo, National Taiwan University (Taiwan)<br/>
-Jiming Liu, Hong Kong Baptist University (Hong Kong)<br/>
-Tatsuhiro Tsuchiya, Osaka University (Japan)<br/>
-Wei Wang, University of New South Wales (Australia)<br/>
-Jianwen Xiang, Wuhan University of Technology (China)<br/>
-Zonghua Zhang, CRSC R&D Institute Group Co., Ltd. (China)<br/>
-Zheng Zheng, Beihang University (China)
+Yoshitaka Shibata, Iwate Prefectural University (Japan)
