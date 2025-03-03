@@ -4,7 +4,7 @@ layout: subdasc2
 permalink: /dasc/organization/
 ---
 
-<h3>DASC 2025 Organizing Committee</h3>
+<h3>DASC 2025 Organizing Committee (Pending)</h3>
 <hr/>
 
 <h4>Honorary Chair</h4>

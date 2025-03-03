@@ -5,7 +5,7 @@ permalink: /cbdcom/organization/
 ---
 
 
-<h3>CBDCom 2025 Organizing Committee</h3>
+<h3>CBDCom 2025 Organizing Committee (Pending)</h3>
 
 <hr/>
 
