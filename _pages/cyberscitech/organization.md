@@ -67,3 +67,4 @@ Frank Hsu, Fordham University (USA)<br>
 Jinhua She, Tokyo University of Technology (Japan)
 
 <h4> Advisory Committee </h4>
+John Paul C. Vergara, Ateneo de Manila University, Philippines<br>
