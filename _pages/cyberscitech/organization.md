@@ -42,7 +42,6 @@ Ke Yan, Hunan University (China)
 Xiaohua Feng, University of Bedfordshire (UK)<br>
 Hongxin Yan, Athabasca University (Canada)<br>
 Hong Chen, Daiichi Institute of Technology (Japan)<br>
-Daehwan Kim, University of Ulsan (Korea)<br>
 Safa Otoum, Zayed University (UAE)<br>
 Diana Purwitasari, ITS (Indonesia)<br>
 Ruichen Cong, Waseda University (Japan)<br>
