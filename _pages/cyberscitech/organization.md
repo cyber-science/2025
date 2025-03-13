@@ -13,10 +13,11 @@ Stephen S. Yau, Arizona State University (USA)<br>
 Kouichi Sakurai, Kyushu University (Japan)
 
 <h4>General Chairs</h4>
-Xiaohong Jiang, Future University Hakodate (Japan)<br>
-Bernady O. Apduhan, Kyushu Sangyo University (Japan)
+Bernady O. Apduhan, Kyushu Sangyo University (Japan)<br>
+Qun Jin, Waseda University (Japan)
 
 <h4>General Executive Chairs</h4>
+Xiaohong Jiang, Future University Hakodate (Japan)<br>
 Xiaokang Zhou, Kansai University (Japan)<br>
 Moayad Aloqaily, Mohamed Bin Zayed University (UAE)
 

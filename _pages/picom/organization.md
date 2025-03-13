@@ -12,7 +12,7 @@ Chuan-Yu Chang, National Yunlin University of Science (Taiwan)
 
 <h4>General Chairs</h4>
 Flavia Delicato, Fluminense Federal University (Brazil)<br>
-Sozo Inoue, Kyushu Institute of Technology (Japan)
+Kenichi Kourai, Kyushu Institute of Technology (Japan)
 
 <h4>General Executive Chairs</h4>
 Bernady O. Apduhan, Kyushu Sangyo University (Japan) <br>
