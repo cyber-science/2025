@@ -63,7 +63,7 @@ Cyber Life & Human Centric Computing
 <br/>Augmented/Mixed Reality & Metaverse
 
 <hr/>
-<h4 style="font-weight: bold">For WiP/Workshop/Special Session Papers<h4>
+<h4 style="font-weight: bold">For WiP/Poster/Workshop/Special Session Papers<h4>
 <hr/>
 
 <h4>WiP (Work-in-Porgress) Track</h4>
