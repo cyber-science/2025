@@ -38,7 +38,7 @@ Lai Tu, Huazhong University of Sci. & Tech. (China)
 
 <h4>Workshop & Special Session Chairs</h4>
 Pan Wang, Univ. of Posts & Telecomm. (China)<br>
-Yegang Du, Tohoku University Japan
+Yegang Du, Tohoku University (Japan)
 
 <h4>Special Issue Chair</h4>
 Ke Yan, Hunan University (China)
