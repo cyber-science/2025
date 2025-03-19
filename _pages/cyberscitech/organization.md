@@ -47,10 +47,9 @@ Ke Yan, Hunan University (China)
 Xiaohua Feng, University of Bedfordshire (UK)<br>
 Hongxin Yan, Athabasca University (Canada)<br>
 Hong Chen, Daiichi Institute of Technology (Japan)<br>
-Daehwan Kim, University of Ulsan (Korea)<br>
 Safa Otoum, Zayed University (UAE)<br>
-Kai Cheng, Kyushu Sangyo University (Japan)<br>
-Ruichen Cong, Waseda University (Japan)
+Ruichen Cong, Waseda University (Japan)<br>
+Kai Cheng, Kyushu Sangyo University (Japan)
 
 <h4> Publication Chair </h4>
 Ao Guo, Nagoya University (Japan)
