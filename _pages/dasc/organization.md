@@ -22,14 +22,15 @@ Xiaohong Jiang, Future University Hakodate (Japan)
 Takaki Nakamura, Tohoku University (Japan)<br>
 Zonghua Zhang, CRSC Co. (China)
 
-<h4>Program Co-chair</h4>
-Junjun Zheng, Hiroshima University (Japan)
+<h4>Program Co-chairs</h4>
+Junjun Zheng, Hiroshima University (Japan)<br>
+Luis Gallen, Tohoku University (Japan)
 
 <h4>Workshop & Special Session Chair</h4>
-<br>
+Noriaki Kamiyama, Ritsumeikan University (Japan)
 
 <h4>WiP & LBI Chair</h4>
-<br>
+Junichi Funasaka, Hiroshima University (Japan)
 
 <h4>Publicity Chairs</h4>
 Anna Kobusinska, Poznan University of Technology (Poland)<br/>
