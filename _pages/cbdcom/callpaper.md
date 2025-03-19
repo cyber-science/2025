@@ -8,7 +8,7 @@ permalink: /cbdcom/callpaper/
 
 <hr/>
 
-<h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2025/assets/files/CBDCom2025_CFP.pdf" target=_new>here</a></b> ** </h5> 
+<!-- <h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2025/assets/files/CBDCom2025_CFP.pdf" target=_new>here</a></b> ** </h5>  -->
 
 
 <hr/>
