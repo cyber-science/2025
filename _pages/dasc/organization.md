@@ -29,7 +29,7 @@ Luis Gallen, Tohoku University (Japan)
 <h4>Workshop & Special Session Chair</h4>
 Noriaki Kamiyama, Ritsumeikan University (Japan)
 
-<h4>WiP & LBI Chair</h4>
+<h4>WiP/LBI/Poster Session Chair</h4>
 Junichi Funasaka, Hiroshima University (Japan)
 
 <h4>Publicity Chairs</h4>
