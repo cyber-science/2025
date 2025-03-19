@@ -11,11 +11,11 @@ permalink: /cyberscitech/papersubmissions/
 <h4>Submission Instructions</h4>
  Submission to Regular Tracks: <b> 6 pages</b> in minimum<br>
  Submission to WiP/Workshop/Special Session Tracks: <b>4 pages</b> in minimum<br>
- Submission to Poster Session Tracks: <b>2 pages</b> in minimum<br>
+ Submission to Poster Tracks: <b>2 pages</b> in minimum<br>
  <!-- Submission to Late Breaking Innovation Tracks: <b>4-8</b> pages<br> -->
 </p>
 
-<p>Authors are invited to submit their original research work that has not previously been submitted or published in any other venue. Regular, work-in-progress (WiP), and workshop/special session papers need to be submitted via EDAS.
+<p>Authors are invited to submit their original research work that has not previously been submitted or published in any other venue. Regular, work-in-progress (WiP), workshop/special session, and poster papers need to be submitted via EDAS.
 <!-- (<a href="https://edas.info/N32365" target =_new>https://edas.info/N32365</a>). -->
 </p><p>
 <ul>
@@ -29,7 +29,7 @@ permalink: /cyberscitech/papersubmissions/
 </p><p>
 Papers should be prepared in IEEE CS Proceedings format. IEEE formatting information: <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html" target=_new>http://www.ieee.org/conferences_events/conferences/publishing/templates.html</a>
 </p><p>
-All accepted papers in the main tracks, workshops, and special sessions will be published in an IEEE Computer Society proceedings (IEEE-DL and EI indexed). 
+All accepted papers in the main tracks, workshops, special sessions, and poster will be published in an IEEE Computer Society proceedings (IEEE-DL and EI indexed).
 Best Paper Awards will be presented to high quality papers. Selected papers will be recommended to prestigious journal <b>
 <a href="http://cyber-science.org/2025/special-issues/" target=_new>Special Issues</a></b>. 
 </p><p>
