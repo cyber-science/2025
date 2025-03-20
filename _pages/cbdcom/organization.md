@@ -39,7 +39,7 @@ Wei Li, Southeast University (China)<br>
 Gerard Marks, Dublin City University (Ireland)
 
 <h4>Workshop & Poster Chairs</h4>
-Xin Qi, Waseda University (Japan) (Pending)<br>
+Xin Qi, Waseda University (Japan) <br>
 Chaker Kerrache, University of Laghouat (Algeria)
 
 <h4>Publicity Chairs</h4>
