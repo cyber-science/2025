@@ -42,8 +42,8 @@ Please use 'CBDCom 2025 Workshop-SS Proposal' as the email subject. Accepted pro
 <br/>
 
 <b>Workshop/SS Chairs:</b><br/>
-- Xin Qi, Waseda University, Japan (Japan) < samqixin AT aoni DOT waseda DOT jp>
-- Chaker Kerrache, University of Laghouat, Japan (Algeria) < ch DOT kerrache AT lagh-univ DOT dz >
+- Xin Qi, Waseda University (Japan) < samqixin AT aoni DOT waseda DOT jp>
+- Chaker Kerrache, University of Laghouat (Algeria) < ch DOT kerrache AT lagh-univ DOT dz >
 
 <b>Important Dates:</b><br/>
 - Workshop/SS Proposal Due: June 6, 2025
