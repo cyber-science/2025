@@ -74,8 +74,12 @@ ML for resource allocation at the Edge
 <hr/>
 
 <h4>WiP (Work-in-Porgress) Track</h4>
-The track covers all the topics for regular papers but it is aimed at  
-<br/>papers that have an original but not fully validated proposal (WiP)
+The track covers all the topics but it is aimed at 
+<br/>either papers that have an original but not fully
+<br/>validated proposal (WiP) or present a breakthrough, a
+<br/>new vision or an out of the box idea on the field to be
+<br/>discussed at the conference (LBI).
+
 
 <h4>Workshop/Special Session Tracks</h4>
 PICom workshops and special sessions are listed <a href="/2025/picom/acceptworkshops/"><b>here</b></a>
