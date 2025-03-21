@@ -35,8 +35,7 @@ A single pdf file with all the material described above should be prepared. Plea
 <br/>
 
 <b>Workshop/SS Chairs:</b><br/>
-- Xiuwen Fu, Shanghai Maritime University, China < xwfu AT shmtu DOT edu DOT cn >
-- Ouns Bouachir, Zayed University, UAE < ouns DOT bouachir AT zu DOT ac DOT ae >
+- Irfanullah Khan, University of Glasgow (UK) < Irfanullah DOT Khan AT glasgow DOT ac DOT uk  >
 
 <b>Important Dates:</b><br/>
 - Workshop/SS Proposal Due: June 6, 2025
