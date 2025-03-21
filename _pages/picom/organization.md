@@ -9,7 +9,7 @@ permalink: /picom/organization/
 
 <h4>Honorary Chairs</h4>
 Albert Zomaya, The University of Sydney (Australia)<br>
-</brMing Hou, Defence Research & Development Canada (Canada)<br>
+Ming Hou, Defence Research & Development Canada (Canada)<br>
 Tiago Falk, University of Quebec (Canada)
    
 <h4>General Chairs</h4>
