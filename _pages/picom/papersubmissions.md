@@ -15,7 +15,7 @@ permalink: /picom/papersubmissions/
 </p>
 
 <p>Authors are invited to submit their original research work that has not previously been submitted or published in any other venue. Regular, work-in-progress (WiP), and workshop/special session papers need to be submitted via EDAS.
- <!-- (<a href="https://edas.info/N32602" target =_new>https://edas.info/N32602</a>). -->
+ <!-- (<a href="https://edas.info/N32601" target =_new>https://edas.info/N32601</a>). -->
  
 </p><p>
 <ul>
@@ -23,7 +23,7 @@ permalink: /picom/papersubmissions/
 <li><b>Work-in-Progress (WiP) papers</b> should present original, ongoing and unpublished work with preliminary results. Wherever current status, initial findings, and expected contributions of the work should be included.</li>
 <li><b>Workshop papers</b> should present original, unpublished work associated with specific workshops theme. Wherever novel ideas, methods, or applications related to the workshop scope as well as concrete evaluation and/or analysis should be included.</li>
 <li><b>Special Session (SS) papers</b> should present substantial, original, completed, and unpublished work focus on emerging topics, specific research domains, or interdisciplinary areas. Wherever significant contributions to advance the state-of-the-art in the specific research domain or interdisciplinary area should be included.</li>
-<!-- <li><b>Late Breaking Innovation (LBI) papers</b> should present cutting-edge research across all PICom topics. LBI submissions will undergo a review process, and those accepted will be included in the conference program as either Regular or WiP papers, based on their quality, novelty, and completeness.</li> -->
+<!-- <li><b>Late Breaking Innovation (LBI) papers</b> should present cutting-edge research across all DASC topics. LBI submissions will undergo a review process, and those accepted will be included in the conference program as either Regular or WiP papers, based on their quality, novelty, and completeness.</li> -->
 </ul>
 </p><p>
 Papers should be prepared in IEEE CS Proceedings format. IEEE formatting information: <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html" target=_new>http://www.ieee.org/conferences_events/conferences/publishing/templates.html</a>
