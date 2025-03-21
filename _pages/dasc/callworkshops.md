@@ -40,11 +40,10 @@ Please use 'DASC 2025 Workshop-SS Proposal' as the email subject. Accepted propo
 <br/>
 
 <b>Workshop/SS Chairs:</b><br/>
-- Preeti Mishra, Doon University, India < preetimishra DOT sops AT doonuniversity DOT ac DOT in >
-- Arafatur Rahman, University of Wolverhampton, UK < Arafatur DOT Rahman AT wlv DOT ac DOT uk >
+- Noriaki Kamiyama, Ritsumeikan University, Japan < Kamiaki DOT fc DOT ritsumei DOT ac DOT jp>
 
 <b>Important Dates:</b><br/>
-- Workshop/SS Proposal Due: June 6, 2025
+- Workshop/SS Proposal Due: May 10, 2025
 - WiP/Workshop/SS Paper Due: June 20, 2025
 - Author Notification: August 11, 2025
 - Paper Registration Due: September 5, 2025
