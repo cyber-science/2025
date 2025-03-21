@@ -42,11 +42,10 @@ Please use 'CBDCom 2025 Workshop-SS Proposal' as the email subject. Accepted pro
 <br/>
 
 <b>Workshop/SS Chairs:</b><br/>
-- Xin Qi, Waseda University (Japan) < samqixin AT aoni DOT waseda DOT jp>
-- Chaker Kerrache, University of Laghouat (Algeria) < ch DOT kerrache AT lagh-univ DOT dz >
+- Irfanullah Khan, University of Glasgow (UK) < Irfanullah DOTKhan AT glasgow DOT ac DOT uk  >
 
 <b>Important Dates:</b><br/>
-- Workshop/SS Proposal Due: June 6, 2025
+- Workshop/SS Proposal Due: May 10, 2025
 - WiP/Workshop/SS Paper Due: June 20, 2025
 - Author Notification: August 11, 2025
 - Paper Registration Due: September 5, 2025
