@@ -38,7 +38,7 @@ A single pdf file with all the material described above should be prepared. Plea
 - Irfanullah Khan, University of Glasgow (UK) < Irfanullah DOT Khan AT glasgow DOT ac DOT uk  >
 
 <b>Important Dates:</b><br/>
-- Workshop/SS Proposal Due: June 6, 2025
+- Workshop/SS Proposal Due: May 10, 2025
 - WiP/Workshop/SS Paper Due: June 20, 2025
 - Author Notification: August 11, 2025
 - Paper Registration Due: September 5, 2025
