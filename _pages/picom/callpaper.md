@@ -7,7 +7,7 @@ permalink: /picom/callpaper/
 <h3>Call For Papers - IEEE PICom 2025 Tracks and Topics</h3>
 <hr/>
 
-<!-- <h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2025/assets/files/PICom2025_CFP.pdf" target=_new>here</a></b> ** </h5>  -->
+<h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2025/assets/files/PICom2025_CFP.pdf" target=_new>here</a></b> ** </h5>
 
 <hr/>
 <h4 style="font-weight: bold">For Regular Papers<h4>
