@@ -42,7 +42,7 @@ Please use 'CBDCom 2025 Workshop-SS Proposal' as the email subject. Accepted pro
 <br/>
 
 <b>Workshop/SS Chairs:</b><br/>
-- Irfanullah Khan, University of Glasgow (UK) < Irfanullah DOTKhan AT glasgow DOT ac DOT uk  >
+- Irfanullah Khan, University of Glasgow (UK) < Irfanullah DOT Khan AT glasgow DOT ac DOT uk  >
 
 <b>Important Dates:</b><br/>
 - Workshop/SS Proposal Due: May 10, 2025
