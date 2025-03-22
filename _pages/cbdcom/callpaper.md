@@ -21,10 +21,10 @@ Big Data Fundamentals & Novel Paradigms
 <br/>Big Data Models and Algorithms 
 <br/>Big Data Applications and Services
 <br/>Big Data Mining and Analytics
-<br/>Big data Processing and Querying
-<br/>Multimodal Big Data Computing  
+<br/>Multimodal Big Data Computing
 <br/>Cloud and Big Data Intelligence
 <br/>Cloud-Native Theories and Algorithms
+<br/>Cloud-Based Quantum Computing  
 
  
 <h4>Track 2: Systems, Management and Security</h4>
@@ -34,8 +34,8 @@ Big Data Cloud and Stream Computing
 <br/>Energy-Efficient Computing for Big Data
 <br/>Recommendation & Social Media Systems
 <br/>Big Data Availability and Reliability
-<br/>Public, Private, and Hybrid Clouds
-<br/>Green & Energy Management
+<br/>Big Data Protection and Privacy
+<br/>Big Data Security Management
 
 
 <h4>Track 3: IoT and Smart Technologies</h4>
@@ -46,7 +46,7 @@ Dependable Big Data Processing
 <br/>Blockchain for Cloud and Big Data
 <br/>Smart Contract/DLT in Cloud and Big Data
 <br/>Data Ownership, Right, Policy and Laws
-<br/>CBD for IoT & Cyber-Physical Systems
+<br/>Energy-Efficient Computing for Big Data
 
 
 <h4>Track 4: Networking and Communications</h4>
@@ -57,7 +57,7 @@ Cloud & Big Data Networking
 <br/>Cloud Data Center Networks
 <br/>Communication Systems for IoT
 <br/>SDN/NFV for Big Data
-<br/>Data Center Networking
+<br/>Quantum Data Centers and Networking
 
 
 <hr/>
