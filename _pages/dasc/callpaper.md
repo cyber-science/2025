@@ -15,51 +15,51 @@ permalink: /dasc/callpaper/
 
 <h4>Tracks</h4>
 Track 1. Dependability, Reliability, and Fault Tolerance<br/> 
-•	Fault-tolerant hardware and software architectures 
-•	Hardware and software reliability, verification and testing
-•	Reliability modeling and prediction for complex systems
-•	Highly Reliable Systems achieving stable performance
-•	Resilience engineering in Cyber-Physical Systems (CPS)  
-•	Redundancy design for critical infrastructure  
-•	Dependability metrics and evaluation frameworks
-•	Simulation, verification, testing, and validation for autonomous systems
+•	Fault-tolerant hardware and software architectures <br/> 
+•	Hardware and software reliability, verification and testing<br/> 
+•	Reliability modeling and prediction for complex systems<br/> 
+•	Highly Reliable Systems achieving stable performance<br/> 
+•	Resilience engineering in Cyber-Physical Systems (CPS)  <br/> 
+•	Redundancy design for critical infrastructure  <br/> 
+•	Dependability metrics and evaluation frameworks<br/> 
+•	Simulation, verification, testing, and validation for autonomous systems<br/> 
 
 <br/> Track 2. Security, Privacy, and Trust in Systems and Networks
-•	Intrusion detection, prevention, and mitigation in networked environments  
-•	Security modeling, auditing and compliance in safety-critical systems 
-•	Self-adaptive security architecture, techniques, and algorithms 
-•	Security protocols for CPS, IoT, and autonomous systems (e.g., vehicles, drones, robots)
-•	Data protection for networked systems and storage systems
-•	Privacy-preserving techniques for distributed and autonomous systems
-•	Blockchain for trustworthy and secure system design
-•	Cryptographic methods for secure computing, storage and communication  
-•	Post-quantum cryptography for future-proof security
-•	Trust management in distributed and autonomous systems  
+•	Intrusion detection, prevention, and mitigation in networked environments  <br/> 
+•	Security modeling, auditing and compliance in safety-critical systems <br/> 
+•	Self-adaptive security architecture, techniques, and algorithms <br/> 
+•	Security protocols for CPS, IoT, and autonomous systems (e.g., vehicles, drones, robots)<br/> 
+•	Data protection for networked systems and storage systems<br/> 
+•	Privacy-preserving techniques for distributed and autonomous systems<br/> 
+•	Blockchain for trustworthy and secure system design<br/> 
+•	Cryptographic methods for secure computing, storage and communication  <br/> 
+•	Post-quantum cryptography for future-proof security<br/> 
+•	Trust management in distributed and autonomous systems  <br/> 
 
 <br/> Track 3. Autonomic Computing and Self-Adaptive Systems
-•	Self-adaptive software architectures for autonomic computing  
-•	Adaptive computing, communication, and resource allocation for autonomic systems  
-•	Self-healing mechanisms for autonomic systems   
-•	Autonomic decision-making under uncertainty  
-•	Embodied AI for physical system adaptation  
-•	Self-optimization for energy-efficient autonomic systems  
-•	Modeling and STV & V of self-adaptive behaviors
+•	Self-adaptive software architectures for autonomic computing  <br/> 
+•	Adaptive computing, communication, and resource allocation for autonomic systems  <br/> 
+•	Self-healing mechanisms for autonomic systems   <br/> 
+•	Autonomic decision-making under uncertainty  <br/> 
+•	Embodied AI for physical system adaptation  <br/> 
+•	Self-optimization for energy-efficient autonomic systems  <br/> 
+•	Modeling and STV & V of self-adaptive behaviors<br/> 
 
 <br/> Track 4. AI, Machine Learning, and Advanced Computational Methods
-•	AI-driven threat prediction, anomaly detection, fault detection and diagnosis  
-•	Large Language Models (LLMs) for system specification and verification
-•	Data platforms leveraging and powering AI 
-•	Quantum computing applications in dependability analysis  
-•	Generative AI for synthetic test case generation
-•	Explainable AI for trustworthy autonomic computing
-•	Trustworthy and safe AI-empowered systems
+•	AI-driven threat prediction, anomaly detection, fault detection and diagnosis  <br/> 
+•	Large Language Models (LLMs) for system specification and verification<br/> 
+•	Data platforms leveraging and powering AI <br/> 
+•	Quantum computing applications in dependability analysis  <br/> 
+•	Generative AI for synthetic test case generation<br/> 
+•	Explainable AI for trustworthy autonomic computing<br/> 
+•	Trustworthy and safe AI-empowered systems<br/> 
 
 <br/> Track 5. Industrial Applications and Case Studies
-•	Dependability and security solutions in safety-critical control systems in transportation and aerospace industries
-•	Autonomous systems in industrial IoT deployments  
-•	Case studies on CPS reliability in manufacturing  
-•	Lessons learned from autonomous vehicle system deployments  
-•	Real-world applications of trustworthy AI in various industrial sectors 
+•	Dependability and security solutions in safety-critical control systems in transportation and aerospace industries<br/> 
+•	Autonomous systems in industrial IoT deployments  <br/> 
+•	Case studies on CPS reliability in manufacturing  <br/> 
+•	Lessons learned from autonomous vehicle system deployments  <br/> 
+•	Real-world applications of trustworthy AI in various industrial sectors <br/> 
 
 <br/>
 <h4>Topics</h4>
