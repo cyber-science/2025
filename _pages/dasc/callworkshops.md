@@ -43,7 +43,7 @@ Please use 'DASC 2025 Workshop-SS Proposal' as the email subject. Accepted propo
 - Noriaki Kamiyama, Ritsumeikan University, Japan < Kamiaki DOT fc DOT ritsumei DOT ac DOT jp>
 
 <b>Important Dates:</b><br/>
-- Workshop/SS Proposal Due: May 20, 2025
+- Workshop/SS Proposal Due: May 10, 2025
 - WiP/Workshop/SS Paper Due: June 20, 2025
 - Author Notification: August 11, 2025
 - Paper Registration Due: September 5, 2025
