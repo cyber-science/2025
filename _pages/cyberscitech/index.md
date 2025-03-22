@@ -7,7 +7,7 @@ permalink: /cyberscitech/
 <div class="row">
 <div class="col-md-10 mb-5">
 
-<h4>October 21-24, 2025 - Hakodate, Japan</h4>
+<h4>October 21-24, 2025 - Hakodate, Hokkaido, Japan</h4>
 <hr/>
 
 <p style="text-align:justify">
