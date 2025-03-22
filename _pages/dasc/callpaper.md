@@ -22,7 +22,7 @@ Track 1. Dependability, Reliability, and Fault Tolerance<br/>
 •	Resilience engineering in Cyber-Physical Systems (CPS)  <br/> 
 •	Redundancy design for critical infrastructure  <br/> 
 •	Dependability metrics and evaluation frameworks<br/> 
-•	Simulation, verification, testing, and validation for autonomous systems<br/> 
+•	Simulation, verification, testing, and validation for autonomous systems <br/> 
 
 Track 2. Security, Privacy, and Trust in Systems and Networks<br/> 
 •	Intrusion detection, prevention, and mitigation in networked environments  <br/> 
