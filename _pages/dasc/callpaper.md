@@ -61,7 +61,7 @@ Track 1. Dependability, Reliability, and Fault Tolerance<br/>
 •	Lessons learned from autonomous vehicle system deployments  <br/> 
 •	Real-world applications of trustworthy AI in various industrial sectors <br/> 
 
-<br/>
+<!-- <br/>
 <h4>Topics</h4>
 Self-Organization and Organic Computing
 <br/> Cognitive Computing and Self-Aware Computing
@@ -72,7 +72,7 @@ Self-Organization and Organic Computing
 <br/> Artificial Intelligence Techniques in Network and System Security and Privacy
 <br/> Autonomic and Autonomous Issues in Cloud/Fog/Edge Computing, Mobile and Pervasive Computing, Big Data, CPS and IoT systems
 <br/> Software/Apps/Tools Development for Dependable and Secure Applications
-<br/> IoT and Sensor Network, Big Data, Smart Grid, Aerospace, Transportation Applications
+<br/> IoT and Sensor Network, Big Data, Smart Grid, Aerospace, Transportation Applications -->
 
 
 <hr/>
