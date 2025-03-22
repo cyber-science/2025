@@ -24,7 +24,7 @@ Track 1. Dependability, Reliability, and Fault Tolerance<br/>
 •	Dependability metrics and evaluation frameworks<br/> 
 •	Simulation, verification, testing, and validation for autonomous systems<br/> 
 
-<br/> Track 2. Security, Privacy, and Trust in Systems and Networks
+<br/> Track 2. Security, Privacy, and Trust in Systems and Networks<br/> 
 •	Intrusion detection, prevention, and mitigation in networked environments  <br/> 
 •	Security modeling, auditing and compliance in safety-critical systems <br/> 
 •	Self-adaptive security architecture, techniques, and algorithms <br/> 
@@ -36,7 +36,7 @@ Track 1. Dependability, Reliability, and Fault Tolerance<br/>
 •	Post-quantum cryptography for future-proof security<br/> 
 •	Trust management in distributed and autonomous systems  <br/> 
 
-<br/> Track 3. Autonomic Computing and Self-Adaptive Systems
+<br/> Track 3. Autonomic Computing and Self-Adaptive Systems<br/> 
 •	Self-adaptive software architectures for autonomic computing  <br/> 
 •	Adaptive computing, communication, and resource allocation for autonomic systems  <br/> 
 •	Self-healing mechanisms for autonomic systems   <br/> 
@@ -45,7 +45,7 @@ Track 1. Dependability, Reliability, and Fault Tolerance<br/>
 •	Self-optimization for energy-efficient autonomic systems  <br/> 
 •	Modeling and STV & V of self-adaptive behaviors<br/> 
 
-<br/> Track 4. AI, Machine Learning, and Advanced Computational Methods
+<br/> Track 4. AI, Machine Learning, and Advanced Computational Methods<br/> 
 •	AI-driven threat prediction, anomaly detection, fault detection and diagnosis  <br/> 
 •	Large Language Models (LLMs) for system specification and verification<br/> 
 •	Data platforms leveraging and powering AI <br/> 
@@ -54,7 +54,7 @@ Track 1. Dependability, Reliability, and Fault Tolerance<br/>
 •	Explainable AI for trustworthy autonomic computing<br/> 
 •	Trustworthy and safe AI-empowered systems<br/> 
 
-<br/> Track 5. Industrial Applications and Case Studies
+<br/> Track 5. Industrial Applications and Case Studies<br/> 
 •	Dependability and security solutions in safety-critical control systems in transportation and aerospace industries<br/> 
 •	Autonomous systems in industrial IoT deployments  <br/> 
 •	Case studies on CPS reliability in manufacturing  <br/> 
