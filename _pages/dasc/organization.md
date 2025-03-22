@@ -35,7 +35,8 @@ Junichi Funasaka, Hiroshima University (Japan)
 <h4>Publicity Chairs</h4>
 Anna Kobusinska, Poznan University of Technology (Poland)<br/>
 Liqiang Wang, University of Central Florida (USA)<br/>
-Toshiyuki Miyachi, NICT (Japan)
+Toshiyuki Miyachi, NICT (Japan)<br/>
+Zhuotao Lian, Hiroshima University (Japan)
 
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br/>
