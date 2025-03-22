@@ -47,8 +47,8 @@ Chaker Kerrache, University of Laghouat (Algeria)
 Chaofeng Zhang, Advanced Insti. of Indu. Tech. (Japan)<br>
 Yi-Han Chiang, Osaka Metropolitan University (Japan)<br>
 Fadi Farha, University of Aleppo (Syria)<br>
-Aymen Berini, UAE University (UAE)
-
+Aymen Berini, UAE University (UAE)<br>
+Zhuotao Lian, Hiroshima University (Japan)
 
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br>
