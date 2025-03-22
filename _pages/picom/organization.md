@@ -46,7 +46,8 @@ Wei Li, The University of Sydney (Australia)<br>
 Gwanggil Jeon, Incheon National University (Korea)<br>
 Antonino Galletta, University of Messina (Italy)<br>
 Celimuge Wu, The University of Electro-Communications (Japan)<br>
-Endang Djuana, Universitas Trisakti (Indonesia)
+Endang Djuana, Universitas Trisakti (Indonesia)<br>
+Zhuotao Lian, Hiroshima University (Japan)
 
 <h4>Advisory Committee</h4>
 Giancarlo Fortino, University of Calabria (Italy)<br>
