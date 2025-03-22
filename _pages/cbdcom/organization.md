@@ -63,4 +63,4 @@ Albert Zomaya, The University of Sydney (Australia)
 <h4>Advisory Committee</h4>
 Noriaki Kamiyama, Ritsumeikan University (Japan)<br>
 Masaki Aida, Tokyo Metropolitan University (Japan)<br>
-Yufeng Wang, NJUPT, China
+Yufeng Wang, Nanjing University of Posts and Telecommunications (China)
