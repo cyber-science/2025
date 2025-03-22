@@ -13,17 +13,17 @@ permalink: /dasc/callpaper/
 <h4 style="font-weight: bold">For Regular Papers<h4>
 <hr/>
 
-<h4>Track 1. Dependability, Reliability, and Fault Tolerance</h4><br/> 
-•	Fault-tolerant hardware and software architectures <br/> 
-•	Hardware and software reliability, verification and testing<br/> 
-•	Reliability modeling and prediction for complex systems<br/> 
-•	Highly Reliable Systems achieving stable performance<br/> 
-•	Resilience engineering in Cyber-Physical Systems (CPS)  <br/> 
-•	Redundancy design for critical infrastructure  <br/> 
-•	Dependability metrics and evaluation frameworks<br/> 
-•	Simulation, verification, testing, and validation for autonomous systems
+<h4>Track 1. Dependability, Reliability, and Fault Tolerance</h4>
+<br/>• Fault-tolerant hardware and software architectures 
+<br/>• Hardware and software reliability, verification and testing
+<br/>• Reliability modeling and prediction for complex systems
+<br/>• Highly Reliable Systems achieving stable performance
+<br/>• Resilience engineering in Cyber-Physical Systems (CPS)  
+<br/>• Redundancy design for critical infrastructure 
+<br/>• Dependability metrics and evaluation frameworks
+<br/>• Simulation, verification, testing, and validation for autonomous systems
 
-<h4>Track 2. Security, Privacy, and Trust in Systems and Networks</h4><br/> 
+<h4>Track 2. Security, Privacy, and Trust in Systems and Networks</h4>
 •	Intrusion detection, prevention, and mitigation in networked environments  <br/> 
 •	Security modeling, auditing and compliance in safety-critical systems <br/> 
 •	Self-adaptive security architecture, techniques, and algorithms <br/> 
