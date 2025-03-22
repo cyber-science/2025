@@ -55,7 +55,7 @@ Jianhua Ma, Hosei University (Japan)<br>
 Laurence T. Yang, St. Francis Xavier University (Canada)<br>
 Julien Bourgeois, UBFC (France)<br>
 Anna Kobusińska, Poznań University of Technology (Poland)<br>
-Peng Li, The University of Aizu (Japan)<br>
+Peng Li, Xi'An Jiaotong University (China)<br>
 Huansheng Ning, University of Science and Technology Beijing (China)<br>
 Mazin Yousif, T-Systems International (USA)<br>
 Albert Zomaya, The University of Sydney (Australia)
