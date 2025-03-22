@@ -13,7 +13,6 @@ permalink: /dasc/callpaper/
 <h4 style="font-weight: bold">For Regular Papers<h4>
 <hr/>
 
-<h4>Tracks</h4>
 <h4>Track 1. Dependability, Reliability, and Fault Tolerance</h4><br/> 
 •	Fault-tolerant hardware and software architectures <br/> 
 •	Hardware and software reliability, verification and testing<br/> 
@@ -22,9 +21,9 @@ permalink: /dasc/callpaper/
 •	Resilience engineering in Cyber-Physical Systems (CPS)  <br/> 
 •	Redundancy design for critical infrastructure  <br/> 
 •	Dependability metrics and evaluation frameworks<br/> 
-•	Simulation, verification, testing, and validation for autonomous systems <br/> 
+•	Simulation, verification, testing, and validation for autonomous systems
 
-<br/> <h4>Track 2. Security, Privacy, and Trust in Systems and Networks</h4><br/> 
+<h4>Track 2. Security, Privacy, and Trust in Systems and Networks</h4><br/> 
 •	Intrusion detection, prevention, and mitigation in networked environments  <br/> 
 •	Security modeling, auditing and compliance in safety-critical systems <br/> 
 •	Self-adaptive security architecture, techniques, and algorithms <br/> 
@@ -34,32 +33,32 @@ permalink: /dasc/callpaper/
 •	Blockchain for trustworthy and secure system design<br/> 
 •	Cryptographic methods for secure computing, storage and communication  <br/> 
 •	Post-quantum cryptography for future-proof security<br/> 
-•	Trust management in distributed and autonomous systems  <br/> 
+•	Trust management in distributed and autonomous systems 
 
-<br/> <h4>Track 3. Autonomic Computing and Self-Adaptive Systems</h4><br/> 
+<h4>Track 3. Autonomic Computing and Self-Adaptive Systems</h4><br/> 
 •	Self-adaptive software architectures for autonomic computing  <br/> 
 •	Adaptive computing, communication, and resource allocation for autonomic systems  <br/> 
 •	Self-healing mechanisms for autonomic systems   <br/> 
 •	Autonomic decision-making under uncertainty  <br/> 
 •	Embodied AI for physical system adaptation  <br/> 
 •	Self-optimization for energy-efficient autonomic systems  <br/> 
-•	Modeling and STV & V of self-adaptive behaviors<br/> 
+•	Modeling and STV & V of self-adaptive behaviors
 
-<br/> <h4>Track 4. AI, Machine Learning, and Advanced Computational Methods</h4><br/> 
+<h4>Track 4. AI, Machine Learning, and Advanced Computational Methods</h4><br/> 
 •	AI-driven threat prediction, anomaly detection, fault detection and diagnosis  <br/> 
 •	Large Language Models (LLMs) for system specification and verification<br/> 
 •	Data platforms leveraging and powering AI <br/> 
 •	Quantum computing applications in dependability analysis  <br/> 
 •	Generative AI for synthetic test case generation<br/> 
 •	Explainable AI for trustworthy autonomic computing<br/> 
-•	Trustworthy and safe AI-empowered systems<br/> 
+•	Trustworthy and safe AI-empowered systems
 
-<br/> <h4>Track 5. Industrial Applications and Case Studies</h4><br/> 
+<h4>Track 5. Industrial Applications and Case Studies</h4><br/> 
 •	Dependability and security solutions in safety-critical control systems in transportation and aerospace industries<br/> 
 •	Autonomous systems in industrial IoT deployments  <br/> 
 •	Case studies on CPS reliability in manufacturing  <br/> 
 •	Lessons learned from autonomous vehicle system deployments  <br/> 
-•	Real-world applications of trustworthy AI in various industrial sectors <br/> 
+•	Real-world applications of trustworthy AI in various industrial sectors 
 
 <!-- <br/>
 <h4>Topics</h4>
