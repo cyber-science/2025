@@ -17,7 +17,8 @@ Hui-Huang Hsu, Tamkang University (Taiwan)
 <h4>Advisory Chairs</h4>
 Qiangfu Zhao, The University of Aizu (Japan)<br>
 Junzhou Luo, Southeast University (China)<br>
-Seng W. Loke, Deakin University (Australia)
+Seng W. Loke, Deakin University (Australia)<br>
+Zengwei Zheng, Hangzhou City University (China)
 
 <h4>General Chairs</h4>
 Xiaohong Jiang, Future University Hakodate (Japan)<br>
@@ -48,7 +49,8 @@ Chaofeng Zhang, Advanced Insti. of Indu. Tech. (Japan)<br>
 Yi-Han Chiang, Osaka Metropolitan University (Japan)<br>
 Fadi Farha, University of Aleppo (Syria)<br>
 Aymen Berini, UAE University (UAE)<br>
-Zhuotao Lian, Hiroshima University (Japan)
+Zhuotao Lian, Hiroshima University (Japan)<br>
+Binbin Zhou, Hangzhou City University  (China)
 
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br>
