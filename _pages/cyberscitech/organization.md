@@ -14,6 +14,7 @@ Kouichi Sakurai, Kyushu University (Japan)
 
 <h4>General Chairs</h4>
 Bernady O. Apduhan, Kyushu Sangyo University (Japan)<br>
+Qing Li, Hong Kong Polytechnic University (Hong Kong)<br>
 Qun Jin, Waseda University (Japan)
 
 <h4>General Executive Chairs</h4>
