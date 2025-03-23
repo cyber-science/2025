@@ -42,7 +42,7 @@ Big Data Cloud and Stream Computing
 Dependable Big Data Processing
 <br/>RFID & Related Technologies for IoT
 <br/>M2M Communications and IoT
-<br/>IoT and Smart City Infrastructures
+<br/>IoT, Smart City and Smart Agriculture
 <br/>Blockchain for Cloud and Big Data
 <br/>Smart Contract/DLT in Cloud and Big Data
 <br/>Data Ownership, Right, Policy and Laws
