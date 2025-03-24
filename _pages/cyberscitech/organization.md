@@ -29,7 +29,6 @@ Gautam Srivastava, Brandon University (Canada) <br>
 Ao Guo, Nagoya University (Japan)
 
 <h4>Program Co-Chairs</h4>
-Yuji Suga, Internet Initiative Japan (Japan)<br>
 Yan Huang, Kennesaw State University (USA)<br>
 Xiaoyan Wang, Ibaraki University (Japan)<br>
 Weimin Li, Shanghai University (Japan)<br>
