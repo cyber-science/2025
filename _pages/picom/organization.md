@@ -35,7 +35,9 @@ Federico Santoro, University of Catania (Italy)<br>
 Marco Miozzo, CTTC (Spain)<br>
 Claudio Savaglio, University of Calabria (Italy)<br>
 Rebeca Motta, Universidade Federal Fluminense (Brazil)<br>
-Andrea Vinci, ICAR-CNR (Italy)
+Andrea Vinci, ICAR-CNR (Italy)<br>
+Ao Guo, Nagoya University (Japan)
+
 
 <h4>Workshop & Special Session Chair</h4>
 Irfanullah Khan, University of Glasgow (UK)
@@ -46,8 +48,7 @@ Wei Li, The University of Sydney (Australia)<br>
 Gwanggil Jeon, Incheon National University (Korea)<br>
 Antonino Galletta, University of Messina (Italy)<br>
 Celimuge Wu, The University of Electro-Communications (Japan)<br>
-Endang Djuana, Universitas Trisakti (Indonesia)<br>
-Zhuotao Lian, Hiroshima University (Japan)
+Endang Djuana, Universitas Trisakti (Indonesia)
 
 <h4>Advisory Committee</h4>
 Giancarlo Fortino, University of Calabria (Italy)<br>
@@ -56,7 +57,8 @@ Moayad Aloqaily, MBZUAI (UAE)<br>
 Chuan-Yu Chang, National Yunlin University of Science and Technology (Taiwan)<br>
 Nicolas Tsapatsoulis, Cyprus University of Technology (Cyprus)<br>
 D. Frank Hsu, Fordham University (USA)<br>
-Hui-huang Hsu, Tamkang University (Taiwan)
+Hui-huang Hsu, Tamkang University (Taiwan)<br>
+Victor Chang, Aston University (UK)
 
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br>
