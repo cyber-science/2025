@@ -78,10 +78,10 @@ The track covers all the topics but it is aimed at
 <br/>either papers that have an original but not fully
 <br/>validated proposal.
 <!-- The track covers all the topics but it is aimed at 
-<br/>either papers that have an original but not fully
-<br/>validated proposal (WiP) or present a breakthrough, a
-<br/>new vision or an out of the box idea on the field to be
-<br/>discussed at the conference (LBI). -->
+	  either papers that have an original but not fully
+	  validated proposal (WiP) or present a breakthrough, a
+	  new vision or an out of the box idea on the field to be
+	  discussed at the conference (LBI). -->
 
 
 <h4>Workshop/Special Session Tracks</h4>
