@@ -30,7 +30,7 @@ Claudio Miceli, Federal University of Rio de Janeiro (Brazil)<br>
 Ao Guo, Nagoya University (Japan)<br>
 Lidia Fotia, University of Salerno (Italy)
 
-<h4>Track Chair</h4>
+<h4>Track Chairs</h4>
 Federico Santoro, University of Catania (Italy)<br>
 Marco Miozzo, CTTC (Spain)<br>
 Claudio Savaglio, University of Calabria (Italy)<br>
@@ -42,13 +42,14 @@ Ao Guo, Nagoya University (Japan)
 <h4>Workshop & Special Session Chair</h4>
 Irfanullah Khan, University of Glasgow (UK)
 
-<h4>Publicity Chair</h4>
+<h4>Publicity Chairs</h4>
 Sun Jingtao, Hitachi (Japan)<br>
 Wei Li, The University of Sydney (Australia)<br>
 Gwanggil Jeon, Incheon National University (Korea)<br>
 Antonino Galletta, University of Messina (Italy)<br>
 Celimuge Wu, The University of Electro-Communications (Japan)<br>
-Endang Djuana, Universitas Trisakti (Indonesia)
+Endang Djuana, Universitas Trisakti (Indonesia)<br>
+Zhuotao Lian, Hiroshima University (Japan)
 
 <h4>Advisory Committee</h4>
 Giancarlo Fortino, University of Calabria (Italy)<br>
