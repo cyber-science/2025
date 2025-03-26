@@ -39,23 +39,21 @@ Some papers originally submitted as full papers and based on review results can 
 Authors of accepted poster papers will be required to prepare and submit the camera-ready version of the paper for inclusion in the conference proceedings. Moreover, the authors are required to prepare the poster (format will be announced later) for its presentation at the conference. 
 </p><p>
 <h4> Page Limit Guidelines</h4>
-For the camera-ready version, the maximum page limits are:
+<p>For the camera-ready version, the maximum page limits are:</p>
 <ul>
  <li><b>8 pages</b> for Regular papers</li>
  <li><b>6 pages</b> for WiP, Workshop, and Special Session papers</li>
  <li><b>4 pages</b> for Poster papers</li>
 </ul>
 
-Authors may purchase up to 2 additional pages per paper with an additional charge of $100 per extra page:
+<p>Authors may purchase up to 2 additional pages per paper at an additional charge of <b>$100 per extra page</b>:</p>
 <ul>
-<li>Up to 10 pages for Regular papers</li>
-<li>Up to 8 pages for WiP, Workshop, and Special Session papers</li>
-<li>Up to 6 pages for Poster papers</li>
+  <li>Up to <b>10 pages</b> for Regular papers</li>
+  <li>Up to <b>8 pages</b> for WiP, Workshop, and Special Session papers</li>
+  <li>Up to <b>6 pages</b> for Poster papers</li>
 </ul>
  <!-- Submission to Late Breaking Innovation Tracks: <b>4-8</b> pages<br> -->
 </p>
 
  <!-- <div style="border: 2px solid; padding: 10px 10px 10px 10px;">
 Please note that for the camera-ready version, the page limit is <b>8 pages</b> for regular papers, <b>6 pages</b> for WiP/workshop/SS papers, and <b>4 pages</b> for poster papers. However, a maximum of two extra pages per paper is allowed (i.e., up to <b>10 pages</b> for regular papers, up to <b>8 pages</b> for WiP/workshop/SS papers, or up to <b>6 pages</b> for poster papers), at an additional charge of $100 per extra page. -->
-</div>
-</p>
