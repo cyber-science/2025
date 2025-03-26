@@ -10,9 +10,9 @@ permalink: /picom/papersubmissions/
 <p>
 <h4>Submission Instructions</h4>
 <ul>
- <li>Regular Track Submissions: Minimum <b> 6 pages</b><br>
- <li>WiP/Workshop/Special Session Track Submissions: Minimum <b>4 pages</b><br>
- <li>Poster Track Submissions: Minimum  <b>2 pages</b><br>
+ <li>Regular Track Submissions: Minimum <b> 6 pages</b></li>
+ <li>WiP/Workshop/Special Session Track Submissions: Minimum <b>4 pages</b></li>
+ <li>Poster Track Submissions: Minimum  <b>2 pages</b></li>
  <!-- Submission to Late Breaking Innovation Tracks: <b>4-8</b> pages<br> -->
  </ul>
 </p>
@@ -41,16 +41,16 @@ Authors of accepted poster papers will be required to prepare and submit the cam
 <h4> Page Limit Guidelines</h4>
 For the camera-ready version, the maximum page limits are:
 <ul>
- <li><b>8 pages</b> for Regular papers<br>
- <li><b>6 pages</b> for WiP, Workshop, and Special Session papers<br>
- <li><b>4 pages</b> for Poster papers<br>
+ <li><b>8 pages</b> for Regular papers</li>
+ <li><b>6 pages</b> for WiP, Workshop, and Special Session papers</li>
+ <li><b>4 pages</b> for Poster papers</li>
 </ul>
 
 Authors may purchase up to 2 additional pages per paper with an additional charge of $100 per extra page:
 <ul>
-<li>Up to 10 pages for Regular papers<br>
-<li>Up to 8 pages for WiP, Workshop, and Special Session papers<br>
-<li>Up to 6 pages for Poster papers<br>
+<li>Up to 10 pages for Regular papers</li>
+<li>Up to 8 pages for WiP, Workshop, and Special Session papers</li>
+<li>Up to 6 pages for Poster papers</li>
 </ul>
  <!-- Submission to Late Breaking Innovation Tracks: <b>4-8</b> pages<br> -->
 </p>
