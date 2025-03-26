@@ -73,15 +73,12 @@ ML for resource allocation at the Edge
 <h4 style="font-weight: bold">For WiP/Workshop/Special Session Papers<h4>
 <hr/>
 
-<h4>WiP (Work-in-Porgress) Track</h4>
+<h4>WiP (Work-in-Porgress) and Late Breaking Innovation (LBI)</h4>
 The track covers all the topics but it is aimed at 
 <br/>either papers that have an original but not fully
-<br/>validated proposal.
-<!-- The track covers all the topics but it is aimed at 
-	  either papers that have an original but not fully
-	  validated proposal (WiP) or present a breakthrough, a
-	  new vision or an out of the box idea on the field to be
-	  discussed at the conference (LBI). -->
+<br/>validated proposal (WiP) or present a breakthrough, a
+<br/>new vision or an out of the box idea on the field to be
+<br/>discussed at the conference (LBI).
 
 
 <h4>Workshop/Special Session Tracks</h4>
