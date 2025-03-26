@@ -47,8 +47,8 @@ Please use 'CyberSciTech 2025 Workshop-SS Proposal' as the email subject. Accept
 - Keping Yu, Hosei University (Japan) < keping DOT yu DOT 47 AT hosei DOT ac DOT jp >
 
 <b>Important Dates:</b><br/>
-- Workshop/SS Proposal Due: May 10, 2025
-- WiP/Poster/Wksp/SS Paper Due: June 20, 2025
+- Workshop/SS Proposal Due: June 06, 2025
+- WiP/Poster/Wksp/SS Paper Due: June 27, 2025
 - Author Notification: August 11, 2025
 - Paper Registration Due: September 5, 2025
 - Camera-ready Submission: September 12, 2025

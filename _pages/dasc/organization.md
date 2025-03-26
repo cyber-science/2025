@@ -10,7 +10,7 @@ permalink: /dasc/organization/
 <h4>Honorary Chair</h4>
 Tadashi Dohi, Hiroshima University (Japan)
 
-<h4>General Chair</h4>
+<h4>General Chairs</h4>
 Naohiro Hayashibara, Kyoto Sangyo University (Japan)<br>
 Moayad Aloqaily, Mohamed Bin Zayed University (UAE)
 

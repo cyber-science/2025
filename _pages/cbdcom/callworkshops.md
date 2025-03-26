@@ -46,7 +46,7 @@ Please use 'CBDCom 2025 Workshop-SS Proposal' as the email subject. Accepted pro
 - Chaker Kerrache, University of Laghouat, Japan (Algeria) < ch DOT kerrache AT lagh-univ DOT dz >
 
 <b>Important Dates:</b><br/>
-- Workshop/SS Proposal Due: May 10, 2025
+- Workshop/SS Proposal Due: May 20, 2025
 - WiP/Workshop/SS Paper Due: June 20, 2025
 - Author Notification: August 11, 2025
 - Paper Registration Due: September 5, 2025
