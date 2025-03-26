@@ -23,7 +23,8 @@ Xiaohong Jiang, Future University Hakodate (Japan)
 
 <h4>Advisory Chairs</h4>
 Jinhua She, Tokyo University of Technology (Japan)<br>
-Paulo de Figueiredo Pires, Dell (Brazil)
+Paulo de Figueiredo Pires, Dell (Brazil)<br>
+Chuan-Yu Chang, National Yunlin University of Science and Technology (Taiwan)
 
 <h4>Program Chairs</h4>
 Claudio Miceli, Federal University of Rio de Janeiro (Brazil)<br>
@@ -38,12 +39,11 @@ Rebeca Motta, Universidade Federal Fluminense (Brazil)<br>
 Andrea Vinci, ICAR-CNR (Italy)<br>
 Ao Guo, Nagoya University (Japan)
 
-
 <h4>Workshop & Special Session Chair</h4>
 Irfanullah Khan, University of Glasgow (UK)
 
 <h4>Publicity Chairs</h4>
-Sun Jingtao, Hitachi (Japan)<br>
+Jingtao Sun, Hitachi (Japan)<br>
 Wei Li, The University of Sydney (Australia)<br>
 Gwanggil Jeon, Incheon National University (Korea)<br>
 Antonino Galletta, University of Messina (Italy)<br>
@@ -55,7 +55,6 @@ Zhuotao Lian, Hiroshima University (Japan)
 Giancarlo Fortino, University of Calabria (Italy)<br>
 Samee U. Khan, Mississippi State University (USA)<br>
 Moayad Aloqaily, MBZUAI (UAE)<br>
-Chuan-Yu Chang, National Yunlin University of Science and Technology (Taiwan)<br>
 Nicolas Tsapatsoulis, Cyprus University of Technology (Cyprus)<br>
 D. Frank Hsu, Fordham University (USA)<br>
 Hui-huang Hsu, Tamkang University (Taiwan)<br>
