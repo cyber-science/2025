@@ -39,8 +39,9 @@ Rebeca Motta, Universidade Federal Fluminense (Brazil)<br>
 Andrea Vinci, ICAR-CNR (Italy)<br>
 Ao Guo, Nagoya University (Japan)
 
-<h4>Workshop & Special Session Chair</h4>
-Irfanullah Khan, University of Glasgow (UK)
+<h4>Workshop & Special Session Chairs</h4>
+Irfanullah Khan, University of Glasgow (UK)<br>
+Wenjing Zhao, University of Glasgow (UK)
 
 <h4>Publicity Chairs</h4>
 Jingtao Sun, Hitachi (Japan)<br>
