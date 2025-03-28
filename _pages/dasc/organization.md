@@ -33,7 +33,7 @@ Paramin Sangwongngam, National Electronics and Computer Technology Center (Thail
 
 
 <h4>WiP/LBI/Poster Session Chairs</h4>
-Junichi Funasaka, Hiroshima University (Japan)<br>
+Junichi Funasaka, Hiroshima City University (Japan)<br/>
 Songpon Teerakanok, Mahidol University (Thailand) 
 
 
