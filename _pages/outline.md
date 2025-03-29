@@ -88,7 +88,7 @@ permalink: /outline/
           <td>Opening and Plenary Sessions</td>
         </tr>
         <tr>
-          <td>Afrernoon</td>
+          <td>Afternoon</td>
           <td>Parallel Sessions</td>
         </tr>
         <tr>
@@ -108,7 +108,7 @@ permalink: /outline/
           <td>Plenary Sessions</td>
         </tr>
         <tr>
-          <td>Afrernoon</td>
+          <td>Afternoon</td>
           <td>Parallel Sessions</td>
         </tr>
         <tr>
