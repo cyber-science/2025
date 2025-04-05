@@ -33,8 +33,8 @@ Yutaka Watanobe, The University of Aizu (Japan)<br>
 Yan Huang, Kennesaw State University (USA)<br>
 Xiaoyan Wang, Ibaraki University (Japan)<br>
 Weimin Li, Shanghai University (Japan)<br>
-Xiaokun Zhang, Athabasca University (Canada)<br>
 S.Leili Mirtaheri, University of Calabria (Italy)<br>
+Xiaokun Zhang, Athabasca University (Canada)<br>
 Lai Tu, Huazhong University of Sci. & Tech. (China)
 
 <h4>Workshop & Special Session Chairs</h4>
