@@ -23,7 +23,7 @@ TBA
 
 <p><font color="red"><b>Important: The camera-ready submission will be made through IEEE CPS (Conference Publishing Services), NOT EDAS! </b></font></p>
 <p>
-Please read the following notice before uploading your paper (for 2024 CyberSciTech, PICom, DASC, CBDCom, and all associated workshops/special sessions). The page limits are:
+Please read the following notice before uploading your paper (for 2024 CyberSciTech, DASC, PICom, CBDCom, and all associated workshops/special sessions). The page limits are:
   </p>
 <p>
 <ol><li>Regular Papers: 8 + 2 extra pages for purchase, $100 (US)  per extra page 

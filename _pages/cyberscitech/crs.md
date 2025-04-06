@@ -11,7 +11,7 @@ permalink: /cyberscitech/crs/
 
 <p><font color="red"><b>Important: The camera-ready submission will be made through IEEE CPS (Conference Publishing Services), NOT EDAS! </b></font></p>
 <p>
-Please read the following notice before uploading your paper (for 2022 CyberSciTech, PICom, DASC, CBDCom, and all associated workshops/special sessions). 
+Please read the following notice before uploading your paper (for 2022 CyberSciTech, DASC, PICom, CBDCom, and all associated workshops/special sessions). 
   </p><p>
 <ol><li>The page limits are: Regular Papers: 8 + 2 extra pages for purchase, $80 (US)  per extra page 
   </li><li>WiP/Special Session/Workshop Papers: 6 + 2 extra pages for purchase, $80 (US)  per extra page
