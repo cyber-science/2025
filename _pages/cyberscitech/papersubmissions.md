@@ -19,7 +19,7 @@ permalink: /cyberscitech/papersubmissions/
 </p>
 
 <p>Authors are invited to submit their original research work that has not been previously submitted or published in any other venue. All regular, Work-in-Progress (WiP), workshop, special session, and poster papers must be submitted via EDAS system.
-<!-- (<a href="https://edas.info/N32365" target =_new>https://edas.info/N32365</a>). -->
+(<a href="https://edas.info/N33760" target =_new>https://edas.info/N33760</a>).
 </p><p>
 <ul>
 <li><b>Regular papers</b> should present substantial, original, completed and unpublished work. Wherever applicable, concrete evaluation and/or analysis should be included.</li>
