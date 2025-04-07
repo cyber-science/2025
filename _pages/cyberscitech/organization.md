@@ -35,7 +35,8 @@ Xiaoyan Wang, Ibaraki University (Japan)<br>
 Weimin Li, Shanghai University (Japan)<br>
 S.Leili Mirtaheri, University of Calabria (Italy)<br>
 Xiaokun Zhang, Athabasca University (Canada)<br>
-Lai Tu, Huazhong University of Sci. & Tech. (China)
+Lai Tu, Huazhong University of Sci. & Tech. (China)<br>
+Lingling Fang, Liaoning Normal University (China)
 
 <h4>Workshop & Special Session Chairs</h4>
 Pan Wang, Univ. of Posts & Telecomm. (China)<br>
@@ -96,4 +97,5 @@ Bofeng Zhang, Shanghai Polytechnic University (China)<br>
 Yanchun Zhang, Victoria University (Australia)<br>
 Qiangfu Zhao, The University of Aizu (Japan)<br>
 Qinggou Zhou, Lanzhou University (China)<br>
-John Paul C. Vergara, Ateneo de Manila University (Philippines)
+John Paul C. Vergara, Ateneo de Manila University (Philippines)<br>
+WeiLu, Beijing Jiaotong University (China)
