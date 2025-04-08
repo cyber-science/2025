@@ -24,7 +24,7 @@ Zonghua Zhang, CRSC Co. (China)
 
 <h4>Program Co-chairs</h4>
 Junjun Zheng, Hiroshima University (Japan)<br>
-Luis Gallen, Tohoku University (Japan)<br>
+Luis Guillen, Tohoku University (Japan)<br>
 Thomas TY Win, University of Sunderland (UK)
 
 <h4>Workshop & Special Session Chairs</h4>
