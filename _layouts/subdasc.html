@@ -1,34 +1,38 @@
----
----
-
 <!DOCTYPE html>
 <html lang="en">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   {% include head.html %}
-<body>
-  {% include navdasc.html %} {% include headerdasc.html %}
-  <!-- Page Content -->
-  <div class="container-fluid mb-5">
-    <div class="w-90 mx-auto">
-      <div class="row">
-        <div class="col-md-8 mb-5">
-          <div class="row">
+  <style>
+    .custom-wrapper {
+      width: 90%;
+      margin: 0 auto;
+    }
+  </style>
+
+  <body>
+    {% include navdasc.html %}
+    {% include headerdasc.html %}
+
+    <!-- Page Content -->
+    <div class="container-fluid mb-5">
+      <div class="custom-wrapper">
+        <div class="row">
+          <!-- 左栏 -->
+          <div class="col-md-8 mb-5">
             {{ content }}
           </div>
+          <!-- 右栏 -->
+          <div class="col-md-4">
+            {% include sidebardasc.html %}
+          </div>
         </div>
-        {% include sidebardasc.html %}
       </div>
     </div>
-  </div>
 
-</div>
-  <!-- /.container -->
-  {% include footer.html %}
+    {% include footer.html %}
 
-  <!-- Bootstrap core JavaScript -->
-  <script src="{{ site.baseurl }}/assets/vendor/jquery/jquery.min.js"></script>
-  <script src="{{ site.baseurl }}/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-</body>
-
+    <script src="{{ site.baseurl }}/assets/vendor/jquery/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  </body>
 </html>
