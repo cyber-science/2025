@@ -19,8 +19,9 @@ permalink: /dasc/
   .content-text p {
     margin-bottom: 1rem;
   }
-  .content-text b {
-  font-weight: 700;
+.content-text b, 
+.content-text strong {
+  font-weight: bold;
 }
 </style>
 
