@@ -18,12 +18,8 @@ permalink: /dasc/
   .content-text p {
     margin-bottom: 1rem;
   }
-
   .content-text b {
-    font-weight: 600;
-  }
-  .content-text b {
-  font-weight: bold;
+  font-weight: 700;
 }
 </style>
 
