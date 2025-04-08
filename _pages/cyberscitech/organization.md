@@ -98,4 +98,4 @@ Yanchun Zhang, Victoria University (Australia)<br>
 Qiangfu Zhao, The University of Aizu (Japan)<br>
 Qinggou Zhou, Lanzhou University (China)<br>
 John Paul C. Vergara, Ateneo de Manila University (Philippines)<br>
-WeiLu, Beijing Jiaotong University (China)
+Wei Lu, Beijing Jiaotong University (China)
