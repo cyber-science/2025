@@ -6,14 +6,36 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   {% include head.html %}
+
+  <style>
+    .w-90 {
+      width: 90%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    @media (min-width: 1200px) {
+      .w-90 {
+        max-width: 1400px;
+      }
+    }
+  </style>
+
 <body>
   {% include navdasc.html %} {% include headerdasc.html %}
   <!-- Page Content -->
+
   <div class="container-fluid mb-5">
-    <div class="w-90 mx-auto">
+    <div class="w-90">
       <div class="row">
-        <div class="col-md-8">{{ content }}</div>
-        <div class="col-md-4">{% include sidebardasc.html %}</div>
+        <!-- 左侧正文内容 -->
+        <div class="col-md-8 mb-5">
+          {{ content }}
+        </div>
+
+        <!-- 右侧 Sidebar -->
+        <div class="col-md-4">
+          {% include sidebardasc.html %}
+        </div>
       </div>
     </div>
   </div>
