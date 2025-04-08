@@ -4,9 +4,9 @@
   {% include head.html %}
 
   <style>
-    .outer-wrapper {
-      padding-left: 5vw;
-      padding-right: 5vw;
+    .content-wrapper {
+      max-width: 90%;
+      margin: 0 auto;
     }
   </style>
 
@@ -15,8 +15,8 @@
     {% include headerdasc.html %}
 
     <!-- Page Content -->
-    <div class="outer-wrapper">
-      <div class="container mb-5">
+    <div class="container-fluid mb-5">
+      <div class="content-wrapper">
         <div class="row">
           <div class="col-md-8 mb-5">
             {{ content }}
