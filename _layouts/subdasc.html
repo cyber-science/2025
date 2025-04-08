@@ -10,17 +10,17 @@
   {% include navdasc.html %} {% include headerdasc.html %}
   <!-- Page Content -->
   <div class="container mb-5">
-    <div class="row no-gutters"> <!-- 1. 取消 Bootstrap 默认列间距 -->
+    <div class="row no-gutters">
       
-      <!-- 左侧正文内容 -->
-      <div class="col-md-7 pr-md-4 mb-5">
+      <!-- 左侧正文内容：靠左，右边有一点间距 -->
+      <div class="col-md-7 pr-md-4 mb-5"> <!-- pr-md-4 添加右间距 -->
         <div class="row">
           {{ content }}
         </div>
       </div>  
   
-      <!-- 右侧 Sidebar -->
-      <div class="col-md-5 pl-md-3">
+      <!-- 右侧 Sidebar：左边加点 padding，不贴正文 -->
+      <div class="col-md-5 pl-md-4">
         {% include sidebardasc.html %}
       </div>
   
