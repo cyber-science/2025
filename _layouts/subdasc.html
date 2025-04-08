@@ -10,20 +10,18 @@
   {% include navdasc.html %} {% include headerdasc.html %}
   <!-- Page Content -->
   <div class="container mb-5">
-    <div class="row no-gutters"> <!-- 移除默认间隔 -->
+    <div class="row">
+  <div class="col-md-8 mb-5">
+    <div class="row">
   
-      <!-- 正文栏，稍微缩一点，右侧多留点空间 -->
-      <div class="col-md-7 pr-3">
-        {{ content }}
-      </div>
-  
-      <!-- 右边栏，拓宽至 5 栅格，左边贴近正文 -->
-      <div class="col-md-5">
-        {% include sidebardasc.html %}
-      </div>
-  
-    </div>
-  </div>
+    {{ content }}
+  </div></div>  
+  {% include sidebardasc.html %}
+
+  </div></div>
+</div>
+  <!-- /.container -->
+  {% include footer.html %}
 
   <!-- Bootstrap core JavaScript -->
   <script src="{{ site.baseurl }}/assets/vendor/jquery/jquery.min.js"></script>
