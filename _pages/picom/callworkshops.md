@@ -35,10 +35,10 @@ A single pdf file with all the material described above should be prepared. Plea
 <br/>
 
 <b>Workshop/Special Session Chairs:</b><br/>
-- Irfanullah Khan, University of Glasgow, UK
+- Irfanullah Khan, University of Glasgow, UK <br>
 < <a href="mailto:Irfanullah.Khan@glasgow.ac.uk"><u>Irfanullah.Khan@glasgow.ac.uk</u></a> >
 
-- Wenjing Zhao, University of Glasgow, UK 
+- Wenjing Zhao, University of Glasgow, UK <br>
 < <a href="mailto:wenjing.zhao@glasgow.ac.uk"><u>wenjing.zhao@glasgow.ac.uk</u></a> >
 
 <b>Important Dates:</b><br/>
