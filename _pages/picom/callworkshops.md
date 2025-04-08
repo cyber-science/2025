@@ -44,4 +44,5 @@ A single pdf file with all the material described above should be prepared. Plea
 - Workshop/Special Session Paper Due: June 20, 2025
 - Authors Notification: July 30, 2025
 - Camera-ready Submission: September 12, 2025
+
 <b><u>Acceptance will be notified within a couple of days after the proposal submission.</u></b>
