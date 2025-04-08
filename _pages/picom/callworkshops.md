@@ -35,8 +35,9 @@ A single pdf file with all the material described above should be prepared. Plea
 <br/>
 
 <b>Workshop/Special Session Chairs:</b><br/>
-- Irfanullah Khan, University of Glasgow (UK) < Irfanullah DOT Khan AT glasgow DOT ac DOT uk  >
-- Wenjing Zhao, University of Glasgow, (UK) < Wenjing DOT Zhao AT glasgow DOT ac DOT uk >
+- Irfanullah Khan, University of Glasgow (UK) <<a href="mailto:Irfanullah.Khan@glasgow.ac.uk"><u>Irfanullah.Khan@glasgow.ac.uk</u></a>>
+
+- Wenjing Zhao, University of Glasgow, (UK) <<a href="mailto:wenjing.zhao@glasgow.ac.uk"><u>wenjing.zhao@glasgow.ac.uk</u></a>>
 
 <b>Important Dates:</b><br/>
 - Workshop/Special Session Proposal Due: May 20, 2025
