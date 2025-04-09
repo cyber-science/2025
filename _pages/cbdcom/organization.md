@@ -39,7 +39,7 @@ Kazuzhisa Matsuzono, NICT (Japan)
 Ryohei Banno, Hitotsubashi University (Japan)<br>
 Wei Li, Southeast University (China)<br>
 Gerard Marks, Dublin City University (Ireland)<br>
-Siyang Lu, Beijing Jiaotong University(China)
+Siyang Lu, Beijing Jiaotong University (China)
 
 <h4>Workshop & Special Session Chairs</h4>
 Xin Qi, Waseda University (Japan) <br>
