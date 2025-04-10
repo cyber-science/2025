@@ -61,11 +61,12 @@ Anna Kobusińska, Poznań University of Technology (Poland)<br>
 Peng Li, Xi'An Jiaotong University (China)<br>
 Huansheng Ning, University of Science and Technology Beijing (China)<br>
 Mazin Yousif, T-Systems International (USA)<br>
-Albert Zomaya, The University of Sydney (Australia)<br>
-Xiangfeng Luo, Shanghai University (China)
+Albert Zomaya, The University of Sydney (Australia)
+
 
 <h4>Advisory Committee</h4>
 Noriaki Kamiyama, Ritsumeikan University (Japan)<br>
 Masaki Aida, Tokyo Metropolitan University (Japan)<br>
 Yufeng Wang, Nanjing University of Posts and Telecommunications (China)<br>
-Zengwei Zheng, Hangzhou City University (China)
+Zengwei Zheng, Hangzhou City University (China)<br>
+Xiangfeng Luo, Shanghai University (China)
