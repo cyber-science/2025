@@ -6,6 +6,7 @@ permalink: /dasc/
 
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
 
 <style>
   .content-text {
@@ -23,6 +24,21 @@ permalink: /dasc/
 .content-text strong {
   font-weight: bold;
 }
+
+@media (max-width: 768px) {
+    .content-text {
+      font-size: 0.95rem;         /* 字体略小 */
+      line-height: 1.5;           /* 行距更紧凑 */
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+.content-text {
+    font-weight: 300;
+  }
+    .content-text p {
+      margin-bottom: 0.8rem;     /* 段间距更紧 */
+    }
+  }
 </style>
 
 <div class="row">
