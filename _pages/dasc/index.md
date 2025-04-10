@@ -10,9 +10,9 @@ permalink: /dasc/
 
 <style>
   .content-text {
-    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    /* font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 1rem; /* 约等于 16px */
-    line-height: 1.6;
+    line-height: 1.6; */
     color: #212529;
     text-align: justify;
   }
