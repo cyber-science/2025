@@ -51,7 +51,8 @@ Yi-Han Chiang, Osaka Metropolitan University (Japan)<br>
 Fadi Farha, University of Aleppo (Syria)<br>
 Aymen Berini, UAE University (UAE)<br>
 Zhuotao Lian, Hiroshima University (Japan)<br>
-Binbin Zhou, Hangzhou City University  (China)
+Binbin Zhou, Hangzhou City University (China)<br>
+Kai Su, Jiangxi Agricultural University (China)
 
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br>
