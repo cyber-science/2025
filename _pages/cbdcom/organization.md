@@ -33,7 +33,8 @@ Xun Shao, Toyohashi University of Technology (Japan)
 <h4>Program Chairs</h4>
 David Tanier, Monash University (Australia)<br>
 Sahraoui Dhelim, Dublin City University (Ireland)<br>
-Kazuzhisa Matsuzono, NICT (Japan)
+Kazuzhisa Matsuzono, NICT (Japan)<br>
+Yuanlong Cao, Jiangxi Normal University (China)
 
 <h4>Program Co-Chairs</h4>
 Ryohei Banno, Hitotsubashi University (Japan)<br>
