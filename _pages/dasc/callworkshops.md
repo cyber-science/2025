@@ -39,8 +39,10 @@ A single pdf file with all the material described above should be prepared. Plea
 Please use 'DASC 2025 Workshop-SS Proposal' as the email subject. Accepted proposals should follow strictly the important dates, particularly paper notification and camera-ready dates listed below.
 <br/>
 
-<b>Workshop/SS Chairs:</b><br/>
-- Noriaki Kamiyama, Ritsumeikan University, Japan < Kamiaki DOT fc DOT ritsumei DOT ac DOT jp>
+<b>Workshop/Special Session Chairs:</b><br/>
+- Noriaki Kamiyama, Ritsumeikan University, Japan <br>
+< <a href="mailto:kamiaki@fc.ritsumei.ac.jp"><u>kamiaki@fc.ritsumei.ac.jp</u></a> >
+
 
 <b>Important Dates:</b><br/>
 - Workshop/SS Proposal Due: May 10, 2025

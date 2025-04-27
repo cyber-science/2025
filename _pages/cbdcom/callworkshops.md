@@ -41,9 +41,13 @@ A single pdf file with all the material described above should be prepared. Plea
 Please use 'CBDCom 2025 Workshop-SS Proposal' as the email subject. Accepted proposals should follow strictly the important dates, particularly paper notification and camera-ready dates listed below.
 <br/>
 
-<b>Workshop/SS Chairs:</b><br/>
-- Xin Qi, Waseda University, Japan (Japan) < samqixin AT aoni DOT waseda DOT jp>
-- Chaker Kerrache, University of Laghouat, Japan (Algeria) < ch DOT kerrache AT lagh-univ DOT dz >
+<b>Workshop/Special Session Chairs:</b><br/>
+- Xin Qi, Waseda University, Japan <br>
+< <a href="mailto:samqixin@aoni.waseda.jp"><u>samqixin@aoni.waseda.jp</u></a> >
+
+- Chaker Kerrache, University of Laghouat, Algeria <br>
+< <a href="mailto:ch.kerrache@lagh-univ.dz"><u>ch.kerrache@lagh-univ.dz</u></a> >
+
 
 <b>Important Dates:</b><br/>
 - Workshop/SS Proposal Due: May 20, 2025

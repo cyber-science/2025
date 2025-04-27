@@ -42,7 +42,7 @@ Please use 'CyberSciTech 2025 Workshop-SS Proposal' as the email subject. Accept
 <br/>
 
 <b>Workshop/Special Session Chairs:</b><br/>
-- Pan Wang, Univ. of Posts & Telecomm. (China) <br>
+- Pan Wang, Univ. of Posts & Telecomm., China <br>
 < <a href="mailto:wangpan@njupt.edu.cn"><u>wangpan@njupt.edu.cn</u></a> >
 
 - Yegang Du, Tohoku University, Japan <br>
