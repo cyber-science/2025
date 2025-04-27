@@ -41,10 +41,12 @@ A single pdf file with all the material described above should be prepared. Plea
 Please use 'CyberSciTech 2025 Workshop-SS Proposal' as the email subject. Accepted proposals should follow strictly the important dates, particularly paper notification and camera-ready dates listed below.
 <br/>
 
-<b>Workshop/SS Chairs:</b><br/>
-- Amjad Gawanmeh, University of Dubai (UAE) < agawanmeh AT ud DOT ac DOT ae >
-- Pan Wang, Univ. of Posts & Telecomm. (China) < wangpan AT njupt DOT edu DOT cn >
-- Keping Yu, Hosei University (Japan) < keping DOT yu DOT 47 AT hosei DOT ac DOT jp >
+<b>Workshop/Special Session Chairs:</b><br/>
+- Pan Wang, Univ. of Posts & Telecomm. (China) <br>
+< <a href="mailto:wangpan@njupt.edu.cn"><u>wangpan@njupt.edu.cn</u></a> >
+
+- Yegang Du, Tohoku University, Japan <br>
+< <a href="mailto:yegang.du.b8@tohoku.ac.jp"><u>yegang.du.b8@tohoku.ac.jp</u></a> >
 
 <b>Important Dates:</b><br/>
 - Workshop/SS Proposal Due: June 06, 2025
