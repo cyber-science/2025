@@ -66,7 +66,7 @@ Cyber Life & Human Centric Computing
 <h4 style="font-weight: bold">For WiP/Poster/Workshop/Special Session Papers<h4>
 <hr/>
 
-<h4>WiP (Work-in-Porgress) Track</h4>
+<h4>WiP (Work-in-Progress) Track</h4>
 WiP track covers all the topics for regular papers but it is aimed at  
 <br/>papers that have an original but not fully validated proposal (WiP)
 

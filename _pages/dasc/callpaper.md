@@ -25,13 +25,13 @@ permalink: /dasc/callpaper/
 
 <h4>Track 2. Security, Privacy, and Trust in Systems and Networks</h4>
 •	Intrusion detection, prevention, and mitigation in networked environments
-<br/>•	Security modeling, auditing and compliance in safety-critical systems
+<br/>•	Security modeling, auditing, and compliance in safety-critical systems
 <br/>•	Self-adaptive security architecture, techniques, and algorithms 
 <br/>•	Security protocols for CPS, IoT, and autonomous systems (e.g., vehicles, drones, robots)
 <br/>•	Data protection for networked systems and storage systems
 <br/>•	Privacy-preserving techniques for distributed and autonomous system
 <br/>•	Blockchain for trustworthy and secure system design
-<br/>•	Cryptographic methods for secure computing, storage and communication  
+<br/>•	Cryptographic methods for secure computing, storage, and communication  
 <br/>•	Post-quantum cryptography for future-proof security
 <br/>•	Trust management in distributed and autonomous systems 
 
@@ -78,7 +78,7 @@ Self-Organization and Organic Computing
 <h4 style="font-weight: bold">For WiP/Workshop/Special Session Papers<h4>
 <hr/>
 
-<h4>WiP (Work-in-Porgress) Track</h4>
+<h4>WiP (Work-in-Progress) Track</h4>
 The track covers all the topics for regular papers but it is aimed at  
 <br/>papers that have an original but not fully validated proposal (WiP)
 

@@ -64,7 +64,7 @@ Cloud & Big Data Networking
 <h4 style="font-weight: bold">For WiP/Workshop/Poster/Special Session Papers<h4>
 <hr/>
 
-<h4>WiP (Work-in-Porgress) Track</h4>
+<h4>WiP (Work-in-Progress) Track</h4>
 The track covers all the topics for regular papers but it is aimed at  
 <br/>papers that have an original but not fully validated proposal (WiP)
 
