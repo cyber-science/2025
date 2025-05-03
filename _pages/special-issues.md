@@ -13,14 +13,14 @@ Selected conference articles will be invited to be submitted to the following Sp
 <ol>
 
 
-<li>Special Section on <a href="https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/April_2025/TCE_SS_CFP-Intelligent_Generation_and_Retrieval_for_Consumer_Electronics_-_online.pdf" target=_new><b>Intelligent Generation and Retrieval for Consumer Electronics</b></a> in <i>IEEE Transactions on Consumer Electronics</i>
+<li>Special Section on <a href="https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/April_2025/TCE_SS_CFP-Intelligent_Generation_and_Retrieval_for_Consumer_Electronics_-_online.pdf" target=_new><b><u>Intelligent Generation and Retrieval for Consumer Electronics</u></b></a> in <i>IEEE Transactions on Consumer Electronics</i>
 <br/>
 Guest Editors:
 <br/>
 Prof. Yixiu Liu - Hangzhou Dianzi University, (China), Prof. Zhigao Zheng - Wuhan University (China), Prof. Xiaokang Zhou, Kansai University (Japan), Prof. Haoye Dong - Carnegie Mellon University (USA)
 </li>
 
-<li>Special Section on <a href="https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/April_2025/TCE_SS_CFP_Security-Aware_Distributed_and_Collaborative_Learning_for_Resource-Limited_Consumer_Electronics_-_online.pdf" target=_new><b>Security-Aware Distributed and Collaborative Learning for Resource-Limited Consumer Electronics</b></a> in <i>IEEE Transactions on Consumer Electronics</i>
+<li>Special Section on <a href="https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/April_2025/TCE_SS_CFP_Security-Aware_Distributed_and_Collaborative_Learning_for_Resource-Limited_Consumer_Electronics_-_online.pdf" target=_new><b><u>Security-Aware Distributed and Collaborative Learning for Resource-Limited Consumer Electronics</u></b></a> in <i>IEEE Transactions on Consumer Electronics</i>
 <br/>
 Guest Editors:
 <br/>
@@ -28,7 +28,7 @@ Prof. Chuang Li - Hunan University of Technology and Business (China), Prof. Xia
 </li>
 
 <li>Special Issue on <a href="https://mmbiz.qpic.cn/mmbiz_jpg/GyonpxjaLegk3CQ8jAhyV1VURT22dpiatjNeFkx4oXEiamdrdVojhpiadic908AHYqKZxQMqEickkt3kFqXHYmRib3bw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1
-" target=_new><b>Advanceds in Building Simulation with AI, Deep Learning, and Cyber Intelligence</b></a> in <i>Building Simulation</i>
+" target=_new><b><u>Advanceds in Building Simulation with AI, Deep Learning, and Cyber Intelligence</u></b></a> in <i>Building Simulation</i>
 <br/>
 Organizers:
 Prof. Ke Yan - Human University (China), Prof. Cheng Fan - Shenzhen University (China), Prof. Vincent Gan - National University of Singapore (Singapore), Prof. Bin Yang - Tianjin Chenjian University (China)
