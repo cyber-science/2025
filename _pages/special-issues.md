@@ -27,4 +27,7 @@ Guest Editors:
 Prof. Chuang Li -  Hunan University of Technology and Business (China), Prof. Xiaokang Zhou - Kansai University (Japan), Prof. Keqin Li - State University of New York (USA)
 </li>
 
+<li>Special Issue on <a href="https://mmbiz.qpic.cn/mmbiz_jpg/GyonpxjaLegk3CQ8jAhyV1VURT22dpiatjNeFkx4oXEiamdrdVojhpiadic908AHYqKZxQMqEickkt3kFqXHYmRib3bw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1
+" target=_new><b>Advanceds in Building Simulation with AI, Deep Learning, and Cyber Intelligence</b></a> in Building Simulation <i></i>
+
 </ol>
