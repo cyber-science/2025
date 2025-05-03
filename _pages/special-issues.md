@@ -24,10 +24,15 @@ Prof. Yixiu Liu - Hangzhou Dianzi University, (China), Prof. Zhigao Zheng - Wuha
 <br/>
 Guest Editors:
 <br/>
-Prof. Chuang Li -  Hunan University of Technology and Business (China), Prof. Xiaokang Zhou - Kansai University (Japan), Prof. Keqin Li - State University of New York (USA)
+Prof. Chuang Li - Hunan University of Technology and Business (China), Prof. Xiaokang Zhou - Kansai University (Japan), Prof. Keqin Li - State University of New York (USA)
 </li>
 
 <li>Special Issue on <a href="https://mmbiz.qpic.cn/mmbiz_jpg/GyonpxjaLegk3CQ8jAhyV1VURT22dpiatjNeFkx4oXEiamdrdVojhpiadic908AHYqKZxQMqEickkt3kFqXHYmRib3bw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1
-" target=_new><b>Advanceds in Building Simulation with AI, Deep Learning, and Cyber Intelligence</b></a> in Building Simulation <i></i>
+" target=_new><b>Advanceds in Building Simulation with AI, Deep Learning, and Cyber Intelligence</b></a> in <i>Building Simulation</i>
+<br/>
+Organizers:
+Prof. Ke Yan - Human University (China), Prof. Cheng Fan - Shenzhen University (China), Prof. Vincent Gan - National University of Singapore (Singapore), Prof. Bin Yang - Tianjin Chenjian University (China)
+<br/>
 
+</li>
 </ol>
