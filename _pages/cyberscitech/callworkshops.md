@@ -38,7 +38,9 @@ The proceedings of the IEEE CyberSciTech 2025 workshops will be published by Con
 
 <b>Submissions</b><br/>
 A single pdf file with all the material described above should be prepared. Please email your proposals in PDF format as early as possible to the Workshop Chairs. 
-Please use 'CyberSciTech 2025 Workshop-SS Proposal' as the email subject. Accepted proposals should follow strictly the important dates, particularly paper notification and camera-ready dates listed below.
+Please use 'CyberSciTech 2025 Workshop-SS Proposal' as the email subject. 
+Notification of acceptance or rejection will be provided within one week after the proposal is received.
+Accepted proposals should follow strictly the important dates, particularly paper notification and camera-ready dates listed below.
 <br/>
 
 <b>Workshop/Special Session Chairs:</b><br/>
