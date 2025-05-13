@@ -5,7 +5,7 @@ permalink: /cyberscitech/acceptworkshops/
 ---
 
 
-<h3>Special Sessions - IEEE CyberSciTech 2025</h3>
+<h3>Special Session - IEEE CyberSciTech 2025</h3>
 <hr>
 <ol>
 <li><a href="/2025/assets/files/ws-ss/cst/CyberIC2025_CFP.pdf" target="_new"><u>Special Session on Computing and Applications for Cyber Internet of Things (Cyber-IoT 2025)</u></a></li>
