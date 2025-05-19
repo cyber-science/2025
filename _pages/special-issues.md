@@ -27,12 +27,22 @@ Guest Editors:
 Prof. Chuang Li - Hunan University of Technology and Business (China), Prof. Xiaokang Zhou - Kansai University (Japan), Prof. Keqin Li - State University of New York (USA)
 </li>
 
-<li>Special Issue on <a href="https://mmbiz.qpic.cn/mmbiz_jpg/GyonpxjaLegk3CQ8jAhyV1VURT22dpiatjNeFkx4oXEiamdrdVojhpiadic908AHYqKZxQMqEickkt3kFqXHYmRib3bw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1
-" target=_new><b><u>Advanceds in Building Simulation with AI, Deep Learning, and Cyber Intelligence</u></b></a> in <i>Building Simulation</i>
+<li>Special Issue on <a href="https://mmbiz.qpic.cn/mmbiz_jpg/GyonpxjaLegk3CQ8jAhyV1VURT22dpiatjNeFkx4oXEiamdrdVojhpiadic908AHYqKZxQMqEickkt3kFqXHYmRib3bw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1" target=_new><b><u>Advanceds in Building Simulation with AI, Deep Learning, and Cyber Intelligence</u></b></a> in <i>Building Simulation</i>
 <br/>
 Organizers:
 Prof. Ke Yan - Human University (China), Prof. Cheng Fan - Shenzhen University (China), Prof. Vincent Gan - National University of Singapore (Singapore), Prof. Bin Yang - Tianjin Chenjian University (China)
-<br/>
-
 </li>
+
+<li>Special Issue on <a href="https://www.emeraldgrouppublishing.com/calls-for-papers/collaborative-intelligence-and-edge-ai-integration-cyber-physical-social-systems" target=_new><b><u>Collaborative Intelligence and Edge-AI Integration in Cyber-Physical-Social Systems</u></b></a> in <i>International Journal of Pervasive Computing and Communications</i>
+<br/>
+Guest Editors:
+Prof. Xun Shao - Toyohashi University of Technology (Japan), Prof. Sahraoui Dhelim - Dublin City University (Ireland), Prof. Chaker Abdelaziz KERRACHE - University of Laughouat (Algeria)
+</li>
+
+<li>Special Issue on <a href="https://ieee-jsas.org/wp-content/uploads/2025/05/IEEE-JSAS-Special-Section-CFP_Edge-Intelligence.pdf" target=_new><b><u>Edge Intelligence in the Era of Large AI Models: Toward Efficient and Sustainable IoT Sensor Systems</u></b></a> in <i>IEEE Journal of Selected Areas in Sensors</i>
+<br/>
+Guest Editors:
+Prof. Xun Shao - Toyohashi University of Technology (Japan), Prof. Reza Malekian - Malmö University (Sweden), Prof. Kui Wu - University of Victoria (Canada), Prof. Binbin Zhou - Hangzhou City University (China), Prof. Lei Zhong - Toyota Motor Corporation (Japan)
+</li>
+
 </ol>
