@@ -45,7 +45,7 @@ Prof. Xun Shao - Toyohashi University of Technology (Japan), Prof. Sahraoui Dhel
 <br/>
 Guest Editors:
 <br/>
-Prof. Xun Shao - Toyohashi University of Technology (Japan), Prof. Reza Malekian - Malmö University (Sweden), Prof. Kui Wu - University of Victoria (Canada), Prof. Binbin Zhou - Hangzhou City University (China), Prof. Lei Zhong - Toyota Motor Corporation (Japan)
+Prof. Xun Shao - Toyohashi University of Technology (Japan), Prof. Reza Malekian - Malmö University (Sweden), Prof. Kui Wu - University of Victoria (Canada), Prof. Binbin Zhou - Hangzhou City University (China), Dr. Lei Zhong - Toyota Motor Corporation (Japan)
 </li>
 
 </ol>
