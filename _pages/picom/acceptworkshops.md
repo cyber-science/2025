@@ -11,4 +11,7 @@ permalink: /picom/acceptworkshops/
 
 <li><a href="https://sites.google.com/view/iorol2025" target=_new><u>Workshop on Intelligent Offloading, Resource Optimization, and Localization in Pervasive Computing Environments (IOROL 2025)</u></a></li>
 
+<li><a href="https://qudis.icar.cnr.it/" target=_new><u>The 1st International Workshop on Quantum Computing for Distributed Systems (QuDiS 2025)</u></a></li>
+
+
 </ol>
