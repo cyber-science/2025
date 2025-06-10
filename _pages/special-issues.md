@@ -13,14 +13,14 @@ Selected conference articles will be invited to be submitted to the following Sp
 <ol>
 
 
-<li>Special Section on <a href="https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/April_2025/TCE_SS_CFP-Intelligent_Generation_and_Retrieval_for_Consumer_Electronics_-_online.pdf" target=_new><b><u>Intelligent Generation and Retrieval for Consumer Electronics</u></b></a> in <i>IEEE Transactions on Consumer Electronics</i>
+<li>Special Section on <a href="https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/April_2025/TCE_SS_CFP-Intelligent_Generation_and_Retrieval_for_Consumer_Electronics_-_V1_online.pdf" target=_new><b><u>Intelligent Generation and Retrieval for Consumer Electronics</u></b></a> in <i>IEEE Transactions on Consumer Electronics</i>
 <br/>
 Guest Editors:
 <br/>
 Prof. Yixiu Liu - Hangzhou Dianzi University, (China), Prof. Zhigao Zheng - Wuhan University (China), Prof. Xiaokang Zhou, Kansai University (Japan), Prof. Haoye Dong - Carnegie Mellon University (USA)
 </li>
 
-<li>Special Section on <a href="https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/April_2025/TCE_SS_CFP_Security-Aware_Distributed_and_Collaborative_Learning_for_Resource-Limited_Consumer_Electronics_-_online.pdf" target=_new><b><u>Security-Aware Distributed and Collaborative Learning for Resource-Limited Consumer Electronics</u></b></a> in <i>IEEE Transactions on Consumer Electronics</i>
+<li>Special Section on <a href="https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/April_2025/TCE_SS_CFP_Security-Aware_Distributed_and_Collaborative_Learning_for_Resource-Limited_Consumer_Electronics_-_V1_online.pdf" target=_new><b><u>Security-Aware Distributed and Collaborative Learning for Resource-Limited Consumer Electronics</u></b></a> in <i>IEEE Transactions on Consumer Electronics</i>
 <br/>
 Guest Editors:
 <br/>
