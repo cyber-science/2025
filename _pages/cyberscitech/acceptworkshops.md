@@ -26,4 +26,6 @@ permalink: /cyberscitech/acceptworkshops/
 <li><a href="/2025/assets/files/ws-ss/cst/HAIDC2025_CFP.pdf" target="_new"><u>The International Workshop on Human-Centered AI and Digital Coaching (HAIDC 2025)</u></a></li>
 
 <li><a href="/2025/assets/files/ws-ss/cst/NGIWEC2025_CFP.pdf" target="_new"><u>The 3rd International Workshop on Next Generation Intelligent Emergency Communications</u></a></li>
+
+<li><a href="/2025/assets/files/ws-ss/cst/BigCyberSecurity2025_CFP.pdf" target="_new"><u>The 7th IEEE International Workshop on Big Data Analytics for Cyber Security and Defence (BigCyberSecurity 2025)</u></a></li>
 </ol>
