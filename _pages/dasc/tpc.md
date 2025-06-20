@@ -17,6 +17,6 @@ Jingwei Liu, Xidian University, PRC <br>
 Montida Pattaranantakul, NECTEC, Thailand <br>
 Wenyu QU, Tianjin University, PRC <br>
 Hui Tian, Griffith University, Australia <br>
-Celimuge Wu, The University of Electro-Communications,Japan <br>
+Celimuge Wu, The University of Electro-Communications, Japan <br>
 Long Wang, Tsinghua University, PRC <br>
 Wei Wang, Xi’an Jiaotong University, PRC <br>
