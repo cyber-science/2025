@@ -20,3 +20,6 @@ Hui Tian, Griffith University, Australia <br>
 Celimuge Wu, The University of Electro-Communications, Japan <br>
 Long Wang, Tsinghua University, China <br>
 Wei Wang, Xi’an Jiaotong University, China <br>
+Jun Nemoto, Scalar Inc., Japan <br>
+Hitoshi Kamei, Kagawa University, Japan <br>
+Rishikesh Sahay, University of Illinois at Springfield, USA <br>
