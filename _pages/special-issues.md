@@ -48,4 +48,11 @@ Guest Editors:
 Prof. Xun Shao - Toyohashi University of Technology (Japan), Prof. Reza Malekian - Malmö University (Sweden), Prof. Kui Wu - University of Victoria (Canada), Prof. Binbin Zhou - Hangzhou City University (China), Dr. Lei Zhong - Toyota Motor Corporation (Japan)
 </li>
 
+<li>Special Issue on <a href="https://www.sciencedirect.com/special-issue/320072/advancing-trustworthy-ai-for-iot-systems-and-smart-applications" target=_new><b><u>Advancing Trustworthy AI for IoT Systems and Smart Applications</u></b></a> in <i>Computers and Electrical Engineering</i>
+<br/>
+Guest Editors:
+<br/>
+Prof. Xuyun Zhang - Macquarie University, Sydney (Australia), Prof. Lianyong Qi - China University of Petroleum East China, Dongying (China), Prof. Xiaokang Zhou - Kansai University (Japan), Prof. Qiang Ni - Lancaster University, Lancaster (UK)
+</li>
+
 </ol>
