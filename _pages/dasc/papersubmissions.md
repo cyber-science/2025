@@ -14,6 +14,7 @@ permalink: /dasc/papersubmissions/
  <li>Regular Track Submissions: Minimum <b> 6 pages</b></li>
  <li>WiP/Workshop/Special Session Track Submissions: Minimum <b>4 pages</b></li>
  <li>Poster Track Submissions: Minimum  <b>2 pages</b></li>
+  <li>Late Breaking Innovation (LBI) Track Submissions: Minimum <b>4 pages</b></li>
  <!-- Submission to Late Breaking Innovation Tracks: <b>4-8</b> pages<br> -->
  </ul>
 </p>
@@ -28,7 +29,7 @@ permalink: /dasc/papersubmissions/
 <li><b>Workshop papers</b> should present original, unpublished work associated with the theme of a specific workshop. Novel ideas, methods, or applications related to the workshop scope, as well as concrete evaluation and/or analysis, should be included.</li>
 <li><b>Special Session (SS) papers</b> should present substantial, original, completed, and unpublished work that focuses on emerging topics, specific research domains, or interdisciplinary areas. Significant contributions to advancing the state of the art in the targeted research domain or interdisciplinary field should be included.</li>
 <li><b>LBI submission deadline</b> will be announced at a later date.</li>
-<!-- <li><b>Late Breaking Innovation (LBI) papers</b> should present cutting-edge research across all CyberSciTech topics. LBI submissions will undergo a review process, and those accepted will be included in the conference program as either Regular or WiP papers, based on their quality, novelty, and completeness.</li> -->
+<li><b>Late Breaking Innovation (LBI) papers</b> should present cutting-edge research across all CyberSciTech topics. LBI submissions will undergo a review process, and those accepted will be included in the conference program as either Regular or WiP papers, based on their quality, novelty, and completeness.</li>
 </ul>
 </p><p>
 Papers should be prepared using the IEEE Computer Society Proceedings format. Detailed formatting guidelines are available at: <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html" target=_new>http://www.ieee.org/conferences_events/conferences/publishing/templates.html</a>
@@ -52,6 +53,7 @@ Authors of accepted poster papers will be required to prepare and submit the cam
   <li>Up to <b>10 pages</b> for Regular papers</li>
   <li>Up to <b>8 pages</b> for WiP, Workshop, and Special Session papers</li>
   <li>Up to <b>6 pages</b> for Poster papers</li>
+  <li>Up to <b>8 pages</b> for LBI papers</li>
 </ul>
  <!-- Submission to Late Breaking Innovation Tracks: <b>4-8</b> pages<br> -->
 </p>

@@ -84,7 +84,6 @@ The track covers all the topics but it is aimed at
 <h4>Workshop/Special Session Tracks</h4>
 PICom workshops and special sessions are listed <a href="/2025/picom/acceptworkshops/"><b>here</b></a>
 
-
 <hr/>
 <h4 style="font-weight: bold">For Late Breaking Innovation Papers<h4>
 <hr/>

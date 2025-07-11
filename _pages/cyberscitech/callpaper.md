@@ -77,7 +77,7 @@ Poster track covers all the topics for regular papers but is aimed at
 <h4>Workshop/Special Session Tracks</h4>
 CyberSciTech workshops and special sessions are listed <a href="/2025/cyberscitech/acceptworkshops/"><b>here</b></a>
 
-<!-- <hr/>
+<hr/>
 <h4 style="font-weight: bold">For Late Breaking Innovation Papers<h4>
 <hr/>
 <h4>LBI (Late Breaking Innovation) Track</h4>
@@ -85,4 +85,4 @@ The LBI track accommodates cutting-edge research across all<br/>
 CyberSciTech topics that has emerged after the regular paper deadline.<br/>
 This track is designed for timely, significant advancements that warrant<br/>
 rapid dissemination in the present conference proceedings.
-<hr/> -->
+<hr/>
