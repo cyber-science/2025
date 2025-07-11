@@ -45,6 +45,7 @@ Authors of accepted poster papers will be required to prepare and submit the cam
  <li><b>8 pages</b> for Regular papers</li>
  <li><b>6 pages</b> for WiP, Workshop, and Special Session papers</li>
  <li><b>4 pages</b> for Poster papers</li>
+  <li><b>8 pages</b> for LBI papers</li>
 </ul>
 
 <p>Authors may purchase up to 2 additional pages per paper at an additional charge of <b>$100 per extra page</b>:</p>
