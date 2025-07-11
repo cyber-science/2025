@@ -53,6 +53,6 @@ Authors of accepted poster papers will be required to prepare and submit the cam
   <li>Up to <b>10 pages</b> for Regular papers</li>
   <li>Up to <b>8 pages</b> for WiP, Workshop, and Special Session papers</li>
   <li>Up to <b>6 pages</b> for Poster papers</li>
-  <li>Up to <b>8 pages</b> for LBI papers</li>
+  <li>Up to <b>10 pages</b> for LBI papers</li>
 </ul>
 </p>
