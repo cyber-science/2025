@@ -37,7 +37,8 @@ Marco Miozzo, CTTC (Spain)<br>
 Claudio Savaglio, University of Calabria (Italy)<br>
 Rebeca Motta, Universidade Federal Fluminense (Brazil)<br>
 Andrea Vinci, ICAR-CNR (Italy)<br>
-Ao Guo, Nagoya University (Japan)
+Ao Guo, Nagoya University (Japan)<br>
+Franco Cicirelli, ICAR-CNR (Italy)
 
 <h4>Workshop & Special Session Chairs</h4>
 Irfanullah Khan, University of Glasgow (UK)<br>
