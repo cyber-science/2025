@@ -15,7 +15,6 @@ permalink: /dasc/papersubmissions/
  <li>WiP/Workshop/Special Session Track Submissions: Minimum <b>4 pages</b></li>
  <li>Poster Track Submissions: Minimum  <b>2 pages</b></li>
   <li>Late Breaking Innovation (LBI) Track Submissions: Minimum <b>4 pages</b></li>
- <!-- Submission to Late Breaking Innovation Tracks: <b>4-8</b> pages<br> -->
  </ul>
 </p>
 
@@ -54,5 +53,4 @@ Authors of accepted poster papers will be required to prepare and submit the cam
   <li>Up to <b>6 pages</b> for Poster papers</li>
   <li>Up to <b>8 pages</b> for LBI papers</li>
 </ul>
- <!-- Submission to Late Breaking Innovation Tracks: <b>4-8</b> pages<br> -->
 </p>
