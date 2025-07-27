@@ -29,7 +29,7 @@ TBA
 
 <hr/>
 
-<img src="/2024/assets/images/panel_speaker/jianhua_ma.jpg" align="left" style="border:5px solid white" width="150">
+<img src="/2025/assets/images/panel_speaker/jianhua_ma.jpg" align="left" style="border:5px solid white" width="150">
 <h5><b>Jianhua Ma, Professor</b></h5>
 <h6>Hosei University, Japan</h6>
 <p style="text-align: justify;">
