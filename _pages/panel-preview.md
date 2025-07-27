@@ -4,7 +4,9 @@ layout: sub
 permalink: /panel-preview/
 --- 
 
-<h3>The Panel on <br>XYZ Perspectives from xLM to yAI and zTech</h3>
+<h3 style="text-align: center;">
+  The Panel on <br>XYZ Perspectives from xLM to yAI and zTech
+</h3>
 <hr/>
 
 To commemorate the centenary anniversary of Alan Turing’s birthday, the Open Forum on Top 10 Questions on Intelligent Informatics/Computing (<a href="https://wi-consortium.org/blog/top10qi/" target=_new><b><u>Top10Qi</u></b></a>) was held in the World Intelligence Congress, Macau, 2012. Inspired by the profound question “*Can machines think?*” raised by Turing in 1950, the Top10Qi forum was conducted by first calling for questions from the crowd worldwide, then voting for top 10 questions from the 128 collected questions, and finally holding an interactive panel for the announcement and heated discussion on the top 10 voted questions. 
