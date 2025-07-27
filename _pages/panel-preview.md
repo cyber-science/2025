@@ -7,9 +7,9 @@ permalink: /panel-preview/
 <h3 style="text-align: center;">
   The Panel on <br>XYZ Perspectives from xLM to yAI and zTech
 </h3> 
-<h5 style="text-align: center;">
+<h4 style="text-align: center;">
   October 22, 2025
-</h5> 
+</h4> 
 <hr/>
 
 
