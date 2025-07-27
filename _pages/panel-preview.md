@@ -6,8 +6,12 @@ permalink: /panel-preview/
 
 <h3 style="text-align: center;">
   The Panel on <br>XYZ Perspectives from xLM to yAI and zTech
-</h3>
+</h3> 
+<h4 style="text-align: center;">
+  October 22, 2025
+</h4> 
 <hr/>
+
 
 To commemorate the centenary anniversary of Alan Turing’s birthday, the Open Forum on Top 10 Questions on Intelligent Informatics/Computing (<a href="https://wi-consortium.org/blog/top10qi/" target=_new><b><u>Top10Qi</u></b></a>) was held in the World Intelligence Congress, Macau, 2012. Inspired by the profound question “*Can machines think?*” raised by Turing in 1950, the Top10Qi forum was conducted by first calling for questions from the crowd worldwide, then voting for top 10 questions from the 128 collected questions, and finally holding an interactive panel for the announcement and heated discussion on the top 10 voted questions. 
 
@@ -20,7 +24,6 @@ A few TopQi questions like “*Can machines and the people think together?*” h
 This **XYZ panel**, coinciding with the 70th anniversary of the term ‘Artificial Intelligence,’ is designed as an insightful platform for distinguished experts to share their perspectives surrounding xLM, yAI, and zTech. Participants will exchange ideas, and collaboratively envision the future trajectory of artificial intelligence.
 
 <hr/>
-<br/><b>Panel Time:</b> October 22, 2025
 <br/> <br/><b>Panel Chair: </b>
 <br/><b>Jianhua Ma</b>, Faculty of Computer and Information Sciences, Hosei University, Japan
 <br/><br/><b>Panel Coordinator: </b>
