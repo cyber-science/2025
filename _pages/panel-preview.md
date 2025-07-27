@@ -20,7 +20,7 @@ A few TopQi questions like “*Can machines and the people think together?*” h
 This **XYZ panel**, coinciding with the 70th anniversary of the term ‘Artificial Intelligence,’ is designed as an insightful platform for distinguished experts to share their perspectives surrounding xLM, yAI, and zTech. Participants will exchange ideas, and collaboratively envision the future trajectory of artificial intelligence.
 
 <hr/>
-<br/><b>Panel Time:</b> October 2, 2025
+<br/><b>Panel Time:</b> October 22, 2025
 <br/> <br/><b>Panel Chair: </b>
 <br/><b>Jianhua Ma</b>, Faculty of Computer and Information Sciences, Hosei University, Japan
 <br/><br/><b>Panel Coordinator: </b>
