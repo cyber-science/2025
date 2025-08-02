@@ -29,26 +29,9 @@ This **XYZ panel**, coinciding with the 70th anniversary of the term ‘Artifici
 <br/><br/><b>Panel Coordinator: </b>
 <br/><b>Ao Guo</b>, Graduate School of Informatics, Nagoya University, Japan
 <br/><br/><b>Panel Speakers: </b>
-<br/><b>Antonio Guerrieri</b>, Institute for High-Performance Computing and Networking, National Research Council of Italy, Italy
+TBA
 
 <br/>
 <hr/>
-
-<img src="/2025/assets/images/panel_speaker/jianhua_ma.jpg" align="left" style="border:5px solid white" width="150">
-<h5><b>Jianhua Ma, Professor</b></h5>
-<h6>Hosei University, Japan</h6>
-<p style="text-align: justify;">
- <b>Biography</b>: Jianhua Ma is a professor in the Faculty of Computer and Information Sciences and a director in the Institute of Integrated Science and Technology (IIST), Hosei University, Japan. He is one of pioneers in research on Hyper World and Cyber World (CW) since 1996. He first proposed Ubiquitous Intelligence (UI) towards Smart World (SW), which he envisioned in 2004, and was featured in the European ID People Magazine in 2005. He has conducted several unique CW-related projects including the Cyber Individual (Cyber-I), which was highlighted on the IEEE Computing Now in 2011. He has founded IEEE Conferences on Ubiquitous Intelligence and Computing (UIC), Pervasive Intelligence and Computing (PICom), Cyber Physical and Social Computing (CPSCom), Internet of Things (iThings), and Internet of People (IoP). He is a chair of IEEE SC Technical Committee on Hyper-Intelligence, a co-chair of IEEE SMC Technical Committee on Cybermatics, and a founder of IEEE CIS Technical Committee on Smart World.
- </p>
- 
-
- <img src="/2025/assets/images/panel_speaker/antonio.jpg" align="left" style="border:5px solid white" width="150">
-<h5><b>Antonio Guerrieri, Senior Researcher</b></h5>
-<h6>ICAR-CNR, Italy</h6>
-<p style="text-align: justify;">
-<b>Biography</b>: Antonio Guerrieri is currently a senior researcher at ICAR-CNR (National Research Council of Italy, Institute for High-Performance Computing and Networking). He previously served as a researcher at the Telecom Italia WSN Lab in Berkeley, California, at the Clarity Centre, UCD (University College Dublin), Ireland, and at the University of Calabria, Italy. Dr. Guerrieri has been involved in several research projects and co-founded SenSysCal S.r.l., a University of Calabria (UNICAL) spinoff focused on innovative IoT systems. His research interests include wireless sensor and actuator networks, building monitoring and control, smart objects, smart and cognitive environments, and the Internet of Things. He has co-authored over 100 papers in international journals, conferences, and books. He is an Associate Editor of IEEE Transactions on Human-Machine Systems (THMS) and serves on the editorial boards of journals such as IoT, Cybersecurity and Privacy, Engineering Proceedings, Sensors, and Wireless Communications and Mobile Computing. He is an adjunct professor at the DIMES department at UNICAL. More information can be found at <a href="https://staff.icar.cnr.it/guerrieri/wordpress/" target=_new><u>https://staff.icar.cnr.it/guerrieri/wordpress/</u></a>.
- </p>
-
-
 
 <br/>
