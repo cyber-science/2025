@@ -42,7 +42,7 @@ This **XYZ panel**, coinciding with the 70th anniversary of the term ‘Artifici
  </p>
  
 
- <img src="/2024/assets/images/panel_speaker/antonio.jpg" align="left" style="border:5px solid white" width="150">
+ <img src="/2025/assets/images/panel_speaker/antonio.jpg" align="left" style="border:5px solid white" width="150">
 <h5><b>Antonio Guerrieri, Senior Researcher</b></h5>
 <h6>ICAR-CNR, Italy</h6>
 <p style="text-align: justify;">

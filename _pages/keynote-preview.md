@@ -1,7 +1,7 @@
 ---
 title: keynote
 layout: sub
-permalink: /keynote/
+permalink: /keynote-preview/
 ---
 
 <h3>Keynotes</h3>
