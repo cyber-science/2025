@@ -9,6 +9,7 @@ permalink: /cyberscitech/acceptworkshops/
 <hr>
 <ol>
 <li><a href="/2025/assets/files/ws-ss/cst/CyberIC2025_CFP.pdf" target="_new"><u>Special Session on Intelligent Computing in Cyber-Physical Social Systems (CyberIC 2025)</u></a></li>
+<li><a href="/2025/assets/files/ws-ss/cst/Cyber-IoT2025_CFP.pdf" target="_new"><u>Special Session on Computing and Applications for Cyber Internet of Things (Cyber-IoT 2025)</u></a></li>
 <li><a href="/2025/assets/files/ws-ss/cst/CSC-CEA_2025_CFP.pdf" target="_new"><u>Special Session on Cyber Social Computing and Cyber-Enabled Applications (CSC&CEA 2025)</u></a></li>
 </ol>
 
