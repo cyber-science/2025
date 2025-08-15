@@ -26,10 +26,9 @@ permalink: /registration-preview/
         }
     </style>
 
-<h4>Registration and Invitation Letter</h4>
-<h3>Registration and Payment Instructions</h3>
+<h3>Registration and Invitation Letter</h3>
 <hr/>
-
+<h4>Registration and Payment Instructions</h4>
 <ul>
 <li> At least one author of an accepted paper must register and present the paper. On-site and online presenters pay the same registration fee.</li>
 <li> <b>The author must register and pay the registration and all other applicable fees on or before September 5, 2025 (JST). <br>If the conference does not receive your full payment within the specified period, your paper and registration will be cancelled.</b> </li>
@@ -42,7 +41,7 @@ permalink: /registration-preview/
 </li>
 <li><a href="https://niccs.nishitetsutravel.jp/niccs/en/app/BN1330" target=_new> <span class="important">Link to Registration Page</span> <u>https://niccs.nishitetsutravel.jp/niccs/en/app/BN1330</u></a></li>
 <br>
-<h3>Invitation Letter</h3>
+<h4>Invitation Letter</h4>
 <li>If you need an invitation letter to support your visa and/or other travel application, please tick the [Required: __ ] button during the registration process. <a href="/2025/assets/files/REQUEST-FORM-Invitation Letter-CyberScienceCongress_2025.docx" download> <u><b>Download the Invitation Letter Request Form HERE</b></u></a>, read carefully the instructions and fill it up. Then send it to <a href="mailto:loc-cstc2025@gmail.com"><u><loc-cstc2025@gmail.com></u></a>, Cc: <a href="mailto:registration-cstc2025@gmail.com"><u><registration-cstc2025@gmail.com></u></a>. <b>The invitation letter will only be sent to you after the conference has verified your information and full payment of the registration and all other applicable fees are received</b>.</li>
 
 <br>
