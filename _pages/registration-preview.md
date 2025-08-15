@@ -28,8 +28,8 @@ permalink: /registration-preview/
 
 <h3>Registration and Invitation Letter</h3>
 <hr/>
-<h4>Registration and Payment Instructions</h4>
 <ul>
+<h4>Registration and Payment Instructions</h4>
 <li> At least one author of an accepted paper must register and present the paper. On-site and online presenters pay the same registration fee.</li>
 <li> <b>The author must register and pay the registration and all other applicable fees on or before September 5, 2025 (JST). <br>If the conference does not receive your full payment within the specified period, your paper and registration will be cancelled.</b> </li>
 <li> Active IEEE Membership status will be verified. Non-active members cannot qualify for IEEE membership discount. </li>
