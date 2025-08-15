@@ -24,8 +24,8 @@ permalink: /crs-preview/
 Please read the following notice before uploading your paper (for 2025 CyberSciTech, DASC, PICom, CBDCom, and all associated workshops/special sessions). The page limits are:
   </p>
 <p>
-<ol><li>Regular Papers: 8 + 2 extra pages for purchase, $100 (US)  per extra page 
-  </li><li>WiP/Special Session/Workshop Papers: 6 + 2 extra pages for purchase, $100 (US) per extra page
+<ol><li>Regular Papers: 8 + 2 extra pages for purchase, JPY 15,000 per extra page 
+  </li><li>WiP/Special Session/Workshop Papers: 6 + 2 extra pages for purchase, JPY 15,000 per extra page
   </li></ol>
 </p>
 <p>  
@@ -34,7 +34,7 @@ Camera ready submissions must follow the following template format:
   <br /><a href="https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip"><u>https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip</u></a>
   </p>
 <p> 
-The final upload deadline is September 5, 2025. <a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp" target=_new> <span class="important">Link to final camera-ready paper submission at IEEE CPS:</span> <u>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp</u></a>
+The final upload deadline is September 12, 2025. <a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp" target=_new> <span class="important">Link to final camera-ready paper submission at IEEE CPS:</span> <u>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp</u></a>
 
 <br/>
 </p>
@@ -49,6 +49,6 @@ If you have any questions, please e-mail them to  <a href="mailto:ieeecyberscite
 </p>
 <h4>Registration</h4>
 <p>
-All advanced registrations must be done by September 5, 2025. The detailed registration instructions can be found on this page: 
+All author/presenter registrations must be done by September 5, 2025. The detailed registration instructions can be found on this page: 
   <br /><a href="https://cyber-science.org/2025/registration/"><u>https://cyber-science.org/2025/registration/</u></a> 
  </p>
