@@ -50,5 +50,5 @@ If you have any questions, please e-mail them to  <a href="mailto:ieeecyberscite
 <h4>Registration</h4>
 <p>
 All advanced registrations must be done by September 5, 2025. The detailed registration instructions can be found on this page: 
-  <br /><a href="https://cyber-science.org/2024/registration/"><u>https://cyber-science.org/2025/registration/</u></a> 
+  <br /><a href="https://cyber-science.org/2025/registration/"><u>https://cyber-science.org/2025/registration/</u></a> 
  </p>
