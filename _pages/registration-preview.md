@@ -99,7 +99,7 @@ permalink: /registration-preview/
     </table>
 <table>
         <tr>
-            <th colspan="2">On-site Registration (October 21-24, 2024 JST)</th>
+            <th colspan="2">On-site Registration (October 21-24, 2025 JST)</th>
         </tr>
         <tr>
             <td>IEEE Member Fee</td>
