@@ -46,7 +46,7 @@ permalink: /registration-preview/
 
 <br>
 <br>
- <p><span class="important">IMPORTANT: Author/Presenter Registration: Aug. 20 - Sept. 5, 2025</span> (At least one author of an accepted paper must register. The registration fee is the same as in Advance Registration.) <br>
+ <p><span class="important">IMPORTANT: Author/Presenter Registration: Aug. 20 - Sept. 5, 2025</span> (At least one author of an accepted paper must register. The registration fee is the same as in Advance Registration.) <br>Extra pages (maximum of two pages): JPY 15,000 per extra page <br>
     <table>
         <tr>
             <th colspan="2">Co-author/No-paper Advance Registration (Aug. 20 – Sept 15, 2025 JST)</th>
@@ -125,21 +125,39 @@ permalink: /registration-preview/
 <p class="important">Notes:</p>
 <p class="important">For Late Registration, the system will be activated on the above specified date/period.</p>
 <p class="important">For On-site Registration, please prepare the exact amount in cash.</p>
-<table>
-        <tr>
-            <td>Additional Tickets (per person, 12 yrs. old and above)</td>
-            <td>JPY ???</td>
-        </tr>
-        <tr>
-            <td>Gala Dinner</td>
-            <td>JPY ???</td>
-        </tr>
-        <tr>
-            <td>Welcome Reception</td>
-            <td>JPY ???</td>
-        </tr>
-        <tr>
-            <td>Coffee Break</td>
-            <td>JPY ???</td>
-        </tr>
-    </table>
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>Additional Tickets<br>(per person)</th>
+    <th>Cost (JPY)</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td rowspan="3">Gala Dinner</td>
+    <td>20 yrs. old and above: 15,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>13 ~ 19 yrs. old: 9,000</td>
+    <td>Same menu as adult but NO alcoholic drinks</td>
+  </tr>
+  <tr>
+    <td>~ 12 yrs. old: 3,000</td>
+    <td>Child set menu but NO alcoholic drinks</td>
+  </tr>
+  <tr>
+    <td>Welcome Reception</td>
+    <td>8,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Lunch</td>
+    <td>1,600</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Coffee Break</td>
+    <td>600</td>
+    <td></td>
+  </tr>
+</table>
