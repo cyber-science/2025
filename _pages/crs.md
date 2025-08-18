@@ -37,12 +37,10 @@ Camera ready submissions must follow the following template format:
 <p> 
 The final upload deadline is September 12, 2025. <a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp" target=_new> <span class="important">Link to final camera-ready paper submission at IEEE CPS:</span> <u>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp</u></a>
 
-<p>
 <font color="red"><b>Note:</b> The IEEE CPS submission portal only shows "DASC 2025". 
 This is the <u>common submission entry</u> for all four conferences 
 (CyberSciTech, DASC, PICom, and CBDCom). 
 Your paper will still be published in the correct proceedings of the respective conference.</font>
-</p>
 
 <br/>
 </p>
