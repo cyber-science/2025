@@ -35,7 +35,7 @@ Camera ready submissions must follow the following template format:
   <br /><a href="https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip"><u>https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip</u></a>
   </p>
 <p> 
-The final upload deadline is September 12, 2025. <a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp" target=_new> <span class="important">Link to final camera-ready paper submission at IEEE CPS:</span> <u>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp</u></a>
+The final upload deadline is September 12, 2025. <a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp" target=_new> <span class="important">Link to final camera-ready paper submission at IEEE CPS:</span><br> <u>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp</u></a>
 <br>
 <font color="red"><b>Note:</b> The IEEE CPS submission portal only shows "DASC 2025". 
 This is the <u>common submission entry</u> for all four conferences 
