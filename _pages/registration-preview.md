@@ -46,10 +46,10 @@ permalink: /registration-preview/
 
 <br>
 <br>
- <p><span class="important">IMPORTANT: Author/Presenter Registration: Aug. 20 - Sept. 5, 2025</span> (At least one author of an accepted paper must register. The registration fee is the same as in Advance Registration.) <br>Extra pages (maximum of two pages): JPY 15,000 per extra page <br>
+ <p><span class="important">IMPORTANT: Author/Presenter Registration: Aug. 23 - Sept. 5, 2025</span> (At least one author of an accepted paper must register. The registration fee is the same as in Advance Registration.) <br>Extra pages (maximum of two pages): JPY 15,000 per extra page <br>
     <table>
         <tr>
-            <th colspan="2">Co-author/No-paper Advance Registration (Aug. 20 – Sept 15, 2025 JST)</th>
+            <th colspan="2">Co-author/No-paper Advance Registration (Aug. 23 – Sept 15, 2025 JST)</th>
         </tr>
         <tr>
             <td>IEEE Member Fee</td>
