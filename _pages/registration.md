@@ -38,7 +38,7 @@ permalink: /registration/
 <li> Additional pages (maximum of 2 pages) can be purchased during the registration process. Likewise, additional tickets for lunches, welcome reception, gala dinner are also available for purchase during the registration process.</li>
 <li> Payments by credit card or bank wire transfer are available. Since bank wire transfer takes a long time to process, we encourage you to pay by credit card. <b>However, if bank wire transfer is the only option, please do the bank transaction as soonest so the payment will arrive on time. Be reminded that all bank charges and fees (i.e., sending and receiving banks) will be paid by the applicant. After completing your bank wire transfer transaction, please email (pdf file) a copy of your bank transfer receipt or certificate to </b> <a href="mailto:cstc@conferenceservice.jp"><u><cstc@conferenceservice.jp></u></a>, Cc: <a href="mailto:register.cstc2025@gmail.com"><u><register.cstc2025@gmail.com></u></a> with Subject: Bank Transfer-your EDAS registration ID number (conference code + 10 digit nos., ex. Bank Transfer-DASC-1234567891). <br>The conference must receive the registration and all other additional purchase payments in full. </li>
 <li> 
-Receiving Bank information details:<br>
+<b>Receiving Bank information details:</b><br>
 Bank name: THE BANK OF FUKUOKA, LTD. (Bank ID: 0177)<br>
 SWIFT CODE: FKBKJPJT, or FKBKJPJTXXX<br>
 Branch name: Fujisaki Branch<br>
