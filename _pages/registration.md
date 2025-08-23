@@ -49,7 +49,7 @@ Beneficiary Country: Japan<br>
 </li>
 <li> Questions and queries regarding registration, email to <a href="mailto:register.cstc2025@gmail.com"><u><register.cstc2025@gmail.com></u></a>. 
 </li>
-<li><span class="important">Link to Registration Page</span> (Will be available soon. Kindly check the website.)</li>
+<li><span class="important">Link to Registration Page</span> <a href="https://conferenceservice.jp/registration/cstc2025/"><u>https://conferenceservice.jp/registration/cstc2025/</u> </li>
 <br>
 <h4>Invitation Letter</h4>
 <li>If you need an invitation letter to support your visa and/or other travel application, please tick the [Required: __ ] button during the registration process. <a href="/2025/assets/files/REQUEST-FORM-Invitation Letter-CyberScienceCongress_2025.docx" download> <u><b>Download the Invitation Letter Request Form HERE</b></u></a>, read carefully the instructions and fill it up. Then send it to <a href="mailto:cstc@conferenceservice.jp"><u><cstc@conferenceservice.jp></u></a>, Cc: <a href="mailto:loc.cstc2025@gmail.com"><u><loc.cstc2025@gmail.com>,</u></a>, <a href="mailto:register.cstc2025@gmail.com"><u><register.cstc2025@gmail.com></u></a>.</li>
