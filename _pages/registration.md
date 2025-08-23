@@ -36,13 +36,25 @@ permalink: /registration/
 <li> To avail of the IEEE Student Member/Non-IEEE Student Member discounted rates, the student must be presently enrolled. The student should attach and send a copy (through the student’s university email address) of his/her student ID or a certificate of registration (pdf file) from your dean to <a href="mailto:register.cstc2025@gmail.com"><u>register.cstc2025@gmail.com</u></a>, with Subject: Student ID/Registration-CSC2025. </li>
 <li> Full registration includes free participation to all sessions, conference proceedings, coffee breaks, lunches, welcome reception, gala dinner. </li>
 <li> Additional pages (maximum of 2 pages) can be purchased during the registration process. Likewise, additional tickets for lunches, welcome reception, gala dinner are also available for purchase during the registration process.</li>
-<li> Payments by credit card or bank wire transfer are available. Since bank wire transfer takes a long time to process, we encourage you to pay by credit card. <b>However, if bank wire transfer is the only option, please do the bank transaction as soonest so the payment will arrive on time. Be reminded that all bank charges and fees (i.e., sending and receiving banks) will be paid by the applicant. After completing your bank wire transfer transaction, please email (pdf file) a copy of your bank transfer receipt or certificate to </b> <a href="mailto:???"><u><???></u></a>, Cc: <a href="mailto:register.cstc2025@gmail.com"><u><register.cstc2025@gmail.com></u></a> with Subject: Bank Transfer-(your registration ID number). <br>The conference must receive the registration and all other additional purchase payments in full. </li>
+<li> Payments by credit card or bank wire transfer are available. Since bank wire transfer takes a long time to process, we encourage you to pay by credit card. <b>However, if bank wire transfer is the only option, please do the bank transaction as soonest so the payment will arrive on time. Be reminded that all bank charges and fees (i.e., sending and receiving banks) will be paid by the applicant. After completing your bank wire transfer transaction, please email (pdf file) a copy of your bank transfer receipt or certificate to </b> <a href="mailto:cstc@conferenceservice.jp"><u><cstc@conferenceservice.jp></u></a>, Cc: <a href="mailto:register.cstc2025@gmail.com"><u><register.cstc2025@gmail.com></u></a> with Subject: Bank Transfer-your EDAS registration ID number (conference code + 10 digit nos., ex. Bank Transfer-DASC-1234567891). <br>The conference must receive the registration and all other additional purchase payments in full. </li>
+<li> 
+Receiving Bank information details:<br>
+Bank name: THE BANK OF FUKUOKA, LTD. (Bank ID: 0177)<br>
+SWIFT CODE: FKBKJPJT, or FKBKJPJTXXX<br>
+Branch name: Fujisaki Branch<br>
+Beneficiary Account number:1548817<br>
+Beneficiary Name: Conference Service Inc.<br>
+Beneficiary Address: 2-5-24, Shodai, Sawara-ku, Beneficiary City: Fukuoka<br>
+Beneficiary Country: Japan<br>
+</li>
 <li> Questions and queries regarding registration, email to <a href="mailto:register.cstc2025@gmail.com"><u><register.cstc2025@gmail.com></u></a>. 
 </li>
 <li><span class="important">Link to Registration Page</span> (Will be available soon. Kindly check the website.)</li>
 <br>
 <h4>Invitation Letter</h4>
-<li>If you need an invitation letter to support your visa and/or other travel application, please tick the [Required: __ ] button during the registration process. <a href="/2025/assets/files/REQUEST-FORM-Invitation Letter-CyberScienceCongress_2025.docx" download> <u><b>Download the Invitation Letter Request Form HERE</b></u></a>, read carefully the instructions and fill it up. Then send it to <a href="mailto:loc.cstc2025@gmail.com"><u><loc.cstc2025@gmail.com></u></a>, Cc: <a href="mailto:register.cstc2025@gmail.com"><u><register.cstc2025@gmail.com></u></a>. <b>The invitation letter will only be sent to you after the conference has verified your information and full payment of the registration and all other applicable fees are received</b>.</li>
+<li>If you need an invitation letter to support your visa and/or other travel application, please tick the [Required: __ ] button during the registration process. <a href="/2025/assets/files/REQUEST-FORM-Invitation Letter-CyberScienceCongress_2025.docx" download> <u><b>Download the Invitation Letter Request Form HERE</b></u></a>, read carefully the instructions and fill it up. Then send it to <a href="mailto:cstc@conferenceservice.jp"><u><cstc@conferenceservice.jp></u></a>, Cc: <a href="mailto:loc.cstc2025@gmail.com"><u><loc.cstc2025@gmail.com>,</u></a>, <a href="mailto:register.cstc2025@gmail.com"><u><register.cstc2025@gmail.com></u></a>.</li>
+<li>If you would like to avail yourself of support in preparing your visa application documents, the Conference Service, Inc. is offering such service for a JPY 5,000 fee. Please contact Dr. Taku Jiromaru <a href="mailto:cstc@conferenceservice.jp"><u><cstc@conferenceservice.jp></u></a>.</li>
+<li><b>The invitation letter will only be sent to you after the conference has verified your information and full payment of the registration and all other applicable fees are received</b>.</li>
 
 <br>
 <br>
