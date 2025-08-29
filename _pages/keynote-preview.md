@@ -48,3 +48,20 @@ His professional recognition includes Fellowships from prestigious institutions 
 
 </p>
 <hr/>
+
+
+
+
+<h4>Testing-Based Formal Verification for Software Dependability</h4>
+<img src="/2025/assets/images/keynote_speaker/shaoying_liu.jpg" align="left" style="border:10px solid white" width="200">
+<h5><b>Victor Chang, Professor</b></h5>
+<h6>
+Aston University, United Kingdom
+</h6>
+<p style="text-align: justify;">
+<b>Abstract: </b>Software dependability encompasses five critical properties: reliability, safety, integrity, availability, and maintainability. Ensuring these attributes throughout the software engineering process remains a significant and ongoing challenge. In this talk, I will begin by briefly outlining a general framework for developing dependable software. I will then focus on an advanced technique known as Testing-Based Formal Verification (TBFV), which integrates specification-based testing with formal methods to verify program correctness. TBFV is characterized by its ability to automatically verify the correctness of all program paths explored during testing, while also having the potential to uncover previously untested paths. This dual capability supports both validation and verification, enhancing the overall assurance of software quality. I will explain the core principles of TBFV, specific techniques it employs for fault prevention, validation, and verification, as well as the key challenges associated with its practical implementation. When fully realized, TBFV is expected to significantly reduce testing time and cost, and substantially improve software dependability.
+</p>
+<p style="text-align: justify;">
+<b>Biography: </b> Shaoying Liu is a Professor at Software Engineering Institute of East China Normal University, China, IEEE Fellow, BCS Fellow, and AAIA Fellow. He received his Ph.D. in Computer Science from the University of Manchester, U.K., in 1992, and has held research and teaching positions at ten universities in China, the United Kingdom, and Japan, respectively. His research interests include Formal Engineering Methods, Specification-based Program Inspection and Testing, Testing-Based Formal Verification (TBFV), Human Machine Pair Programming (HMPP), and Dependable Computing. Liu is a pioneer and leading researcher in Formal Engineering Methods for Software Development. He founded the ICFEM conference in 1997, SOFL+MVSL workshop in 2012, and SFPVV symposium in 2024, respectively. He designed the SOFL (Structured Object-Oriented Formal Language) specification language and method, authored two books titled "Formal Engineering for Industrial Software Development" and “Agile SOFL: Agile Formal Engineering Method”, respectively, both published by Springer, more than 15 edited books, and over 300 papers in refereed journals and international conferences. He has received many awards, including “Special Achievement Award” from IEEE DSA 2024, 2022 and 2020 “Distinguished Research Awards” from IPSJ/SIGSE respectively, the “20 Year ICFEM Impact Award” from ICFEM 2018, “IEEE Reliability Society Japan Joint Chapter 2016 Best Paper Award”, and “Outstanding Paper Award’’ from ICECCS’96. In recent years, he has served as the General/Conference Chair of several international conferences, including ICFEM 2024, WSSE 2025, and SFPVV 2025.
+</p>
+<hr/>
