@@ -54,9 +54,9 @@ His professional recognition includes Fellowships from prestigious institutions 
 
 <h4>Testing-Based Formal Verification for Software Dependability</h4>
 <img src="/2025/assets/images/keynote_speaker/shaoying_liu.jpg" align="left" style="border:10px solid white" width="200">
-<h5><b>Victor Chang, Professor</b></h5>
+<h5><b>Shaoying Liu, Professor</b></h5>
 <h6>
-Aston University, United Kingdom
+Software Engineering Institute of East China Normal University, China
 </h6>
 <p style="text-align: justify;">
 <b>Abstract: </b>Software dependability encompasses five critical properties: reliability, safety, integrity, availability, and maintainability. Ensuring these attributes throughout the software engineering process remains a significant and ongoing challenge. In this talk, I will begin by briefly outlining a general framework for developing dependable software. I will then focus on an advanced technique known as Testing-Based Formal Verification (TBFV), which integrates specification-based testing with formal methods to verify program correctness. TBFV is characterized by its ability to automatically verify the correctness of all program paths explored during testing, while also having the potential to uncover previously untested paths. This dual capability supports both validation and verification, enhancing the overall assurance of software quality. I will explain the core principles of TBFV, specific techniques it employs for fault prevention, validation, and verification, as well as the key challenges associated with its practical implementation. When fully realized, TBFV is expected to significantly reduce testing time and cost, and substantially improve software dependability.
