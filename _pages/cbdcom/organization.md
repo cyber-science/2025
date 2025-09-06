@@ -31,7 +31,7 @@ Naohiro Hayashibara, Kyoto Sangyo University (Japan)<br>
 Xun Shao, Toyohashi University of Technology (Japan)
 
 <h4>Program Chairs</h4>
-David Tanier, Monash University (Australia)<br>
+David Taniar, Monash University (Australia)<br>
 Sahraoui Dhelim, Dublin City University (Ireland)<br>
 Kazuhisa Matsuzono, NICT (Japan)<br>
 Yuanlong Cao, Jiangxi Normal University (China)
