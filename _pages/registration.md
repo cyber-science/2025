@@ -31,7 +31,7 @@ permalink: /registration/
 <ul>
 <h4>Registration and Payment Instructions</h4>
 <li> At least one author of an accepted paper must register and present the paper. On-site and online presenters pay the same registration fee.</li>
-<li> <b>The author must register and pay the registration and all other applicable fees on or before September 5, 2025 (JST). <br>If the conference does not receive your full payment within the specified period, your paper and registration will be cancelled.</b> </li>
+<li> <b>The author must register and pay the registration and all other applicable fees on or before September 10, 2025 (JST). <br>If the conference does not receive your full payment within the specified period, your paper and registration will be cancelled.</b> </li>
 <li> Active IEEE Membership status will be verified. Non-active members cannot qualify for IEEE membership discount. </li>
 <li> To avail of the IEEE Student Member/Non-IEEE Student Member discounted rates, the student must be presently enrolled. The student should attach and send a copy (through the student’s university email address) of his/her student ID or a certificate of registration (pdf file) from your dean to Dr. Taku Jiromaru <a href="mailto:cstc@conferenceservice.jp"><u><cstc@conferenceservice.jp></u></a>, CC: <a href="mailto:register.cstc2025@gmail.com"><u><register.cstc2025@gmail.com></u></a>, with Subject: Student ID/Registration- your EDAS registration ID number (conference code + 10-digit nos., ex.-Student ID/Registration-DASC-1234567891). </li>
 <li> Full registration includes free participation to all sessions, conference proceedings, coffee breaks, lunches, welcome reception, gala dinner. </li>
@@ -59,7 +59,7 @@ Beneficiary Country: Japan<br>
 
 <br>
 <br>
- <p><span class="important">IMPORTANT: Author/Presenter Registration: Aug. 23 - Sept. 5, 2025</span> (At least one author of an accepted paper must register. The registration fee is the same as in Advance Registration.) <br>Extra pages (maximum of two pages): JPY 15,000 per extra page <br>
+ <p><span class="important">IMPORTANT: Author/Presenter Registration: Aug. 23 - Sept. 10, 2025</span> (At least one author of an accepted paper must register. The registration fee is the same as in Advance Registration.) <br>Extra pages (maximum of two pages): JPY 15,000 per extra page <br>
     <table>
         <tr>
             <th colspan="2">Co-author/No-paper Advance Registration (Aug. 23 – Sept 15, 2025 JST)</th>
