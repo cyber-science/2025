@@ -35,12 +35,33 @@ Camera ready submissions must follow the following template format:
   <br /><a href="https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip"><u>https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip</u></a>
   </p>
 <p> 
-The final upload deadline is September 12, 2025. <a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp" target=_new> <span class="important">Link to final camera-ready paper submission at IEEE CPS:</span><br> <u>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp</u></a>
-<br>
+<p>
+<del>The final upload deadline is September 12, 2025. 
+<a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp" target=_new>
+<span class="important">Link to final camera-ready paper submission at IEEE CPS:</span><br>
+<u>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp</u></a><br>
 <font color="red"><b>Note: The IEEE CPS submission portal only shows "DASC 2025". 
 This is the <u>common submission entry</u> for all four conferences 
 (CyberSciTech, DASC, PICom, and CBDCom). 
 Your paper will still be published in the correct proceedings of the respective conference.</b></font>
+</del>
+</p>
+
+<p>
+<font color="red"><b>
+Important Update (Sept. 13, 2025): Each conference has its own CPS submission portal.  
+Authors must submit their camera-ready paper and copyright form to the correct portal below.  
+The final upload deadline has been extended to <u>September 20, 2025 (Anywhere on Earth, AOE)</u>.
+</b></font>
+</p>
+
+<p>
+<b>Correct CPS Submission Links:</b><br>
+- CyberSciTech 2025: <a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=aGnNHC12sKG7qoqUGJqe5" target=_new>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=aGnNHC12sKG7qoqUGJqe5</a><br>
+- DASC 2025: <a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp" target=_new>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp</a><br>
+- PICom 2025: <a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=7ouXBUCuTxknHCtAmiHgpt" target=_new>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=7ouXBUCuTxknHCtAmiHgpt</a><br>
+- CBDCom 2025: <a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=1uTSkaMjbjBMAibnke1qFx" target=_new>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=1uTSkaMjbjBMAibnke1qFx</a>
+</p>
 
 <br/>
 </p>
