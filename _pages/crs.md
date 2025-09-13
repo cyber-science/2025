@@ -63,7 +63,7 @@ Correct CPS Submission Links:<br>
 </li><li> PICom 2025: <a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=7ouXBUCuTxknHCtAmiHgpt" target=_new><u>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=7ouXBUCuTxknHCtAmiHgpt</u></a><br>
 </li><li> CBDCom 2025: <a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=1uTSkaMjbjBMAibnke1qFx" target=_new><u>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=1uTSkaMjbjBMAibnke1qFx</u></a>
 </li></ol>
-</font></b>
+</b></font>
 </p>
 
 <br/>
