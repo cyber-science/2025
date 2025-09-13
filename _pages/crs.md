@@ -56,14 +56,14 @@ The final upload deadline has been extended to <u>September 20, 2025 (Anywhere o
 </p>
 
 <p>
-<font color="red">
+<font color="red"><b>
 <b>Correct CPS Submission Links:</b><br>
 <ol><li> CyberSciTech 2025: <a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=aGnNHC12sKG7qoqUGJqe5" target=_new><u>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=aGnNHC12sKG7qoqUGJqe5</u></a><br>
 </li><li> DASC 2025: <a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp" target=_new><u>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp</u></a><br>
 </li><li> PICom 2025: <a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=7ouXBUCuTxknHCtAmiHgpt" target=_new><u>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=7ouXBUCuTxknHCtAmiHgpt</u></a><br>
 </li><li> CBDCom 2025: <a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=1uTSkaMjbjBMAibnke1qFx" target=_new><u>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=1uTSkaMjbjBMAibnke1qFx</u></a>
 </li></ol>
-</font>
+</font></b>
 </p>
 
 <br/>
