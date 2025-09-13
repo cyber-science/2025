@@ -71,7 +71,7 @@ Correct CPS Submission Links:<br>
 <p>
 During preparation of your final camera-ready manuscript, <b>any change to the list of authors and paper title must be informed with valid reasons by emailing 
   <a href="mailto:ieeecyberscitech@gmail.com"><u>ieeecyberscitech@gmail.com</u></a>
-  and must be approved by the conference chairs before September 5, 2025</b>. Failure to do so, your paper may be delayed (or even excluded) from being included in the Proceedings.
+  and must be approved by the conference chairs before September 20, 2025</b>. Failure to do so, your paper may be delayed (or even excluded) from being included in the Proceedings.
 </p>
 <p>
 
@@ -79,6 +79,6 @@ If you have any questions, please e-mail them to  <a href="mailto:ieeecyberscite
 </p>
 <h4>Registration</h4>
 <p>
-All author/presenter registrations must be done by September 5, 2025. The detailed registration instructions can be found on this page: 
+All author/presenter registrations must be done by September 10, 2025. The detailed registration instructions can be found on this page: 
   <br /><a href="https://cyber-science.org/2025/registration/"><u>https://cyber-science.org/2025/registration/</u></a> 
  </p>
