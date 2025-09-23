@@ -65,3 +65,20 @@ Software Engineering Institute of East China Normal University, China
 <b>Biography: </b> Shaoying Liu is a Professor at Software Engineering Institute of East China Normal University, China, IEEE Fellow, BCS Fellow, and AAIA Fellow. He received his Ph.D. in Computer Science from the University of Manchester, U.K., in 1992, and has held research and teaching positions at ten universities in China, the United Kingdom, and Japan, respectively. His research interests include Formal Engineering Methods, Specification-based Program Inspection and Testing, Testing-Based Formal Verification (TBFV), Human Machine Pair Programming (HMPP), and Dependable Computing. Liu is a pioneer and leading researcher in Formal Engineering Methods for Software Development. He founded the ICFEM conference in 1997, SOFL+MVSL workshop in 2012, and SFPVV symposium in 2024, respectively. He designed the SOFL (Structured Object-Oriented Formal Language) specification language and method, authored two books titled "Formal Engineering for Industrial Software Development" and “Agile SOFL: Agile Formal Engineering Method”, respectively, both published by Springer, more than 15 edited books, and over 300 papers in refereed journals and international conferences. He has received many awards, including “Special Achievement Award” from IEEE DSA 2024, 2022 and 2020 “Distinguished Research Awards” from IPSJ/SIGSE respectively, the “20 Year ICFEM Impact Award” from ICFEM 2018, “IEEE Reliability Society Japan Joint Chapter 2016 Best Paper Award”, and “Outstanding Paper Award’’ from ICECCS’96. In recent years, he has served as the General/Conference Chair of several international conferences, including ICFEM 2024, WSSE 2025, and SFPVV 2025.
 </p>
 <hr/>
+
+
+
+<h4>From Performance to Value: Turning AI Advances into Business Impact</h4>
+<img src="/2025/assets/images/keynote_speaker/katsutoshi_yada.jpg" align="left" style="border:10px solid white" width="200">
+<h5><b>Katsutoshi Yada, Professor</b></h5>
+<h6>
+Kansai University, Japan
+</h6>
+<p style="text-align: justify;">
+<b>Abstract: </b>Recent advances in the field of artificial intelligence, particularly in the areas of xLMs and yAI, have attracted considerable attention with regard to technological performance. However, the more critical question for businesses and society is how these advances can be transformed into sustainable value. 
+From a business research perspective, the emphasis will be placed on both the opportunities and risks inherent in this field. The discussion will encompass the potential for value creation, organisational adaptation, and responsible governance to shape AI's long-term contribution to society. By shifting the focus from performance metrics to value-oriented implementation, we can enhance our understanding of how AI can drive sustainable business impact while fostering a more balanced coexistence between technology and human society.
+</p>
+<p style="text-align: justify;">
+<b>Biography: </b> Katsutoshi Yada is Professor of Management Information Systems in the Faculty of Business Data Science , Kansai University and guest professor of Osaka University. He was a visiting scholar of School of Business at Columbia University from 2006 to 2007. His present research interests include data science and AI for business, and information strategy concerning data mining. His papers have appeared in several international journals, including Data Mining and Knowledge Discovery, Soft Computing, Decision Support Systems and others. He received Distinguished Professor Award from Kansai University and many international and domestic awards from academic societies.
+</p>
+<hr/>
