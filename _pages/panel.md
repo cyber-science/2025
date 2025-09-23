@@ -29,7 +29,23 @@ This **XYZ panel**, coinciding with the 70th anniversary of the term ‘Artifici
 <br/><br/><b>Panel Coordinator: </b>
 <br/><b>Ao Guo</b>, Graduate School of Informatics, Nagoya University, Japan
 <br/><br/><b>Panel Speakers: </b>
-TBA
+
+<h4>From Performance to Value: Turning AI Advances into Business Impact</h4>
+<img src="/2025/assets/images/keynote_speaker/katsutoshi_yada.jpg" align="left" style="border:10px solid white" width="200">
+<h5><b>Katsutoshi Yada, Professor</b></h5>
+<h6>
+Kansai University, Japan
+</h6>
+<p style="text-align: justify;">
+<b>Abstract: </b>Recent advances in the field of artificial intelligence, particularly in the areas of xLMs and yAI, have attracted considerable attention with regard to technological performance. However, the more critical question for businesses and society is how these advances can be transformed into sustainable value. 
+<br/>
+From a business research perspective, the emphasis will be placed on both the opportunities and risks inherent in this field. The discussion will encompass the potential for value creation, organisational adaptation, and responsible governance to shape AI's long-term contribution to society. By shifting the focus from performance metrics to value-oriented implementation, we can enhance our understanding of how AI can drive sustainable business impact while fostering a more balanced coexistence between technology and human society.
+</p>
+<p style="text-align: justify;">
+<b>Biography: </b> Katsutoshi Yada is Professor of Management Information Systems in the Faculty of Business Data Science , Kansai University and guest professor of Osaka University. He was a visiting scholar of School of Business at Columbia University from 2006 to 2007. His present research interests include data science and AI for business, and information strategy concerning data mining. His papers have appeared in several international journals, including Data Mining and Knowledge Discovery, Soft Computing, Decision Support Systems and others. He received Distinguished Professor Award from Kansai University and many international and domestic awards from academic societies.
+</p>
+<hr/>
+
 
 <br/>
 <hr/>
