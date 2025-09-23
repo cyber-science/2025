@@ -16,6 +16,7 @@ permalink: /hakodate/
   <li><a href="http://cyber-science.org/2025/assets/hakodate/guide_map_en.pdf" target="_blank">Hakodate Guide Map (PDF)</a></li>
 </ul>
 
+<br>
 <h3>Hotel Accommodation</h3>
 <hr/>
 The Premier Hotel - Cabin President, the conference venue, is about one-minute walk from JR Hakodate Station, the tram, and the bus terminal. Please be reminded that due to high demand, there are no rooms blocked for the conference. You may inquire directly to Premier Hotel.
