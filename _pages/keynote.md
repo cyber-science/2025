@@ -76,6 +76,7 @@ Kansai University, Japan
 </h6>
 <p style="text-align: justify;">
 <b>Abstract: </b>Recent advances in the field of artificial intelligence, particularly in the areas of xLMs and yAI, have attracted considerable attention with regard to technological performance. However, the more critical question for businesses and society is how these advances can be transformed into sustainable value. 
+<br/>
 From a business research perspective, the emphasis will be placed on both the opportunities and risks inherent in this field. The discussion will encompass the potential for value creation, organisational adaptation, and responsible governance to shape AI's long-term contribution to society. By shifting the focus from performance metrics to value-oriented implementation, we can enhance our understanding of how AI can drive sustainable business impact while fostering a more balanced coexistence between technology and human society.
 </p>
 <p style="text-align: justify;">
