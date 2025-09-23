@@ -30,7 +30,6 @@ This **XYZ panel**, coinciding with the 70th anniversary of the term ‘Artifici
 <br/><b>Ao Guo</b>, Graduate School of Informatics, Nagoya University, Japan
 <br/><br/><b>Panel Speakers: </b>
 
-<h4>From Performance to Value: Turning AI Advances into Business Impact</h4>
 <img src="/2025/assets/images/keynote_speaker/katsutoshi_yada.jpg" align="left" style="border:10px solid white" width="200">
 <h5><b>Katsutoshi Yada, Professor</b></h5>
 <h6>
