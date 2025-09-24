@@ -54,7 +54,7 @@ This **XYZ panel**, coinciding with the 70th anniversary of the term ‘Artifici
  </p>
 
 
-<img src="/2025/assets/images/panel_speaker/bin_hu.jpg" align="left" style="border:10px solid white" width="200">
+<img src="/2025/assets/images/panel_speaker/bin_hu.jpg" align="left" style="border:5px solid white" width="150">
 <h5><b>Bin Hu, Professor</b></h5>
 <h6>
 Beijing Institute of Technology, China
@@ -72,7 +72,7 @@ Beijing Institute of Technology, China
 </p>
 
 
-<img src="/2025/assets/images/panel_speaker/jinhua_she.jpg" align="left" style="border:10px solid white" width="200">
+<img src="/2025/assets/images/panel_speaker/jinhua_she.jpg" align="left" style="border:5px solid white" width="150">
 <h5><b>Jinhua She, Professor</b></h5>
 <h6>
 Tokyo University of Technology, Japan
@@ -81,9 +81,7 @@ Tokyo University of Technology, Japan
 <b>Biography: </b> Dr. She received his B.S. degree in engineering from Central South University, Changsha, China, in 1983; and his M.S. and Ph.D. degrees in engineering from Tokyo Institute of Technology, Tokyo, Japan, in 1990 and 1993, respectively. In 1993, he joined the School of Engineering, Tokyo University of Technology, where he is currently a professor. Dr. She's research interests include the applications of control theory, repetitive control, active disturbance rejection, and assistive robotics. He has published more than 400 journal papers and 6 monographs. He received the IFAC (International Federation of Automatic Control) Control Engineering Practice Paper Prize in 1999 (jointly with M. Wu and M. Nakano), and was included in the list of Thomson Reuters' Highly Cited Researchers from 2013 to 2015 and World’s Top 2% Scientists since 2019. Dr. She is an IEEE Fellow, serves as an IEEE HI-TC Advisory Board member (2021-present) and an AdCom member of IEEE IES (2022-2024), was the Delegate of Cluster 4 of IEEE IES Technical Committees (2019-2021), and the chair of the Technical Committee on Human Factors (2017-2018). He is an Associated Editor of IEEE Transactions on Industrial Electronics, IEEE Journal of Emerging and Selected Topics in Industrial Electronics, and IEEJ Journal of Industry Applications, Journal of Advanced Computational Intelligence and Intelligent Informatics, and Intelligence & Robotics; and a Technical Editor of IEEE/ASME Transactions on Mechatronics.
 </p>
 
-
-
-<img src="/2025/assets/images/panel_speaker/qiangfu_zhao.jpg" align="left" style="border:10px solid white" width="200">
+<img src="/2025/assets/images/panel_speaker/qiangfu_zhao.jpg" align="left" style="border:5px solid white" width="150">
 <h5><b>Qiangfu Zhao, Professor</b></h5>
 <h6>
 University of Aizu, Japan
@@ -92,7 +90,7 @@ University of Aizu, Japan
 <b>Biography: </b> Professor Qiangfu Zhao graduated from Tohoku University with a Doctor of Engineering degree in Electronic Engineering in 1988. From 1991 to 1993, he was an associate professor at Beijing Institute of Technology; from 1993 to 1995, he was an associate professor at Tohoku University (Japan); from 1995 to 1999, he was an associate professor at the University of Aizu (Japan); since 1999, he has been a tenured full professor at the University of Aizu. Professor Zhao published more than 200 academic papers related to optimal linear system design, signal / image processing / recognition, neural computing, evolutionary computing, perceptual computing, and machine learning in international journals and international conferences.
 </p>
 
-<img src="/2025/assets/images/panel_speaker/katsutoshi_yada.jpg" align="left" style="border:10px solid white" width="200">
+<img src="/2025/assets/images/panel_speaker/katsutoshi_yada.jpg" align="left" style="border:5px solid white" width="150">
 <h5><b>Katsutoshi Yada, Professor</b></h5>
 <h6>
 Kansai University, Japan
