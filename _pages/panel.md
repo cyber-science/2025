@@ -63,7 +63,6 @@ Beijing Institute of Technology, China
 <b>Biography: </b> Bin Hu is a (Full) Professor and the Dean of the School of Medical Technology at Beijing Institute of Technology, China. He is a National Distinguished Expert, Chief Scientist of 973 as well as National Advanced Worker in 2020. He is a Fellow of IEEE/IET/AAIA and IET Fellow Assessor & Fellowship Advisor. He serves as the Editor-in-Chief for the IEEE Transactions on Computational Social Systems and an Associate Editor for IEEE Transactions on Affective Computing. He is one of Clarivate Highly Cited Researchers, World's Top 2% Scientists and 0.05% Highly Ranked Scholar from ScholarGPS.
 </p>
 <br>
-<br>
  <img src="/2025/assets/images/panel_speaker/claudio.jpg" align="left" style="border:5px solid white" width="150">
 <h5><b>Claudio Miceli, Associate Professor</b></h5>
 <h6>Federal University of Rio de Janeiro, Brazil</h6>
