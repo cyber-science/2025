@@ -65,3 +65,26 @@ Software Engineering Institute of East China Normal University, China
 <b>Biography: </b> Shaoying Liu is a Professor at Software Engineering Institute of East China Normal University, China, IEEE Fellow, BCS Fellow, and AAIA Fellow. He received his Ph.D. in Computer Science from the University of Manchester, U.K., in 1992, and has held research and teaching positions at ten universities in China, the United Kingdom, and Japan, respectively. His research interests include Formal Engineering Methods, Specification-based Program Inspection and Testing, Testing-Based Formal Verification (TBFV), Human Machine Pair Programming (HMPP), and Dependable Computing. Liu is a pioneer and leading researcher in Formal Engineering Methods for Software Development. He founded the ICFEM conference in 1997, SOFL+MVSL workshop in 2012, and SFPVV symposium in 2024, respectively. He designed the SOFL (Structured Object-Oriented Formal Language) specification language and method, authored two books titled "Formal Engineering for Industrial Software Development" and “Agile SOFL: Agile Formal Engineering Method”, respectively, both published by Springer, more than 15 edited books, and over 300 papers in refereed journals and international conferences. He has received many awards, including “Special Achievement Award” from IEEE DSA 2024, 2022 and 2020 “Distinguished Research Awards” from IPSJ/SIGSE respectively, the “20 Year ICFEM Impact Award” from ICFEM 2018, “IEEE Reliability Society Japan Joint Chapter 2016 Best Paper Award”, and “Outstanding Paper Award’’ from ICECCS’96. In recent years, he has served as the General/Conference Chair of several international conferences, including ICFEM 2024, WSSE 2025, and SFPVV 2025.
 </p>
 <hr/>
+
+
+
+
+
+<h4>Cyber-Physical-Social Intelligence</h4>
+<img src="/2025/assets/images/keynote_speaker/Laurence_T_Yang.jpg" align="left" style="border:10px solid white" width="200">
+<h5><b>Laurence Tianruo Yang, Professor</b></h5>
+<h6>
+St Francis Xavier University, Canada and Zhengzhou University, China
+</h6>
+<p style="text-align: justify;">
+<b>Abstract: </b>The booming growth and rapid development in embedded systems, wireless  communications, sensing techniques and emerging support for cloud computing and social networks have enabled researchers and practitioners to create a wide variety of Cyber-Physical-Social Systems (CPSS) that reason intelligently, act autonomously, and respond to the users’ needs in a context and situation-aware manner, namely Cyber-Physical-Social Intelligence.  It is the integration of computation, communication and control with the physical world, human knowledge and sociocultural elements. It is a novel emerging computing paradigm and has attracted wide concerns from both industry and academia in recent years.<br>
+This talk will present our latest research on Cyber-Physical-Social Intelligence. Corresponding case studies in some typical applications will be shown to demonstrate the feasibility and flexibility.
+
+</p>
+<p style="text-align: justify;">
+<b>Biography: </b> Laurence T. Yang got his BE in Computer Science and Technology and BSc in Applied Physics both from Tsinghua University, China and Ph.D in Computer Science from University of Victoria, Canada. He is the Academic Vice-President and Dean of School of Computer Science and Artificial Intelligence, Zhengzhou University, China as well as the W.F James Research Chair of Department of Computer Science, St Francis Xavier University, Canada. His research includes Cyber-Physical-Social Intelligence. He has published 600+ papers in the above area on top IEEE/ACM Transactions with total citations of 45000+ and H-index of 108 including 8 and 44 papers as top 0.1% and top 1% highly cited ESI papers, respectively.<br>
+
+His recent honors and awards include the member of US National Academy of Artificial Intelligence (2025), a foreign member of Russian Academy of Engineering (2024) and a member of Academia Europaea, the Academy of Europe (2021), the John B. Stirling Medal (2021) from Engineering Institute of Canada, IEEE Sensor Council Technical Achievement Award (2020), IEEE Canada C. C. Gotlieb Computer Medal (2020), Clarivate Analytics (Web of Science Group) Highly Cited Researcher (2019, 2020, 2022, 2023, 2024, 2025), Fellow of Institution of Engineering and Technology (2020), Fellow of Institute of Electrical and Electronics Engineers (2020), Fellow of Engineering Institute of Canada (2019), Fellow of Canadian Academy of Engineering (2017), etc.
+
+</p>
+<hr/>
