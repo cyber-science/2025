@@ -67,9 +67,6 @@ Software Engineering Institute of East China Normal University, China
 <hr/>
 
 
-
-
-
 <h4>Cyber-Physical-Social Intelligence</h4>
 <img src="/2025/assets/images/keynote_speaker/Laurence_T_Yang.jpg" align="left" style="border:10px solid white" width="200">
 <h5><b>Laurence Tianruo Yang, Professor</b></h5>
