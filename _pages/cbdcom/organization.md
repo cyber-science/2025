@@ -17,8 +17,7 @@ Hui-Huang Hsu, Tamkang University (Taiwan)
 <h4>Advisory Chairs</h4>
 Qiangfu Zhao, The University of Aizu (Japan)<br>
 Junzhou Luo, Southeast University (China)<br>
-Seng W. Loke, Deakin University (Australia)<br>
-Carson Leung, University of Manitoba (Canada)
+Seng W. Loke, Deakin University (Australia)
 
 <h4>General Chairs</h4>
 Xiaohong Jiang, Future University Hakodate (Japan)<br>
@@ -71,4 +70,5 @@ Noriaki Kamiyama, Ritsumeikan University (Japan)<br>
 Masaki Aida, Tokyo Metropolitan University (Japan)<br>
 Yufeng Wang, Nanjing University of Posts and Telecommunications (China)<br>
 Zengwei Zheng, Hangzhou City University (China)<br>
-Xiangfeng Luo, Shanghai University (China)
+Xiangfeng Luo, Shanghai University (China)<br>
+Carson Leung, University of Manitoba (Canada)
