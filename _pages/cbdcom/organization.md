@@ -17,7 +17,7 @@ Hui-Huang Hsu, Tamkang University (Taiwan)
 <h4>Advisory Chairs</h4>
 Qiangfu Zhao, The University of Aizu (Japan)<br>
 Junzhou Luo, Southeast University (China)<br>
-Seng W. Loke, Deakin University (Australia)
+Seng W. Loke, Deakin University (Australia)<br>
 Carson Leung, University of Manitoba (Canada)
 
 <h4>General Chairs</h4>
