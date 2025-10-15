@@ -18,7 +18,7 @@ Hui-Huang Hsu, Tamkang University (Taiwan)
 Qiangfu Zhao, The University of Aizu (Japan)<br>
 Junzhou Luo, Southeast University (China)<br>
 Seng W. Loke, Deakin University (Australia)
-
+Carson Leung, University of Manitoba (Canada)
 
 <h4>General Chairs</h4>
 Xiaohong Jiang, Future University Hakodate (Japan)<br>
