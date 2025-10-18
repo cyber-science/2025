@@ -58,6 +58,9 @@ Chen Yang, Chinese Academy of Sciences (China)
 <h4> Publication Chair </h4>
 Ao Guo, Nagoya University (Japan)<br>
 
+<h4> Web Chair </h4>
+Bo Wu, Tokyo University of Technology (Japan)
+
 <h4>Steering Committee</h4>
 Jianhua Ma (Chair), Hosei University (Japan)<br>
 Hui-Huang Hsu, Tamkang University (Taiwan)<br>
@@ -101,5 +104,3 @@ Qinggou Zhou, Lanzhou University (China)<br>
 John Paul C. Vergara, Ateneo de Manila University (Philippines)<br>
 Wei Lu, Beijing Jiaotong University (China)
 
-<h4> Web Chair </h4>
-Bo Wu, Tokyo University of Technology (Japan)
