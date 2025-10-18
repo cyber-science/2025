@@ -66,4 +66,5 @@ Victor Chang, Aston University (UK)
 Jianhua Ma, Hosei University (Japan)<br>
 Laurence T. Yang, St. Francis Xavier Univ. (Canada)<br>
 Adnan Al-Anbuky, Auckland U Tech. (New Zealand)<br>
-Flavia C. Delicato, Fluminense Federal University (Brazil)
+Flavia C. Delicato, Fluminense Federal University (Brazil)<br>
+Qun Jin, Waseda University (Japan)
