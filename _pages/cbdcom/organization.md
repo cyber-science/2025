@@ -73,6 +73,6 @@ Zengwei Zheng, Hangzhou City University (China)<br>
 Xiangfeng Luo, Shanghai University (China)<br>
 Carson Leung, University of Manitoba (Canada)
 
-<h4>Web Chair</h4>
+<h4>Web Chairs</h4>
 Ao Guo, Nagoya University (Japan)<br>
 Bo Wu, Tokyo University of Technology (Japan)
