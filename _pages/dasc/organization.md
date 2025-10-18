@@ -58,6 +58,6 @@ Yoshitaka Shibata, Iwate Prefectural University (Japan)<br/>
 Paulo Pires, Fluminense Federal University (Brazil)<br/>
 Tao Ban, Cybersecurity Research Institute (Japan)
 
-<h4>Web Chair</h4>
+<h4>Web Chairs</h4>
 Ao Guo, Nagoya University (Japan)<br>
 Bo Wu, Tokyo University of Technology (Japan)
