@@ -68,3 +68,7 @@ Laurence T. Yang, St. Francis Xavier Univ. (Canada)<br>
 Adnan Al-Anbuky, Auckland U Tech. (New Zealand)<br>
 Flavia C. Delicato, Fluminense Federal University (Brazil)<br>
 Qun Jin, Waseda University (Japan)
+
+<h4>Web Chair</h4>
+Ao Guo, Nagoya University (Japan)<br>
+Bo Wu, Tokyo University of Technology (Japan)
