@@ -27,6 +27,10 @@ Junjun Zheng, Hiroshima University (Japan)<br>
 Luis Guillen, Tohoku University (Japan)<br>
 Thomas TY Win, University of Sunderland (UK)
 
+<h4>Web Chairs</h4>
+Ao Guo, Nagoya University (Japan)<br>
+Bo Wu, Tokyo University of Technology (Japan)
+
 <h4>Workshop & Special Session Chairs</h4>
 Noriaki Kamiyama, Ritsumeikan University (Japan)<br>
 Paramin Sangwongngam, National Electronics and Computer Technology Center (Thailand)
@@ -58,6 +62,3 @@ Yoshitaka Shibata, Iwate Prefectural University (Japan)<br/>
 Paulo Pires, Fluminense Federal University (Brazil)<br/>
 Tao Ban, Cybersecurity Research Institute (Japan)
 
-<h4>Web Chairs</h4>
-Ao Guo, Nagoya University (Japan)<br>
-Bo Wu, Tokyo University of Technology (Japan)
