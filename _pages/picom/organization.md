@@ -31,6 +31,10 @@ Claudio Miceli, Federal University of Rio de Janeiro (Brazil)<br>
 Ao Guo, Nagoya University (Japan)<br>
 Lidia Fotia, University of Salerno (Italy)
 
+<h4>Web Chairs</h4>
+Ao Guo, Nagoya University (Japan)<br>
+Bo Wu, Tokyo University of Technology (Japan)
+
 <h4>Track Chairs</h4>
 Federico Santoro, University of Catania (Italy)<br>
 Marco Miozzo, CTTC (Spain)<br>
@@ -69,6 +73,3 @@ Adnan Al-Anbuky, Auckland U Tech. (New Zealand)<br>
 Flavia C. Delicato, Fluminense Federal University (Brazil)<br>
 Qun Jin, Waseda University (Japan)
 
-<h4>Web Chairs</h4>
-Ao Guo, Nagoya University (Japan)<br>
-Bo Wu, Tokyo University of Technology (Japan)
