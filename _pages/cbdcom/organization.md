@@ -54,6 +54,10 @@ Zhuotao Lian, Hiroshima University (Japan)<br>
 Binbin Zhou, Hangzhou City University (China)<br>
 Kai Su, Jiangxi Agricultural University (China)
 
+<h4>Web Chairs</h4>
+Ao Guo, Nagoya University (Japan)<br>
+Bo Wu, Tokyo University of Technology (Japan)
+
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br>
 Laurence T. Yang, St. Francis Xavier University (Canada)<br>
@@ -73,6 +77,3 @@ Zengwei Zheng, Hangzhou City University (China)<br>
 Xiangfeng Luo, Shanghai University (China)<br>
 Carson Leung, University of Manitoba (Canada)
 
-<h4>Web Chairs</h4>
-Ao Guo, Nagoya University (Japan)<br>
-Bo Wu, Tokyo University of Technology (Japan)
