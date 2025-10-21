@@ -4,10 +4,6 @@ layout: sub-voting
 permalink: /poster-voting/
 ---
 
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Poster Voting – Coming Soon</title>
 </head>
 <body>
