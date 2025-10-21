@@ -1,6 +1,6 @@
 ---
 title: Poster Voting
-layout: sub-voting
+layout: sub
 permalink: /poster-voting/
 ---
 
