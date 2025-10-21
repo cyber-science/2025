@@ -129,13 +129,16 @@ permalink: /poster-voting/
     </div>
   </div>
 
-  <!-- Denied screen (already marked on this device before opening the form) -->
-  <div class="card hidden" id="denied">
-    <h2>Already submitted on this device</h2>
-    <p class="muted">If you need to re-vote due to an error, please contact the organizing committee.</p>
-    <div style="margin-top:8px;">
-      <button class="btn" onclick="location.reload()">Refresh</button>
-    </div>
+<div class="card hidden" id="denied">
+  <h2>Already submitted on this device</h2>
+  <p class="muted">
+    If you need to re-vote due to an error, please ask an organizer to enable re-submission on
+    <em>this device only</em>.
+  </p>
+  <div style="margin-top:8px; display:flex; gap:8px; flex-wrap:wrap;">
+    <button class="btn" onclick="organizerUnlock()">Re-vote (Organizer PIN required)</button>
+    <button class="btn" onclick="location.reload()">Refresh</button>
   </div>
+</div>
 </body>
 </html>
