@@ -11,8 +11,8 @@ permalink: /poster-voting-backup/
 <title>2025 IEEE CyberSciTech/DASC/PICom/CBDCom – Voting for the Best Poster</title>
 <style>
   html, body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; margin:0; padding:0; background:#fff; color:#111; }
-  .card { max-width: 800px; margin: 0 auto; padding: 20px 16px; }
-  h2 { font-size: 1.25rem; line-height: 1.4; margin-bottom: 8px; }
+  .card { max-width: 800px; margin: 0 auto; padding: 20px 16px; text-align: center;}
+  h2 { font-size: 1.25rem; line-height: 1.4; margin-bottom: 8px; text-align: center;}
   .muted { color:#555; font-size:0.95rem; line-height:1.5; }
   .hidden { display:none; }
   .btn { display:inline-block; padding:10px 18px; border:1px solid #ccc; border-radius:8px; background:#f8f8f8; cursor:pointer; font-size:0.95rem; }
